@@ -1,0 +1,70 @@
+
+.titulo
+{
+	height:75px;
+}
+
+.subtit
+{
+	color:#5a7f91;
+	font-size:20px;
+}
+
+/* box
+------------------------------------------------------------------------------------ */
+
+.box
+{
+	height:40px;
+	padding:20px;
+	margin-bottom:30px;
+	background-color:#f3f4f1;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.box li
+{
+	margin-left:18px;
+	width:208px;
+	float:left;
+}
+
+.box li:first-child
+{
+	margin-left:0;
+}
+
+.box a
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	
+	background-image:url(../../imgs/licitacoes/bot-bkg.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:14px 0 0 36px;
+	overflow:hidden;
+	display:block;
+	height:26px;
+	width:208px;
+	color:#fff;
+}
+
+.box a:hover
+{
+	background-position:left -40px;
+}
+
+.info a
+{
+	color:#7b8843;
+	font-size:12px;
+}
+
+.info a:hover
+{
+	color:#aab86e;
+}
+

@@ -1,0 +1,681 @@
+.conteudo
+{
+	width:740px;
+	margin-top:-30px;
+}
+
+/*	banner
+------------------------------------------------------------------------------------------- */
+
+.bannerHome
+{
+	width:740px;
+	height:315px;
+	overflow:hidden;
+	margin-bottom:20px;
+	border-radius:5px;
+	behavior:url(library/plugins/css3pie/PIE.php);
+}
+
+.bannerHome img
+{
+	display:block;
+	border-radius:5px;
+	behavior:url(library/plugins/css3pie/PIE.php);
+}
+
+.bannerHome .slider
+{
+	width:9999px;
+	height:315px;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	transition: all 300ms ease-in-out;
+}
+
+.bannerHome .slider li
+{
+	float:left;
+}
+
+.bannerHome .slider li a
+{
+	z-index:3;
+	width:740px;
+	height:315px;
+	display:block;
+	position:absolute;
+	background-image:url(../../imgs/home/1px.png);
+}
+
+.bannerHome .slider .legenda
+{
+	z-index:2;
+	color:#fff;
+	width:700px;
+	padding:40px 20px 20px;
+	display:table;
+	position:relative;
+	vertical-align:middle;
+	margin:168px 0 -346px;
+	font-family:"zwo3", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.bannerHome .slider:hover
+{
+	opacity:0.8;
+}
+
+.bannerHome .slider h2
+{
+	color:#95c0d5;
+	display:block;
+	font-size:23px;
+	line-height:24px;
+	margin-bottom:5px;
+	font-weight:normal;
+	font-family:"zwo6", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.bannerHome .slider .bkg
+{
+	z-index:1;
+	width:100%;
+	opacity:0.7;
+	height:90px;
+	display:block;
+	position:relative;
+	background-color:#000;
+	margin:251px 0 -307px;
+}
+
+.bannerHome .slider .legenda div
+{
+	opacity:1;
+	height:64px;
+	display:table-cell;
+	vertical-align:middle;
+	
+	width:700px;
+	display:block;
+	padding-top:20px;
+}
+
+/*	nav-slider
+------------------------------------------------------------------------------------------- */
+
+.nav-slider
+{
+	z-index:5;
+	width:720px;
+	margin-top:290px;
+	position:absolute;
+}
+
+.nav-slider div
+{
+	float:right;
+	text-align:right;
+}
+
+.nav-slider div a
+{
+	float:left;
+	width:20px;
+	height:20px;
+	color:#020618;
+	display:block;
+	font-size:12px;
+	margin-left:2px;
+	line-height:20px;
+	border-radius:4px;
+	text-align:center;
+	background-color:#95c0d5;
+	transition: all 200ms ease-in-out;
+	behavior:url(library/plugins/css3pie/PIE.php);
+	font-family:"zwo6", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.nav-slider div a.pager-active
+{
+	height:30px;
+	color:#95c0d5;
+	background-color:#020618;
+}
+
+.nav-slider div a:hover
+{
+	background-color:#badff1;
+}
+
+/*	destaques
+------------------------------------------------------------------------------------------- */
+
+.destaques
+{
+	width:100%;
+	display:table;
+	padding-bottom:20px;
+	border-bottom:1px solid #e6e7e3;
+}
+
+.destaques .imagens
+{
+	width:350px;
+	padding-right:20px;
+	display:table-cell;
+	vertical-align:top;
+}
+
+.destaques .imagens a,
+.destaques .imagens img
+{
+	display:block;
+	overflow:hidden;
+	border-radius:4px;
+	margin-bottom:2px;
+}
+
+.noticias
+{
+	padding-top:20px;
+}
+
+.noticias li
+{
+	margin-bottom:10px;
+}
+
+.noticias li h3
+{
+	margin-top:5px;
+	font-weight:normal;
+	font-family:"zwo3", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.noticias li span
+{
+	display:block;
+	color:#b6b8aa;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.noticias li a
+{	
+	color:#5a7f91;
+	font-size:16px;
+	line-height:15px;
+}
+
+.noticias li a:hover
+{
+	opacity:0.5;
+}
+
+/*	bannersInstitucionais
+------------------------------------------------------------------------------------------- */
+
+.bannersInstitucionais
+{
+	padding-bottom:30px;
+	margin:20px 0 0 -2px;
+	border-bottom:1px solid #e6e7e3;
+}
+
+.bannersInstitucionais a
+{
+	float:left;
+	height:93px;
+	display:block;
+	overflow:hidden;
+	margin:0 2px 2px 0;
+}
+
+.bannersInstitucionais a:hover img
+{
+	margin-top:-93px;
+}
+
+.bannersInstitucionais .full
+{
+	height:113px;
+}
+
+.bannersInstitucionais .full:hover img
+{
+	margin-top:-113px;
+}
+
+/*	acessoRapido
+------------------------------------------------------------------------------------------- */
+
+.acessoRapido
+{
+	margin-top:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid #e6e7e3;
+}
+
+.acessoRapido .sessoes
+{
+	float:left;
+	width:370px;
+}
+
+.acessoRapido .sessoes h2,
+.acessoRapido .sessoes h2 a
+{
+	color:#5a7f91;
+	font-size:18px;
+	font-weight:normal;
+	font-family:"zwo6Italic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.acessoRapido .sessoes p
+{
+	margin:2px 0 10px 0;
+}
+
+.acessoRapido ul
+{
+	margin:10px 0;
+}
+
+.acessoRapido li
+{
+	margin:3px 0;
+	color:#b6b8aa;
+	font-size:16px;
+}
+
+.acessoRapido li a
+{
+	color:#5a7f91;
+	font-size:14px;
+	padding:4px 0 4px 13px;
+	background-repeat:no-repeat;
+	background-position:left center;
+	background-image:url(../../imgs/geral/mid-lista.png);
+}
+
+.acessoRapido li a:hover
+{
+	color:#8bb9d0;
+}
+
+/*	acessoRapido / botDuvidas
+------------------------------------------------------------------------------------------- */
+
+.acessoRapido .botDuvidas
+{
+	border-top:1px solid #e8e9e5;
+	padding-top:30px;
+}
+
+.acessoRapido .botDuvidas a
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:7px 0 2px 20px;
+	font-size:13px;
+	color:#5a7f91;
+}
+
+.acessoRapido .botDuvidas a:hover
+{
+	color:#9fc0d0;
+}
+
+.acessoRapido .clear
+{
+	float:none;
+}
+
+/*	acessoRapido / aoVivo
+------------------------------------------------------------------------------------------- */
+
+.acessoRapido .aoVivo
+{
+	color:#fff;
+	float:right;
+	width:350px;
+	height:260px;
+	display:block;
+	font-size:14px;
+	background-repeat:no-repeat;
+	background-position:left top;
+	background-image:url(../../imgs/home/img-tv-camara.jpg);
+	
+	transition: all 400ms ease-in-out;
+}
+
+.acessoRapido .aoVivo b,
+.acessoRapido .aoVivo strong
+{
+	display:block;
+	font-size:18px;
+	font-weight:normal;
+	font-family:"zwo6", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.acessoRapido .aoVivo b 
+{
+	font-size:14px;
+}
+
+.acessoRapido .aoVivo span
+{
+	display:block;
+	margin:188px 0 0 10px;
+}
+
+.acessoRapido .aoVivo:hover
+{
+	opacity:0.7;
+}
+
+/*	leisTV
+------------------------------------------------------------------------------------------- */
+
+.leisTV 
+{
+	width:100%;
+	display:table;
+	margin-top:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid #e6e7e3;
+}
+
+.leisTV .leis
+{
+	display:table-cell;
+	vertical-align:top;
+}
+
+.leisTV .leis a
+{
+	float:left;
+	height:55px;
+	width:330px;
+	color:#a1a393;
+	display:block;
+	font-size:20px;
+	line-height:55px;
+	margin-bottom:2px;
+	border-radius:4px;
+	padding-left:36px;
+	background-color:#f2f3e9;
+	background-repeat:no-repeat;
+	background-position:left center;
+	transition: all 300ms ease-in-out;
+	background-image:url(../../imgs/home/mid-leis.png);
+	font-family:"zwo3Italic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	
+	behavior:url(library/plugins/css3pie/PIE.php);
+}
+
+.leisTV .leis a:first-child
+{
+	margin-right:4px;
+}
+
+.leisTV .leis a strong
+{
+	font-size:20px;
+	font-family:"zwo6Italic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.leisTV .leis a:hover
+{
+	background-color:#e7e8dc;
+}
+
+
+.leisTV .tv
+{
+	width:350px;
+	padding-top:25px;
+}
+
+.leisTV .tv a
+{
+	height:65px;
+	display:block;
+	overflow:hidden;
+}
+
+.leisTV .tv a img
+{
+	display:block;
+}
+
+.leisTV .tv a:hover img
+{
+	margin-top:-65px;
+}
+
+/* agendaEventos
+------------------------------------------------------------------------------------------- */
+
+.agendaEventos
+{
+	margin:20px 0 30px 0;
+}
+
+.agendaEventos h2
+{
+	font-weight:normal;
+	font-style:italic;
+	font-size:20px;
+	color:#7b8843;
+}
+
+/* calendario
+------------------------------------------------------------------------------------------- */
+
+.agendaEventos .calendario
+{
+	float:left;
+	width:330px;
+	margin-top:10px;
+}
+
+.agendaEventos .calendario .mesNav
+{
+	background-image:url(../../imgs/geral/navegacao/barra.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	display:block;
+	height:40px;
+}
+
+.agendaEventos .calendario .mesNav p
+{
+	text-align:center;
+	padding-top:12px;
+	font-size:13px;
+	color:#fff;
+	margin:0;
+}
+
+.agendaEventos .calendario .mesNav .botAnt,
+.agendaEventos .calendario .mesNav .botProx
+{
+	position:absolute;
+	overflow:hidden;
+	height:14px;
+	width:11px;
+}
+
+.agendaEventos .calendario .mesNav .botAnt:hover img,
+.agendaEventos .calendario .mesNav .botProx:hover img
+{
+	margin-top:-14px;
+}
+
+.agendaEventos .calendario .mesNav .botAnt
+{
+	margin:14px 0 0 10px;
+}
+
+.agendaEventos .calendario .mesNav .botProx
+{
+	margin:14px 0 0 310px;
+}
+
+/* calendario TABELA
+------------------------------------------------------------------------------------------- */
+
+.agendaEventos .calendario table td
+{
+	height:30px;
+	color:#b6b8aa;
+	font-size:16px;
+	text-align:center;
+}
+
+.agendaEventos .calendario table thead td
+{
+	font-weight:bold;
+}
+
+.agendaEventos .calendario table td a
+{
+	background-image:url(../../imgs/home/calendario/bg-repeat-x.png);
+	background-position:center bottom;
+	background-repeat:repeat-x;
+	background-color:#8d9a4d;
+	padding:5px 0 5px 0;
+	display:block;
+	color:#fff;
+
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+}
+
+/* evento
+------------------------------------------------------------------------------------------- */
+
+.agendaEventos .evento
+{
+	float:right;
+	width:330px;
+}
+
+.agendaEventos .evento .data
+{
+	color:#b6b8aa;
+	font-size:12px;
+	margin-top:25px;
+	text-align:right;
+	padding-bottom:10px;
+	border-bottom:1px solid #e8e9e5;
+}
+
+.agendaEventos .evento li strong
+{
+	font-size:12px;
+	color:#7b8843;
+}
+
+.agendaEventos .evento li
+{
+	margin-bottom:20px;
+}
+
+.agendaEventos .evento li a:hover strong
+{
+	color:#afb78e;
+}
+
+.agendaEventos .evento li a:hover
+{
+	color:#7e7f81;
+}
+
+.agendaEventos .evento .vejaMaisEventos
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:6px 0 3px 20px;
+	font-size:14px;
+	color:#5a7f91;
+}
+
+.agendaEventos .evento .vejaMaisEventos:hover
+{
+	color:#8fafbf;
+}
+
+/*	redesSociais
+------------------------------------------------------------------------------------------- */
+
+.redesSociaisRodape
+{
+	margin-bottom:60px;
+}
+
+.redesSociaisRodape .twitter
+{
+	float:left;
+	width:310px;
+	height:465px;
+	padding:20px;
+	border-radius:4px;
+	background-color:#90a7b2;
+}
+
+.redesSociaisRodape .twitter h3,
+.redesSociaisRodape .twitter h3 a
+{
+	height:35px;
+	color:#214658;
+	font-size:20px;
+	margin:0 0 0 -6px;
+	text-transform:uppercase;
+	font-family:"zwo6", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.redesSociaisRodape .twitter h3 img
+{
+	float:left;
+}
+
+.redesSociaisRodape .twitter .area
+{
+	height:400px;
+	overflow:hidden;
+	margin-bottom:10px;
+}
+
+.redesSociaisRodape .twitter .area li
+{
+	color:#e6e7e3;
+	padding:15px 0 15px 0;
+	border-bottom:1px solid #b1ccd9;
+}
+
+.redesSociaisRodape .twitter .area a
+{
+	color:#13313f;
+	display:block;
+}
+
+.redesSociaisRodape .twitter a:hover img,
+.redesSociaisRodape .twitter .area a:hover
+{
+	opacity:0.7;
+}
+
+
+.fb-like-box
+{
+	float:right;
+	background-color:#fff;
+}
+

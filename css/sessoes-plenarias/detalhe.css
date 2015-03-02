@@ -1,0 +1,35 @@
+.titulo
+{
+	height:70px;
+	margin-bottom:20px;
+}
+
+.cabecalho .data
+{
+	color:#d6bf27;
+	font-size:14px;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.cabecalho p
+{
+	color:#5a7f91;
+	font-size:16px;
+}
+
+.cabecalho .info
+{
+	color:#2a2b2e;
+	font-size:14px;
+}
+
+.cabecalho .info strong
+{
+	font-weight:normal;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.imgDestaque
+{
+	margin:0 20px 20px 0;
+}

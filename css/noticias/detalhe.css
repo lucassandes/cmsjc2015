@@ -1,0 +1,356 @@
+.titulo
+{
+	margin-bottom: 20px;
+    margin-top: -15px
+}
+
+/*	header
+--------------------------------------------------------------------------------------- */
+
+.header
+{
+	clear:both;
+	height:40px;
+}
+
+.header .midias
+{
+	float:left;
+	height:25px;
+}
+
+.header .midias li
+{
+	float:left;
+	margin-right:10px;
+}
+
+.header .midias li .twitter-share-button
+{
+	width:80px !important;
+}
+
+.header .funcoes
+{
+	float:right;
+}
+
+.header .funcoes a
+{
+	float:left;
+	height:20px;
+	display:block;
+	color:#7b8843;
+	font-size:12px;
+	line-height:20px;
+	margin-left:20px;
+	padding:0 25px 0 0;
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+
+.header .funcoes a:hover
+{
+	color:#b0c35f;
+}
+
+.header .funcoes a.email
+{
+	background-image:url(../../imgs/noticias/icon-email.png);
+}
+
+.header .funcoes a.print
+{
+	background-image:url(../../imgs/noticias/icon-print.png);
+}
+
+.header .funcoes a.rss
+{
+	background-image:url(../../imgs/noticias/icon-rss.png);
+}
+
+/*	data
+--------------------------------------------------------------------------------------- */
+
+.data
+{
+	color:#d6bf27;
+	margin-bottom:0;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.conteudo h2
+{
+	color:#707169;
+	font-size:30px;
+	margin:0 0 10px 0;
+	font-weight:normal;
+	font-family:"zwo3", Tahoma, Geneva, sans-serif;
+}
+
+.conteudo h3
+{
+	color:#5a7f91;
+	margin-top:10px;
+	font-size:16px;
+	margin-bottom:30px;
+	font-weight:normal;
+	font-family:"zwo3", Tahoma, Geneva, sans-serif;
+}
+
+.conteudo .imgDestaque
+{
+	float:left;
+	display:block;
+	border-radius:3px;
+	margin:30px 30px 20px 0;
+	behavior:url(library/plugins/css3pie/PIE.php);
+}
+
+.conteudo .fckEditor
+{
+	margin:30px 0;
+	line-height:1.45em;
+}
+
+.conteudo .fckEditor p
+{
+	line-height:1.45em;
+}
+
+.conteudo .fckEditor b,
+.conteudo .fckEditor strong
+{
+	font-weight:normal;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.conteudo .fckEditor a
+{
+	color:#5b7f91;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.conteudo .fckEditor a:hover
+{
+	color:#d6bf28;
+}
+
+/*	artigos
+--------------------------------------------------------------------------------------- */
+
+.artigos h3,
+.galeriaFotos h3
+{
+	color:#7b8843;
+	font-size:20px;
+	font-family:"zwo3Italic", Tahoma, Geneva, sans-serif;
+}
+
+.artigos li
+{
+	margin-top:10px;
+}
+
+.artigos li a
+{
+	background-image:url(../../imgs/noticias/bg-arquivos.png);
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	behavior:url(library/plugins/css3pie/PIE.php);
+	background-position:left top;
+	background-repeat:repeat-x;
+	border-radius:4px;
+	line-height:40px;
+	padding:0 20px;
+	display:block;
+	height:40px;
+	color:#fff;
+}
+
+.artigos li a span
+{
+	background-image:url(../../imgs/noticias/mid.png);
+	background-position:left 16px;
+	background-repeat:no-repeat;
+	padding-left:20px;
+	float:right;
+}
+
+.artigos li:hover
+{
+	opacity:0.8;
+}
+
+.video,
+.audio,
+.artigos
+{
+	margin-bottom:50px;
+}
+
+/*	popEmail
+--------------------------------------------------------------------------------------- */
+
+.popEmail
+{
+	width:520px;
+	height:265px;
+	border-radius:3px;
+	background-color:#95c0d5;
+	behavior:url(library/plugins/css3pie/PIE.php);
+	display:none;
+}
+
+.popEmail strong
+{
+	display:block;
+	margin-top:20px;
+	color:#fff;
+	font-size:14px;
+}
+
+.popEmail>div
+{
+	padding:25px 20px;
+}
+
+.popEmail h3
+{
+	margin:0;
+	color:#fff;
+	font-size:20px;
+}
+
+.popEmail ul
+{
+	margin-top:15px;
+}
+
+.popEmail li
+{
+	color:#fff;
+	float:left;
+	font-size:16px;
+}
+
+.popEmail li:first-child
+{
+	margin-right:40px;
+}
+
+.popEmail li span
+{
+	height:40px;
+	width:220px;
+	display:block;
+	margin-top:4px;
+	border-radius:3px;
+	background-color:#fff;
+	behavior:url(library/plugins/css3pie/PIE.php);
+}
+
+.popEmail li span input
+{
+	width:200px;
+	margin:10px 0 0 10px;
+	background-color:transparent;
+}
+
+.popEmail .bot
+{
+	float:right;
+}
+
+.popEmail .bot div
+{
+	width:162px;
+	height:119px;
+	display:block;
+	overflow:hidden;
+	margin-top:15px;
+}
+
+.popEmail .bot div:hover input
+{
+	margin-top:-119px;
+}
+
+.popEmail .fechar
+{
+	width:30px;
+	height:30px;
+	display:block;
+	overflow:hidden;
+	position:absolute;
+	margin:-40px 0 0 450px;
+}
+
+.popEmail .fechar:hover img
+{
+	margin-top:-30px;
+}
+
+/*	popRSS
+--------------------------------------------------------------------------------------- */
+
+.popRSS
+{
+	color:#fff;
+	width:480px;
+	padding:20px;
+	font-size:14px;
+	border-radius:3px;
+	background-color:#95c0d5;
+	behavior:url(library/plugins/css3pie/PIE.php);
+	display:none;
+}
+
+.popRSS .fechar
+{
+	width:30px;
+	height:30px;
+	display:block;
+	overflow:hidden;
+	position:absolute;
+	margin:-35px 0 0 450px;
+}
+
+.popRSS .fechar:hover img
+{
+	margin-top:-30px;
+}
+
+.popRSS h3
+{
+	color:#fff;
+	font-size:20px;
+	margin:0 0 15px 0;
+}
+
+.popRSS p
+{
+	margin:3px 0 10px 0;
+}
+
+.popRSS .noticias
+{
+	color:#1c5875;
+	margin:25px 0;
+	padding:20px 0;
+	border-top:1px solid #aacddd;
+	border-bottom:1px solid #aacddd;
+}
+
+.popRSS .noticias h3
+{
+	margin:0;
+	color:#1c5875;
+}
+
+.popRSS .noticias a
+{
+	color:#1c5875;
+}
+
+
+

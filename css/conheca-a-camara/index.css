@@ -1,0 +1,155 @@
+.titulo
+{
+	height:83px;
+}
+
+.faixada
+{
+	background-image:url(../../imgs/conheca-a-camara/bkg.png);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	margin:-13px 0 40px 0;
+	height:376px;
+}
+
+.predio
+{
+	margin-top:35px;
+}
+
+.predio .galeria
+{
+	width:330px;
+	float:left;
+}
+
+.predio h2
+{
+	font-weight:normal;
+	font-size:20px;
+	color:#7b8843;
+}
+
+.predio .colunaDireita
+{
+	float:right;
+	width:330px;
+}
+
+.predio .galeria>span
+{
+	color:#fff;
+	width:310px;
+	display:block;
+	position:absolute;
+	margin:210px 0 0 10px;
+}
+
+.predio .galeria .outrasImg
+{
+	margin:10px 0 10px 0;
+	overflow:hidden;
+	height:103px;
+	width:330px;
+}
+
+.predio .galeria .outrasImg td
+{
+	padding-right:11px;
+	height:103px;
+	width:103px;
+}
+
+.predio .galeria .outrasImg td a
+{
+	width:103px;
+	height:103px;
+	display:block;
+}
+
+.predio .galeria .navegacao
+{
+	background-image:url(../../imgs/geral/navegacao/barra.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	display:block;
+	height:40px;
+}
+
+.predio .galeria .navegacao .botAnt,
+.predio .galeria .navegacao .botProx
+{
+	position:absolute;
+	overflow:hidden;
+	height:14px;
+	width:11px;
+}
+
+.predio .galeria .navegacao .botAnt:hover img,
+.predio .galeria .navegacao .botProx:hover img
+{
+	margin-top:-14px;
+}
+
+.predio .galeria .navegacao .botAnt
+{
+	margin:14px 0 0 10px;
+}
+
+.predio .galeria .navegacao .botProx
+{
+	margin:14px 0 0 310px;
+}
+
+/* setores
+------------------------------------------------------------------------------------------------------------ */
+
+.setores h2
+{
+	margin-top:70px;
+	font-weight:normal;
+	font-size:20px;
+	color:#d6bf27;
+}
+
+.setores .info
+{
+	margin:10px 0 50px 0;
+}
+
+.setores h3
+{
+	margin:10px 0;
+	color:#7b8843;
+	font-size:20px;
+	font-weight:normal;
+	font-family:"zwo3Italic", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.setores .telefones
+{
+	color:#7b8843;
+	font-size:12px;
+	margin:20px 0 10px 0;
+}
+
+.setores ul li,
+.setores ul li a
+{
+	color:#5a7f91;
+	font-size:12px;
+}
+
+.setores ul li
+{
+	margin:4px 0;
+	padding-left:13px;
+	background-repeat:no-repeat;
+	background-position:left 4px;
+	background-image:url(../../imgs/geral/mid-lista.png);
+}
+
+.setores ul li a:hover
+{
+	color:#65aacc;
+}

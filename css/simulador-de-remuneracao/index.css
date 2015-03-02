@@ -1,0 +1,222 @@
+.formulario
+{
+	display: block;
+	margin-top: 40px;
+	color: #B6B8AA;
+    font-size: 16px;
+}
+
+.formulario li
+{
+	float: left;
+	margin: 0 35px 20px 0;
+}
+
+.formulario .gratificacao
+{
+	width: 330px;
+}
+
+.formulario .input330
+{
+	width: 331px;
+}
+
+.formulario .input330 span select,
+.formulario .li-pregao li select
+{
+	width: 310px;
+}
+
+.formulario .input280 span select
+{
+	width: 260px;
+}
+
+.formulario .input700 span select
+{
+	width: 680px;
+}
+
+.formulario .input330 span,
+.formulario .input280 span,
+.formulario .input700 span,
+.formulario .li-pregao li span
+{
+	height: 43px;
+	display: block;
+}
+
+.formulario .input330 span
+{
+	background: url("../../imgs/fale-conosco/input330.png") left top no-repeat;
+}
+
+.formulario .input280 span
+{
+	width: 283px;
+	background: url("../../imgs/simulador-de-remuneracao/input280.png") left top no-repeat;
+}
+
+.formulario .input700 span
+{
+	width: 702px;
+	background: url("../../imgs/simulador-de-remuneracao/input700.png") left top no-repeat;
+}
+
+.formulario .li-pregao li span
+{
+	float: left;
+	margin-left: 20px;
+	width: 331px;
+	background: url("../../imgs/fale-conosco/input330.png") left top no-repeat;
+}
+
+.formulario .li-pregao .titulo
+{
+	width: 51px;
+	height: 20px;
+	display: inline-block;
+	background-image: none;
+	margin: 10px 0 0 0;
+}
+
+.formulario .li-pregao .titulo
+{
+	margin-left: 64px;
+}
+
+.formulario .li-pregao .titulo.equipe
+{
+	display: block;
+	width: 116px;
+	margin-left: 0;
+}
+
+.formulario span input, 
+.formulario span select, 
+.formulario span textarea 
+{
+    background-color: transparent;
+    color: #898A80;
+    font-size: 13px;
+    margin: 13px 0 0 10px;
+}
+
+.formulario .radio
+{
+	display: inline-block;
+	margin: 10px 15px 0 0;
+}
+
+.formulario .input280
+{
+	width: 330px;
+}
+
+.formulario .input280 span
+{
+	display: inline-block;
+}
+
+.formulario .input280 .anos
+{
+	width: 40px;
+	height: 20px;
+	font: 14px "zwo3", Tahoma, Geneva, sans-serif;
+	color: #2a2b2e;
+	background-image: none;
+	vertical-align: middle;
+
+	*margin: -20px 0 0 5px;
+}
+
+.formulario .li-pregao li .radio
+{
+	margin-top: 30px;
+}
+
+.formulario .calcular
+{
+	height: 40px;
+	float: right;
+	display: block;
+	overflow: hidden;
+}
+
+.formulario .calcular:hover input
+{
+	margin-top: -40px;
+}
+
+/* Tabela
+---------------------------------------------------*/
+
+.resultado
+{
+	width: 100%;
+	height: 70px;
+	margin-top: 30px;
+	
+	border-collapse: collapse;
+}
+
+.resultado td
+{
+	width: 50%;
+}
+
+.resultado thead td
+{
+	height: 70px;
+	font: 20px 'zwo3Italic', Tahoma, Geneva, sans-serif;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+
+	background: url(../../imgs/simulador-de-remuneracao/bg-top.png) center top no-repeat;
+}
+
+.resultado thead td
+{
+	line-height: 16px;
+}
+
+.resultado thead tr,
+.resultado thead td
+{
+	margin: 0;
+	padding: 0;
+}
+
+.resultado thead span
+{
+	display: block;
+	margin: 0 0 0 20px;
+}
+
+.resultado thead .cargo
+{
+	margin-bottom: 5px;
+}
+
+.resultado tbody
+{
+	font: 16px 'zwo3', Tahoma, Geneva, sans-serif;
+	color: #b6b8aa;
+}
+
+.resultado tbody td
+{
+	padding: 10px 0 10px 20px;
+}
+
+.resultado tbody td
+{
+	border: 1px solid #d2d7cd;
+}
+
+.resultado .total
+{
+	color: #636365;
+}

@@ -1,0 +1,103 @@
+.introducao
+{
+	background-image:url(../../imgs/cac/selo-cac-centro-de-apoio-ao-cidadao.jpg);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding-left:90px;
+	min-height:150px;
+	*height:150px;
+}
+
+/* institucional
+------------------------------------------------------------------------------------------------------------ */
+
+.institucional
+{
+	margin:40px 0 0 0;
+	padding:0 0 20px 0;
+	border-bottom:1px solid #e9e9e5;
+}
+
+.institucional,
+.institucional a
+{
+	color:#5a7f91;
+	font-size:16px;
+}
+
+.institucional strong
+{
+	color:#d6bf27;
+	font-size:14px;
+}
+
+.institucional .video
+{
+	float:right;
+	margin-top:-40px;
+}
+
+.institucional p
+{
+	line-height:17px;
+}
+
+/* cac
+------------------------------------------------------------------------------------------------------------ */
+
+.cac 
+{
+	margin-bottom:30px;
+}
+
+.cac h2
+{
+	margin:40px 0 10px 0;
+	font-weight:normal;
+	font-size:20px;
+	color:#7b8843;
+}
+
+.cac li
+{
+	margin-bottom:10px;
+	background-color:#f6f6f5;
+	padding:0 20px 10px 50px;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:20px 10px;
+	background-repeat:no-repeat;
+}
+
+.cac li p
+{
+	display:none;
+	margin-bottom:0;
+	padding-bottom:20px;
+}
+
+.cac li a
+{
+	color:#5a7f91;
+	display:block;
+	padding:15px 0 5px 0;
+}
+
+.cac li a:hover
+{
+	color:#98bacb;
+}
+
+.cac li.open
+{
+	background-color:#eceeeb;
+}
+
+.cac li.open p
+{
+	display:block;
+}

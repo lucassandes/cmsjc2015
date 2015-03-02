@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!--
+ * FCKeditor - The text editor for Internet - http://www.fckeditor.net
+ * Copyright (C) 2003-2007 Frederico Caldeira Knabben
+ *
+ * == BEGIN LICENSE ==
+ *
+ * Licensed under the terms of any of the following licenses at your
+ * choice:
+ *
+ *  - GNU General Public License Version 2 or later (the "GPL")
+ *    http://www.gnu.org/licenses/gpl.html
+ *
+ *  - GNU Lesser General Public License Version 2.1 or later (the "LGPL")
+ *    http://www.gnu.org/licenses/lgpl.html
+ *
+ *  - Mozilla Public License Version 1.1 or later (the "MPL")
+ *    http://www.mozilla.org/MPL/MPL-1.1.html
+ *
+ * == END LICENSE ==
+ *
+ * Page used to create new folders in the current folder.
+-->
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link href="browser.css" type="text/css" rel="stylesheet">
+		<script type="text/javascript" src="js/common.js"></script>
+		<script language="javascript">
+
+function SetCurrentFolder( resourceType, folderPath )
+{
+	oConnector.ResourceType = resourceType ;
+	oConnector.CurrentFolder = folderPath ;
+}
+
+function CreateFolder()
+{
+	var sFolderName ;
+
+	while ( true )
+	{
+		sFolderName = prompt( 'Nome da nova pasta:', '' ) ;
+
+		if ( sFolderName == null )
+			return ;
+		else if ( sFolderName.length == 0 )
+			alert( 'Digite o nome da nova pasta' ) ;
+		else
+			break ;
+	}
+
+	oConnector.SendCommand( 'CreateFolder', 'NewFolderName=' + encodeURIComponent( sFolderName) , CreateFolderCallBack ) ;
+}
+
+function CreateFolderCallBack( fckXml )
+{
+	if ( oConnector.CheckError( fckXml ) == 0 )
+		window.parent.frames['frmResourcesList'].Refresh() ;
+
+	
+	// Get the current folder path.
+	var oNode = fckXml.SelectSingleNode( 'Connector/Error' ) ;
+	var iErrorNumber = parseInt( oNode.attributes.getNamedItem('number').value ) ;
+
+	switch ( iErrorNumber )
+	{
+		case 0 :
+			window.parent.frames['frmResourcesList'].Refresh() ;
+			break ;
+		case 101 :
+			alert( 'Pasta já existente' ) ;
+			break ;
+		case 102 :
+			alert( 'Nome da pasta inválida' ) ;
+			break ;
+		case 103 :
+			alert( 'Você não tem permissões para criar pastas' ) ;
+			break ;
+		case 110 :
+			alert( 'Erro ao criar pasta. Entre em contato conosco' ) ;
+			break ;
+		default :
+			alert( 'Erro ao criar pasta. Número do erro: ' + iErrorNumber ) ;
+			break ;
+	}
+	
+}
+
+window.onload = function()
+{
+	window.top.IsLoadedCreateFolder = true ;
+}
+		</script>
+	</head>
+	<body bottomMargin="0" topMargin="0">
+		<table height="100%" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr>
+				<td>
+					<button type="button" style="WIDTH: 100%" onclick="CreateFolder();">
+						<table cellSpacing="0" cellPadding="0" border="0">
+							<tr>
+								<td><img height="16" alt="" src="images/Folder.gif" width="16"></td>
+								<td>&nbsp;</td>
+								<td nowrap>Criar pasta</td>
+							</tr>
+						</table>
+					</button>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

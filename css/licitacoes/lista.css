@@ -1,0 +1,74 @@
+.titulo
+{
+	height:80px;
+}
+
+/* zwo3Italic
+------------------------------------------------------------------------------------------ */
+
+.conteudo .zwo3Italic
+{
+	color:#5a7f91;
+	font-size:20px;
+	font-weight:normal;
+	margin-bottom:10px;
+}
+
+.conteudo .zwo3Italic span
+{
+	padding-left:40px;
+}
+
+/* licitacoes
+------------------------------------------------------------------------------------------ */
+
+.licitacoes li
+{
+	background-color:#f2f3f1;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	margin-bottom:10px;
+	border-radius:3px;
+	overflow:hidden;
+}
+
+.licitacoes li td
+{
+	padding:20px;
+}
+
+.licitacoes li td>strong
+{
+	font-size:14px;
+	color:#d6bf27;
+}
+
+.licitacoes li td h3
+{
+	font-weight:normal;
+	color:#7b8843;
+}
+
+/* midLista
+------------------------------------------------------------------------------------------ */
+
+.midLista
+{
+	height: 30px;
+	margin:30px 0 30px 0;
+}
+
+.midLista li
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	padding:8px 0 8px 30px;
+	margin:0 20px 0 0 ;
+	float: left;
+}
+
+.midLista li a:hover
+{
+	color:#909090 !important;
+}

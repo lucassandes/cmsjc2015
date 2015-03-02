@@ -1,0 +1,41 @@
+.grupo-links
+{
+	padding:20px 20px 17px 20px;
+	margin-bottom:10px;
+	background-color:#f4f4f2;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.grupo-links h3
+{
+	color: #d6bf27;
+	font-size:20px;
+	margin-bottom: 17px;
+	font-weight:normal;
+}
+
+.grupo-links li
+{
+	margin-bottom: 30px;
+	display: block;
+}
+
+.grupo-links span
+{
+	display: block;
+}
+
+.grupo-links .local
+{
+	font-size: 14px;
+	color: #2a2b2e;
+}
+
+.grupo-links .link
+{
+	font-size: 12px;
+	color: #5a7f91;
+}

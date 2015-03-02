@@ -1,0 +1,63 @@
+/* listagem
+------------------------------------------------------------------------------------------------------------------------ */
+
+.listagem
+{
+	clear:both;
+	margin-bottom: 59px;
+}
+
+.listagem li
+{
+	width:330px;
+	float:left;
+	margin:0 40px 38px 0;
+}
+
+.listagem .mask a
+{
+	width:120px;
+	height:120px;
+	display:block;
+	overflow:hidden;
+}
+
+.listagem .mask a span
+{
+	width:120px;
+	height:120px;
+	display:block;
+	background-image:url(../../imgs/vereadores/mask.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+}
+
+/* listagem / direita
+------------------------------------------------------------------------------------------------------------------------ */
+.listagem h2
+{
+	color: #d6bf27;
+	margin-bottom: 16px;
+}
+
+
+.listagem h3
+{
+	padding-top: 12px;
+	margin-bottom: 8px;
+}
+
+.listagem h3 a
+{
+	font-weight:normal;
+	line-height:19px;
+	font-size:20px;
+	color:#5a7f91;
+	display:block;
+}
+
+.listagem h3 a:hover
+{
+	color:#9eb9c7;
+}

@@ -1,0 +1,227 @@
+.titulo
+{
+	margin-bottom:40px;
+}
+
+/* buscaResultado
+--------------------------------------------------------------------------------- */
+
+.buscaResultado
+{
+	background-image:url(../../imgs/sessoes-plenarias/barra.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin-top:-30px;
+	width:708px;
+}
+
+.buscaResultado .periodoPesquisa
+{
+	color:#fff;
+	height:40px;
+	line-height:40px;
+	margin-bottom:30px;
+	padding:26px 0 0 10px;
+}
+
+.buscaResultado .periodoPesquisa li
+{
+	float:left;
+	font-size:12px;
+	margin-right:20px;
+}
+
+.buscaResultado .periodoPesquisa li:first-child
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.buscaResultado .periodoPesquisa li select
+{
+	font-size:12px;
+	margin:12px 0 0 0;
+	background-color:transparent;
+}
+
+.buscaResultado .periodoPesquisa li.w102
+{
+	width:102px;
+	padding-top:1px;
+}
+
+.buscaResultado .periodoPesquisa li.w102 span
+{
+	background-image:url(../../imgs/sessoes-plenarias/input67.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	display:block;
+	float:right;
+	height:40px;
+	width:67px;
+}
+
+.buscaResultado .periodoPesquisa li.w120
+{
+	width:120px;
+	padding-top:1px;
+}
+
+.buscaResultado .periodoPesquisa li.w120 span
+{
+	background-image:url(../../imgs/sessoes-plenarias/input91.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	display:block;
+	float:right;
+	height:40px;
+	width:91px;
+}
+
+.buscaResultado .botExibir
+{
+	height:13px;
+	display:block;
+	overflow:hidden;
+	margin-top:15px;
+}
+
+.buscaResultado .botExibir:hover input
+{
+	margin-top:-13px;
+}
+
+.buscaResultado .buscaSessoes .bgInput
+{
+	background-image:url(../../imgs/sessoes-plenarias/input584.png);
+	width:584px;
+}
+
+.buscaResultado .buscaSessoes .botPesquisar
+{
+	height:40px;
+	margin:0 10px 0 0;
+}
+
+.buscaResultado .buscaSessoes .botPesquisar:hover input
+{
+	margin-top:-40px;
+}
+
+/* buscaSessoes
+--------------------------------------------------------------------------------- */
+
+.buscaSessoes
+{
+	color:#5a7f91;
+	font-size:16px;
+	margin:-15px 0 30px 0;
+}
+
+.buscaSessoes ul
+{
+	height:43px;
+	margin-top:2px;
+}
+
+.buscaSessoes ul li
+{
+	float:left;
+	height:43px;
+}
+
+.buscaSessoes li.bgInput
+{
+	background-image:url(../../imgs/sessoes-plenarias/input-busca.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width:516px;
+}
+
+.buscaSessoes li.bgInput input
+{
+	background-color:transparent;
+	margin:12px 0 0 6px;
+	font-size:13px;
+	color:#898A80;
+	width:495px;
+}
+
+.buscaSessoes li.botPesquisar
+{
+	float:right;
+	height:103px;
+	overflow:hidden;
+	margin:-33px -6px 0 0;
+}
+
+.buscaSessoes li.botPesquisar:hover input
+{
+	margin-top:-103px;
+}
+
+/* resultado
+--------------------------------------------------------------------------------- */
+
+.resultado li
+{
+	padding:20px;
+	margin-bottom:10px;
+	background-color:#f6f6f5;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.resultado li .data
+{
+	color:#d6bf27;
+	display: block;
+	margin-bottom: 10px;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.resultado li p,
+.resultado li p a
+{
+	color:#5a7f91;
+	font-size:16px;
+}
+
+.resultado li .info,
+.resultado li .info a
+{
+	color:#5A7F91;
+	font-size:12px;
+}
+
+.resultado li .info strong,
+.resultado li .info a strong
+{
+	font-weight:normal;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.resultado li .line
+{
+	background-image:url(../../imgs/sessoes-plenarias/line.jpg);
+	background-position:center;
+	background-repeat:repeat-x;
+	margin:0 0 10px 0;
+	display:block;
+	height:2px;
+}
+
+.resultado .imgDestaque span
+{
+	background-image:url(../../imgs/sessoes-plenarias/mask.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+	display:block;
+	height:103px;
+	width:103px;
+}

@@ -1,0 +1,479 @@
+
+html,
+body
+{
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+body
+{
+	color:#2a2b2e;
+	font-size:14px;
+	font-family:"zwo3", Tahoma, Geneva, sans-serif;
+	
+	-webkit-text-size-adjust:none;
+	-webkit-font-smoothing:antialiased;
+}
+
+*
+{
+	outline: none;
+	border:none;
+	color: inherit;
+	font-size: inherit;
+	list-style: inherit;
+	font-family: inherit;
+	line-height: inherit;
+	border-collapse: inherit;
+}
+
+/* =fontFace
+------------------------------------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: 'zwo3';
+    src: url('../fonts/zwo-w3/zwo-w-3-webfont.eot');
+    src: url('../fonts/zwo-w3/zwo-w-3-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/zwo-w3/zwo-w-3-webfont.svg#Zwow3Regular') format('svg'),
+         url('../fonts/zwo-w3/zwo-w-3-webfont.woff') format('woff'),
+         url('../fonts/zwo-w3/zwo-w-3-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* zwo3Italic
+------------------------------------------------------------ */
+
+@font-face {
+    font-family: 'zwo3Italic';
+    src: url('../fonts/zwo-w3-italic/zwo-w-3-italic-webfont.eot');
+    src: url('../fonts/zwo-w3-italic/zwo-w-3-italic-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/zwo-w3-italic/zwo-w-3-italic-webfont.svg#Zwow3Italic') format('svg'),
+         url('../fonts/zwo-w3-italic/zwo-w-3-italic-webfont.woff') format('woff'),
+         url('../fonts/zwo-w3-italic/zwo-w-3-italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.zwo3Italic
+{
+	font-family:"zwo3Italic", Tahoma, Geneva, sans-serif;
+}
+
+/* zwo6
+------------------------------------------------------------ */
+
+@font-face {
+    font-family: 'zwo6';
+    src: url('../fonts/zwo-w6/zwo-w-6-webfont.eot');
+    src: url('../fonts/zwo-w6/zwo-w-6-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/zwo-w6/zwo-w-6-webfont.svg#Zwow6Regular') format('svg'),
+         url('../fonts/zwo-w6/zwo-w-6-webfont.woff') format('woff'),
+         url('../fonts/zwo-w6/zwo-w-6-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.zwo6
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+/* zwo6Italic
+------------------------------------------------------------ */
+
+@font-face {
+    font-family: 'zwo6Italic';
+    src: url('../fonts/zwo-w6-italic/zwo-w-6-italic-webfont.eot');
+    src: url('../fonts/zwo-w6-italic/zwo-w-6-italic-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/zwo-w6-italic/zwo-w-6-italic-webfont.svg#Zwow6Italic') format('svg'),
+         url('../fonts/zwo-w6-italic/zwo-w-6-italic-webfont.woff') format('woff'),
+         url('../fonts/zwo-w6-italic/zwo-w-6-italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.zwo6Italic
+{
+	font-family:"zwo6Italic", Tahoma, Geneva, sans-serif;
+}
+
+/* =GERAL
+------------------------------------------------------------------------------------------------------- */
+
+.clear
+{
+	clear: both;
+}
+
+address
+{
+	font-style: normal;
+}
+
+ul,
+li
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+h1,
+h2,
+h3,
+h4
+{
+	margin:0;
+	padding:0;
+}
+
+hr
+{
+	display:none;
+}
+
+strong
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	font-weight:normal;
+	font-size: 14px;
+}
+
+/* =LINKS
+------------------------------------------------------------------------------------------------------- */
+
+a
+{
+	color:#4c4c4c;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color:#5b5c5e;
+}
+
+
+/* =MARGENS
+------------------------------------------------------------------------------------------------------- */
+
+p
+{
+	line-height:15px;
+	margin:0 0 20px 0;
+	text-align: justify;
+}
+
+/* =INPUT
+------------------------------------------------------------------------------------------------------- */
+
+input[type=password],
+input[type=text],
+textarea,
+select,
+option
+{
+	color:#898A80;
+	text-transform:none;
+}
+
+select
+{
+	font-family:Tahoma, Geneva, sans-serif !important;
+}
+
+/* noMargin
+------------------------------------------------------------------------------------------------------- */
+
+.noMargin
+{
+	margin:0 !important;
+}
+
+.noMarginTop
+{
+	margin-top:0 !important;
+}
+
+.noMarginRight
+{
+	margin-right:0 !important;
+}
+
+.noMarginBottom
+{
+	margin-bottom:0 !important;
+}
+
+.noMarginLeft
+{
+	margin-left:0 !important;
+}
+
+/* fckEditor
+------------------------------------------------------------------------ */
+
+.fckEditor ul li
+{
+	list-style:disc;
+	margin-left:15px;
+}
+
+.fckEditor ol
+{
+	margin-left:20px;
+	padding-left:0;
+}
+
+.fckEditor ol li
+{
+	list-style:decimal;
+}
+
+/* mid
+------------------------------------------------------------------------ */
+
+.mid, .voltar
+{
+	background-image:url(../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:6px 0 4px 20px;
+	padding-left:30px;
+	font-size:14px;
+	color:#5a7f91;
+	display:block;
+}
+
+.mid:hover, .voltar:hover
+{
+	color:#97bdcf;
+}
+
+.voltar
+{
+	width:50px;
+}
+
+/* paginacao
+------------------------------------------------------------------------ */
+
+.paginacao
+{
+	background-image:url(../imgs/geral/paginacao/bkg.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-bottom:20px;
+	display:block;
+	height:40px;
+}
+
+.paginacao .numeros
+{
+	text-align:center;
+	padding-top:12px;
+	font-size:12px;
+	color:#b6b8aa;
+	margin:0;
+}
+
+.paginacao .numeros a
+{
+	color:#5a7f91;
+}
+
+.paginacao .numeros a:hover
+{
+	color:#8db3c6;
+}
+
+.paginacao .numeros .sel
+{
+	color:#2a2b2e;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}
+
+.paginacao .botAnt,
+.paginacao .botProx
+{
+	position:absolute;
+	overflow:hidden;
+	height:14px;
+	width:11px;
+}
+
+.paginacao .botAnt:hover img,
+.paginacao .botProx:hover img
+{
+	margin-top:-14px;
+}
+
+.paginacao .botAnt
+{
+	margin:14px 0 0 10px;
+}
+
+.paginacao .botProx
+{
+	margin:14px 0 0 680px;
+}
+
+
+/* galeriaFotos
+------------------------------------------------------------------------ */
+
+.galeriaFotos
+{
+	margin:30px 0 20px 0;
+}
+
+.galeriaFotos h3
+{
+	font-weight:normal;
+	font-size:20px;
+	color:#7b8843;
+}
+
+.galeriaFotos li
+{
+	float:left;
+	width:103px;
+	height:103px;
+	overflow:hidden;
+	margin:10px 16px 10px 0;
+}
+
+.galeriaFotos li span
+{
+	background-image:url(../imgs/geral/galeria-de-fotos/mask.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+	overflow:hidden;
+	display:block;
+	height:103px;
+	width:103px;
+}
+
+/* botDownload
+------------------------------------------------------------------------------------------------------------ */
+
+.botDownload
+{
+	height:40px;
+	width:177px;
+	display:block;
+	overflow:hidden;
+	margin-bottom:20px;
+}
+
+.botDownload:hover img
+{
+	margin-top:-40px;
+}
+
+/* lista
+------------------------------------------------------------------------------------------------------------ */
+
+.lista
+{
+	background-color:#f4f4f2;
+	margin-bottom:10px;
+	padding:20px;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.lista h2,
+.lista h2 a
+{
+	margin-bottom:20px;
+	font-weight:normal;
+	font-size:20px;
+	color:#d6bf27;
+}
+
+.lista li a
+{
+	color:#5a7f91;
+	font-size:16px;
+}
+
+.lista li a strong
+{
+	color:#d6bf27;
+	font-size:12px;
+}
+
+.lista li
+{
+	padding:20px 0 0 0;
+	margin:20px 0 0 0;
+	
+	background-image:url(../imgs/geral/linha.png);
+	background-repeat:repeat-x;
+	background-position:top;
+}
+
+.lista li:first-child
+{
+	background-image:none;
+	padding:0;
+	margin:0;
+}
+
+.lista li a:hover
+{
+	color:#89adbe;
+}
+
+.lista li a:hover strong
+{
+	color:#e8d559;
+}
+
+
+/* download
+------------------------------------------------------------------------------------------ */
+
+.download
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	display:block;
+	color:#fff;
+	float:left;
+	clear: both;
+	
+	margin:0 0 10px 0;
+	padding:10px 10px 10px 10px;
+	
+	background-image:url(../imgs/geral/download/bkg-botdownload.png);
+	background-position:left top;
+	background-repeat:repeat-x;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.download span
+{
+	background-image:url(../imgs/geral/download/mid-botdownload.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin:4px 4px 0 0;
+	display:block;
+	height:12px;
+	width:14px;
+	float:left;
+}
+
+.download:hover
+{
+	background-position:left bottom;
+}

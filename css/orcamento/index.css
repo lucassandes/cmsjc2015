@@ -1,0 +1,84 @@
+
+.conteudo strong
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	font-weight:normal;
+}
+
+.conteudo h2
+{
+	color:#5a7f91;
+	font-size:20px;
+	margin-bottom:5px;
+	font-weight:normal;
+}
+
+.indice
+{
+	margin-bottom:30px;
+	background-color:#f2f3f1;
+	padding:15px 20px 10px 20px;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.indice li
+{
+	height: 40px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.indice a
+{
+	background-position:left top;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	display:block;
+	width:642px;
+	height:28px;
+	color:#fff;
+	
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	padding:12px 10px 0 8px;
+}
+
+.indice a:hover
+{
+	background-position:left -40px;
+}
+
+.indice span
+{
+	display:block;
+	float:right;
+}
+
+.indice span b
+{
+	background-image:url(../../imgs/orcamento/mid-download.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:3px 6px 0 0;
+	display:block;
+	height:12px;
+	width:14px;
+	float:left;
+}
+
+.indice a:hover span b
+{
+	background-position:left -12px;
+}
+
+.balancos-financeiros a
+{
+	background-image:url(../../imgs/orcamento/bot-lista-indice-verde.png);
+}
+
+.congressos-e-seminarios a
+{
+	background-image:url(../../imgs/orcamento/bot-lista-indice-amarelo.png);
+}

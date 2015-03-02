@@ -1,0 +1,87 @@
+.conteudo strong
+{
+	color:#5a7f91;
+	font-size:12px;
+}
+
+/* listagem
+------------------------------------------------------------------------------------- */
+
+.listagem
+{
+	margin-top:4px;
+}
+
+.listagem li
+{
+	background-image:url(../../imgs/geral/mid2.png);
+	background-position:5px center;
+	background-repeat:no-repeat;
+	padding:5px 0 2px 20px;
+	font-size:12px;
+	color:#7b8843;
+}
+
+/* listaDownload
+------------------------------------------------------------------------------------- */
+
+.listaDownload li
+{
+	border-top:1px solid #e9e9ea;
+	padding:20px 0 0 0;
+	margin:20px 0 20px 0;
+}
+
+/* legislacao
+------------------------------------------------------------------------------------- */
+
+.legislacao
+{
+	color:#5a7f91;
+	font-size:16px;
+	background-color:#f2f3f1;
+	margin:30px 0 30px 0;
+	padding:20px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.legislacao h3
+{
+	color:#d6bf27;
+	font-size:20px;
+	font-weight:normal;
+}
+
+.legislacao li
+{
+	font-size:14px;
+	color:#2a2b2e;
+	width:320px;
+	float:left;
+	padding:0;
+	margin:20px 0 0 0;
+}
+
+.legislacao strong
+{
+	color:#5a7f91;
+}
+
+.legislacao span
+{
+	display:block;
+	color:#7b8843;
+	font-size:12px;
+}
+
+.legislacao span a
+{
+	color:#7b8843;
+}
+
+.legislacao span a:hover
+{
+	color:#a9b66f;
+}

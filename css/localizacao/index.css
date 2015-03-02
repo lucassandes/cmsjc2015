@@ -1,0 +1,49 @@
+/* titulo
+------------------------------------------------------------------------ */
+.titulo
+{
+	height: 67px;
+	margin-bottom: 3px;
+}
+
+/* endereço
+------------------------------------------------------------------------ */
+.conteudo address
+{
+	color: #5a7f91;
+	font-size: 16px;
+	display: block;
+	margin-bottom: 16px;
+}
+
+/* mapa
+------------------------------------------------------------------------ */
+#mapa
+{
+	width: 700px;
+	height: 600px;
+}
+
+
+/* veja
+------------------------------------------------------------------------ */
+.bt-veja
+{
+	width: 235px;
+	height: 65px;
+	background-image:url(../../imgs/localizacao/bt-veja.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:49px 0 0 17px;
+	font-size:16px;
+	color:#FFFFFF;
+	display:block;
+	position: absolute;
+	margin: 484px 0 0 451px;
+}
+
+.bt-veja:hover
+{
+	color: #FFFFFF;
+	background-position: left bottom;
+}

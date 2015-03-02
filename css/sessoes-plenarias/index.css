@@ -1,0 +1,74 @@
+.titulo
+{
+	height:65px;
+	margin-bottom:20px;
+}
+
+.conteudo strong
+{
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	font-weight:normal;
+}
+
+.conteudo h2
+{
+	color:#5a7f91;
+	font-size:20px;
+	margin-top:30px;
+	font-weight:normal;
+}
+
+.categoria
+{
+	padding:20px;
+	margin:5px 0 10px 0;
+	background-color:#f4f4f2;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.categoria h3
+{
+	color:#7b8843;
+	font-size:20px;
+	font-weight:normal;
+	font-family:"zwo3Italic", Tahoma, Geneva, sans-serif;
+}
+
+.categoria ul
+{
+	height:40px;
+	margin-top:5px;
+}
+
+.categoria li
+{
+	float:left;
+}
+
+.categoria li:first-child
+{
+	margin:0 20px 0 0;
+}
+
+.categoria a
+{
+	background-image:url(../../imgs/sessoes-plenarias/bot-lista.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	display:block;
+	width:285px;
+	height:28px;
+	color:#fff;
+	
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	padding:12px 0 0 35px;
+}
+
+.categoria a:hover
+{
+	background-position:left -40px;
+}

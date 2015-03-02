@@ -1,0 +1,130 @@
+.titulo
+{
+	height:70px;
+}
+
+.espacoRodape
+{
+	height:40px;
+	clear:both;
+}
+
+.listagem
+{
+	margin-top:20px;
+	height:3000px;
+}
+
+.listagem li span
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/icone.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:-10px 0 0 0;
+	height:70px;
+	width:70px;
+	float:left;
+}
+
+.listagem li ul
+{
+	margin:0 0 0 20px;
+}
+
+.listagem li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-preto.jpg);
+	background-repeat:repeat-x;
+	background-position:top;
+	margin-bottom:1px;
+	height:60px;
+	color:#fff;
+	
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	line-height:60px;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.outraCategoria
+{
+	background-image:none !important;
+}
+
+/* Azul 01
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-azul.jpg);
+}
+
+
+/* Verde 01
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-verde.jpg);
+}
+
+
+/* Amarelo 01
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-amarelo.jpg);
+}
+
+/* Cinza 01
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-cinza.jpg);
+}
+
+/* Azul 02
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-azul2.jpg);
+}
+
+/* Verde 02
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-verde2.jpg);
+}
+
+/* Amarelo 02
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-amarelo2.jpg);
+}
+
+/* cinza 02
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-cinza2.jpg);
+}
+
+
+/* azul 03
+------------------------------------------------------------------------------------------ */
+
+.conteudo ul li ul li ul li ul li ul li ul li ul li ul li ul li ul li
+{
+	background-image:url(../../imgs/conheca-a-camara/organograma/bg-azul3.jpg);
+}
+

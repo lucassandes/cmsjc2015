@@ -1,0 +1,105 @@
+.legislatura
+{
+	background-image:url(../../imgs/vereadores/bg-box.jpg);
+	background-repeat:repeat-x;
+	background-position:center;
+	padding:12px 14px 8px 14px;
+	text-align:left;
+	color:#fff;
+	clear:both;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	display: block;	
+	margin:20px 0 20px 0;
+	width: 180px;
+}
+
+/* listagem
+------------------------------------------------------------------------------------------------------------------------ */
+
+.listagem
+{
+	clear:both;
+	padding-top:40px;
+	border-top:1px solid #e8e8e5;
+}
+
+.listagem li
+{
+	width:330px;
+	float:left;
+	margin:0 40px 38px 0;
+}
+
+.listagem .mask a
+{
+	width:120px;
+	height:120px;
+	display:block;
+	overflow:hidden;
+}
+
+.listagem .mask a span
+{
+	width:120px;
+	height:120px;
+	display:block;
+	background-image:url(../../imgs/vereadores/mask.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+}
+
+/* listagem / direita
+------------------------------------------------------------------------------------------------------------------------ */
+
+.listagem h2 a
+{
+	font-weight:normal;
+	line-height:17px;
+	font-size:20px;
+	color:#5a7f91;
+	display:block;
+}
+
+.listagem .partido
+{
+	color:#fff;
+	height:25px;
+	font-size:14px;
+	margin:7px 0 5px 0;
+	text-transform:uppercase;
+}
+
+.listagem .partido a
+{
+	background-image:url(../../imgs/vereadores/bg-partido.jpg);
+	background-position:left center;
+	background-repeat:no-repeat;
+	text-align:center;
+	line-height:25px;
+	display:block;
+	height:25px;
+	width:40px;
+	color:#fff;
+}
+
+.listagem .botPerfil
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:5px 0 3px 24px;
+	margin-top:8px;
+	color:#5a7f91;
+	display:block;
+}
+
+.listagem h2 a:hover,
+.listagem .botPerfil:hover
+{
+	color:#9eb9c7;
+}

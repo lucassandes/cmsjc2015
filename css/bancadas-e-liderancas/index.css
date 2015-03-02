@@ -1,0 +1,49 @@
+.box
+{
+	background-color:#f2f3f1;
+	padding:20px;
+
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+}
+
+.zwo3Italic
+{
+	color:#5a7f91;
+	font-size:20px;
+	margin-bottom:3px;
+	font-weight:normal;
+}
+
+.box li
+{
+	float:left;
+	margin:0 20px 0 0;
+}
+
+.box li.margin
+{
+	margin-bottom:20px;
+}
+
+.box a
+{
+	background-image:url(../../imgs/bancadas-e-liderancas/bg-bot.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	color:#ffffff;
+	display:block;
+	height:27px;
+	width:285px;
+
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+	padding:13px 0 0 35px;
+}
+
+.box a:hover
+{
+	background-position:left bottom;
+}
+

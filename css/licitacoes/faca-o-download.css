@@ -1,0 +1,184 @@
+.titulo
+{
+	height:80px;
+}
+
+/* zwo3Italic
+------------------------------------------------------------------------------------------ */
+
+.conteudo .zwo3Italic
+{
+	color:#5a7f91;
+	font-size:20px;
+	font-weight:normal;
+	margin-bottom:10px;
+}
+
+.conteudo .zwo3Italic span
+{
+	padding-left:40px;
+}
+
+/* licitacoes
+------------------------------------------------------------------------------------------ */
+
+.licitacoes
+{
+	margin-bottom:30px;
+}
+
+.licitacoes li
+{
+	background-color:#f2f3f1;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	margin-bottom:10px;
+	border-radius:3px;
+	overflow:hidden;
+}
+
+.licitacoes li td
+{
+	padding:20px;
+}
+
+.licitacoes li td>strong
+{
+	font-size:14px;
+	color:#d6bf27;
+}
+
+.licitacoes li td h3
+{
+	font-weight:normal;
+	color:#7b8843;
+}
+
+/* formulario
+---------------------------------------------------------------------------------------------------- */
+
+.formulario
+{
+	color:#b6b8aa;
+	font-size:16px;
+}
+
+.formulario li
+{
+	float:left;
+	margin:0 35px 20px 0;
+}
+
+.formulario span
+{
+	display:block;
+	height:43px;
+}
+
+.formulario span input,
+.formulario span select,
+.formulario span textarea
+{
+	background-color:transparent;
+	margin:13px 0 0 10px;
+	font-size:13px;
+	color:#898a80;
+}
+
+/* input330
+---------------------------------------------------------------------------- */
+
+.formulario .input330
+{
+	width:331px;
+}
+
+.formulario .input330 span
+{
+	background-image:url(../../imgs/licitacoes/licitacoes-em-aberto/faca-o-download/input330.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+.formulario .input330 span input,
+.formulario .input330 span select
+{
+	width:313px;
+}
+
+/* input240
+---------------------------------------------------------------------------- */
+
+.formulario .input240
+{
+	width:243px;
+	margin-right:18px;
+}
+
+.formulario .input240 span
+{
+	background-image:url(../../imgs/licitacoes/licitacoes-em-aberto/faca-o-download/input240.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+.formulario .input240 span input
+{
+	width:223px;
+}
+
+/* input70
+---------------------------------------------------------------------------- */
+
+.formulario .input70
+{
+	width:70px;
+}
+
+.formulario .input70 span
+{
+	background-image:url(../../imgs/licitacoes/licitacoes-em-aberto/faca-o-download/input70.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+.formulario .input70 span select
+{
+	width:50px;
+}
+
+/* botEnviar
+---------------------------------------------------------------------------- */
+
+.formulario .botVoltar
+{
+	margin-top:30px;
+}
+
+/* botEnviar
+---------------------------------------------------------------------------- */
+
+.formulario .botEnviar
+{
+	float:right;
+	height:119px;
+	overflow:hidden;
+	margin:-20px 0 0 0;
+}
+.formulario .botEnviar:hover input
+{
+	margin-top:-119px;
+}
+
+/* agradecimento
+---------------------------------------------------------------------------- */
+
+.agradecimento p
+{
+	margin-bottom:30px;
+}
+
+.agradecimento a
+{
+	margin-top:10px;
+}

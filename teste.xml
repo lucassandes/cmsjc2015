@@ -1,0 +1,1647 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+      xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007'
+      xmlns:media='http://search.yahoo.com/mrss/'>
+    <id>http://gdata.youtube.com/feeds/api/users/camarasjc/uploads</id>
+    <updated>2014-11-04T13:23:49.513Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+    <title type='text'>Uploads by Câmara SJC</title>
+    <logo>http://www.gstatic.com/youtube/img/logo.png</logo>
+    <link rel='related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/camarasjc'/>
+    <link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg/videos'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+          href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads'/>
+    <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml'
+          href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/batch'/>
+    <link rel='self' type='application/atom+xml'
+          href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads?start-index=1&amp;max-results=25'/>
+    <link rel='next' type='application/atom+xml'
+          href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads?start-index=26&amp;max-results=25'/>
+    <author>
+        <name>Câmara SJC</name>
+        <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+    </author>
+    <generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator>
+    <openSearch:totalResults>895</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/qZxTqoVJAyg</id>
+        <published>2014-11-03T11:21:12.000Z</published>
+        <updated>2014-11-03T11:21:12.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 3</title>
+        <content type='text'>Veja neste bloco reportagens sobre a Lei Orçamentária. Confira ainda os projetos de lei
+            aprovados e adiados na 61ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=qZxTqoVJAyg&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/qZxTqoVJAyg/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=qZxTqoVJAyg'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/qZxTqoVJAyg'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/qZxTqoVJAyg/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/qZxTqoVJAyg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='350' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwkoA0mFqlOcqRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='350' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwkoA0mFqlOcqRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='350' yt:format='6'/>
+            <media:description type='plain'>Veja neste bloco reportagens sobre a Lei Orçamentária. Confira ainda os
+                projetos de lei aprovados e adiados na 61ª Sessão Ordinária da Câmara de Vereadores de São José dos
+                Campos.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=qZxTqoVJAyg&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/qZxTqoVJAyg/0.jpg' height='360' width='480' time='00:02:55'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/qZxTqoVJAyg/1.jpg' height='90' width='120' time='00:01:27.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/qZxTqoVJAyg/2.jpg' height='90' width='120' time='00:02:55'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/qZxTqoVJAyg/3.jpg' height='90' width='120' time='00:04:22.500'/>
+            <media:title type='plain'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 3</media:title>
+            <yt:duration seconds='350'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='5'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/KEDjZ9MjjJc</id>
+        <published>2014-11-03T11:14:25.000Z</published>
+        <updated>2014-11-03T11:14:25.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 2</title>
+        <content type='text'>Neste bloco, o Semana Legislativa traz a reportagem sobre o título de Cidadão Joseense para
+            o empresário Sílvio Almir Diniz em reconhecimento ao trabalho que realizou na cidade. Confira ainda o
+            pinga-fogo da 60ª Sessão Ordinária da Câmara de Vereadores.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=KEDjZ9MjjJc&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/KEDjZ9MjjJc/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=KEDjZ9MjjJc'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/KEDjZ9MjjJc'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/KEDjZ9MjjJc/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/KEDjZ9MjjJc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='411' yt:format='5'/>
+            <media:content
+                    url='rtsp://r1---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwmXjCPTZ-NAKBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='411' yt:format='1'/>
+            <media:content
+                    url='rtsp://r1---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwmXjCPTZ-NAKBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='411' yt:format='6'/>
+            <media:description type='plain'>Neste bloco, o Semana Legislativa traz a reportagem sobre o título de
+                Cidadão Joseense para o empresário Sílvio Almir Diniz em reconhecimento ao trabalho que realizou na
+                cidade. Confira ainda o pinga-fogo da 60ª Sessão Ordinária da Câmara de Vereadores.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=KEDjZ9MjjJc&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/KEDjZ9MjjJc/0.jpg' height='360' width='480'
+                             time='00:03:25.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/KEDjZ9MjjJc/1.jpg' height='90' width='120' time='00:01:42.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/KEDjZ9MjjJc/2.jpg' height='90' width='120' time='00:03:25.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/KEDjZ9MjjJc/3.jpg' height='90' width='120' time='00:05:08.250'/>
+            <media:title type='plain'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 2</media:title>
+            <yt:duration seconds='411'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='4'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/FujAWjyAwDc</id>
+        <published>2014-11-03T11:07:59.000Z</published>
+        <updated>2014-11-03T11:07:59.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 1</title>
+        <content type='text'>No primeiro bloco, o Semana Legislativa traz reportagens sobre a criação da Virada
+            Esportiva, convênio com o cursinho pré-vestibular CASD, convênio com duas creches da cidade, projeto de
+            educação sexual com adolescentes e também o projeto relacionado a saúde.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=FujAWjyAwDc&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/FujAWjyAwDc/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=FujAWjyAwDc'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/FujAWjyAwDc'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/FujAWjyAwDc/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/FujAWjyAwDc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='551' yt:format='5'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu76.c.youtube.com/CigLENy73wIaHwk3wIA8WsDoFhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='551' yt:format='1'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu76.c.youtube.com/CigLENy73wIaHwk3wIA8WsDoFhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='551' yt:format='6'/>
+            <media:description type='plain'>No primeiro bloco, o Semana Legislativa traz reportagens sobre a criação da
+                Virada Esportiva, convênio com o cursinho pré-vestibular CASD, convênio com duas creches da cidade,
+                projeto de educação sexual com adolescentes e também o projeto relacionado a saúde.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=FujAWjyAwDc&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/FujAWjyAwDc/0.jpg' height='360' width='480'
+                             time='00:04:35.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/FujAWjyAwDc/1.jpg' height='90' width='120' time='00:02:17.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/FujAWjyAwDc/2.jpg' height='90' width='120' time='00:04:35.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/FujAWjyAwDc/3.jpg' height='90' width='120' time='00:06:53.250'/>
+            <media:title type='plain'>Semana Legislativa - de 27 a 31 de Outubro - Bloco 1</media:title>
+            <yt:duration seconds='551'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='2'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/P9rdqtZ8L7Q</id>
+        <published>2014-10-31T18:17:58.000Z</published>
+        <updated>2014-10-31T18:20:41.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Saiba quais investimentos estão previstos para a área de transportes em São José</title>
+        <content type='text'>Em nossa quinta reportagem especial da série sobre o Orçamento você vai conhecer os
+            investimentos previstos para a área de transporte de São José dos Campos.
+
+            Uma audiência pública está prevista para a próxima segunda-feira, dia 3, a partir das 18h30, na Câmara de
+            Vereadores.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=P9rdqtZ8L7Q&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/P9rdqtZ8L7Q/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=P9rdqtZ8L7Q'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/P9rdqtZ8L7Q'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/P9rdqtZ8L7Q/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/P9rdqtZ8L7Q?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='153' yt:format='5'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwm0L3zWqt3aPxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='153' yt:format='1'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwm0L3zWqt3aPxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='153' yt:format='6'/>
+            <media:description type='plain'>Em nossa quinta reportagem especial da série sobre o Orçamento você vai
+                conhecer os investimentos previstos para a área de transporte de São José dos Campos.
+
+                Uma audiência pública está prevista para a próxima segunda-feira, dia 3, a partir das 18h30, na Câmara
+                de Vereadores.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=P9rdqtZ8L7Q&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/P9rdqtZ8L7Q/0.jpg' height='360' width='480'
+                             time='00:01:16.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/P9rdqtZ8L7Q/1.jpg' height='90' width='120' time='00:00:38.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/P9rdqtZ8L7Q/2.jpg' height='90' width='120' time='00:01:16.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/P9rdqtZ8L7Q/3.jpg' height='90' width='120' time='00:01:54.750'/>
+            <media:title type='plain'>Saiba quais investimentos estão previstos para a área de transportes em São José
+            </media:title>
+            <yt:duration seconds='153'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='17'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/4DeKl8mImw8</id>
+        <published>2014-10-31T18:07:58.000Z</published>
+        <updated>2014-11-01T02:11:54.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Vereadores aprovam lei para a renovação do convênio do município com o Casd Vestibulares
+        </title>
+        <content type='text'>Em São José dos Campos, o Casd (Curso Alberto Santos Dumont) oferece aulas de forma
+            gratuita a estudantes de baixa renda que disputarão vaga em universidades públicas.
+
+            Um projeto aprovado pelos vereadores vai prorrogar o convênio já existente entre a Prefeitura e o Casd.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=4DeKl8mImw8&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/4DeKl8mImw8/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=4DeKl8mImw8'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/4DeKl8mImw8'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/4DeKl8mImw8/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/4DeKl8mImw8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='138' yt:format='5'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwkPm4jJl4o34BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='138' yt:format='1'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwkPm4jJl4o34BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='138' yt:format='6'/>
+            <media:description type='plain'>Em São José dos Campos, o Casd (Curso Alberto Santos Dumont) oferece aulas
+                de forma gratuita a estudantes de baixa renda que disputarão vaga em universidades públicas.
+
+                Um projeto aprovado pelos vereadores vai prorrogar o convênio já existente entre a Prefeitura e o Casd.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=4DeKl8mImw8&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/4DeKl8mImw8/0.jpg' height='360' width='480' time='00:01:09'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/4DeKl8mImw8/1.jpg' height='90' width='120' time='00:00:34.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/4DeKl8mImw8/2.jpg' height='90' width='120' time='00:01:09'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/4DeKl8mImw8/3.jpg' height='90' width='120' time='00:01:43.500'/>
+            <media:title type='plain'>Vereadores aprovam lei para a renovação do convênio do município com o Casd
+                Vestibulares
+            </media:title>
+            <yt:duration seconds='138'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='2' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='62'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/8aWo4NCSSYU</id>
+        <published>2014-10-31T17:55:26.000Z</published>
+        <updated>2014-11-01T03:59:49.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Empresário da construção civil recebe título de Cidadão Joseense</title>
+        <content type='text'>Em solenidade no dia 29 de outubro, a Câmara Municipal outorgou o título de Cidadão
+            Joseense ao empresário Silvio Almir Diniz, em reconhecimento ao seu empreendedorismo. A proposta partiu do
+            vereador Juvenil Silvério (PSDB).
+            Presidindo a sessão solene, Juvenil Silvério destacou a origem humilde do homenageado, que também teve sua
+            atuação profissional ressaltada pelo vice-presidente a Aconvap, José Antônio Marcondes César, presente ao
+            evento.
+            Silvio Almir Diniz recebeu o carinho de uma dupla sertaneja amiga, Fernando &amp; Fabiano, que interpretou o
+            clássico sertanejo "Saudades da minha terra", música que se destaca entre as preferidas do homenageado.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=8aWo4NCSSYU&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/8aWo4NCSSYU/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=8aWo4NCSSYU'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/8aWo4NCSSYU'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/8aWo4NCSSYU/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/8aWo4NCSSYU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='2729' yt:format='5'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwmFSZLQ4Kil8RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='2729' yt:format='1'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwmFSZLQ4Kil8RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='2729' yt:format='6'/>
+            <media:description type='plain'>Em solenidade no dia 29 de outubro, a Câmara Municipal outorgou o título de
+                Cidadão Joseense ao empresário Silvio Almir Diniz, em reconhecimento ao seu empreendedorismo. A proposta
+                partiu do vereador Juvenil Silvério (PSDB).
+                Presidindo a sessão solene, Juvenil Silvério destacou a origem humilde do homenageado, que também teve
+                sua atuação profissional ressaltada pelo vice-presidente a Aconvap, José Antônio Marcondes César,
+                presente ao evento.
+                Silvio Almir Diniz recebeu o carinho de uma dupla sertaneja amiga, Fernando &amp; Fabiano, que
+                interpretou o clássico sertanejo "Saudades da minha terra", música que se destaca entre as preferidas do
+                homenageado.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=8aWo4NCSSYU&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/8aWo4NCSSYU/0.jpg' height='360' width='480'
+                             time='00:22:44.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/8aWo4NCSSYU/1.jpg' height='90' width='120' time='00:11:22.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/8aWo4NCSSYU/2.jpg' height='90' width='120' time='00:22:44.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/8aWo4NCSSYU/3.jpg' height='90' width='120' time='00:34:06.750'/>
+            <media:title type='plain'>Empresário da construção civil recebe título de Cidadão Joseense</media:title>
+            <yt:duration seconds='2729'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='20'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/L24Q_fK_JBg</id>
+        <published>2014-10-31T17:53:24.000Z</published>
+        <updated>2014-10-31T17:53:24.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>São José dos Campos ganha Conselho Municipal de Turismo</title>
+        <content type='text'>Recém criado, o Conselho Municipal de Turismo de São José dos Campos está em processo de
+            estruturação. Entre as ações, o órgão precisa definir os conselheiros e também o regimento interno. Assista
+            a reportagem.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=L24Q_fK_JBg&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/L24Q_fK_JBg/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=L24Q_fK_JBg'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/L24Q_fK_JBg'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/L24Q_fK_JBg/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/L24Q_fK_JBg?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='147' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwkYJL_y_RBuLxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='147' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwkYJL_y_RBuLxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='147' yt:format='6'/>
+            <media:description type='plain'>Recém criado, o Conselho Municipal de Turismo de São José dos Campos está em
+                processo de estruturação. Entre as ações, o órgão precisa definir os conselheiros e também o regimento
+                interno. Assista a reportagem.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=L24Q_fK_JBg&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/L24Q_fK_JBg/0.jpg' height='360' width='480'
+                             time='00:01:13.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/L24Q_fK_JBg/1.jpg' height='90' width='120' time='00:00:36.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/L24Q_fK_JBg/2.jpg' height='90' width='120' time='00:01:13.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/L24Q_fK_JBg/3.jpg' height='90' width='120' time='00:01:50.250'/>
+            <media:title type='plain'>São José dos Campos ganha Conselho Municipal de Turismo</media:title>
+            <yt:duration seconds='147'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='66'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/_YzbB9ktmpI</id>
+        <published>2014-10-31T17:48:30.000Z</published>
+        <updated>2014-10-31T17:48:30.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>'Com a Palavra', o presidente do Cedecon, Leonardo Cedaro</title>
+        <content type='text'>Neste programa, o presidente do Cedecon (Centro de Defesa do Consumidor de São José dos
+            Campos e Região), Leonardo Cedaro, explica o que pretende a nova entidade.
+
+            Durante entrevista ele falou que a ideia de criar uma associação aberta à participação popular surgiu de uma
+            conversa entre ele e mais quatro colegas advogados. Na primeira assembleia geral, em que foi aprovado o
+            estatuto e foram eleitos membros da diretoria, conselho deliberativo e fiscal, estiveram presentes 97 sócios
+            fundadores.
+
+            Diferentemente do Procon, o Cedecon não tem como objetivo atender demandas individuais. Um dos papeis da
+            organização será ajuizar ações coletivas em defesa dos direitos do consumidor. Além disso, promoverá
+            palestras e debates de caráter educativo a fim de conscientizar tanto consumidores quanto prestadores de
+            serviço acerca de direitos e deveres.
+
+            ‘Com a Palavra’
+            O programa é exibido às quintas-feiras, às 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net. Também é
+            possível acompanhar a programação da emissora pelo site da Câmara www.camarasjc.sp.gov.br e por meio de
+            smartphones e tablets.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=_YzbB9ktmpI&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/_YzbB9ktmpI/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=_YzbB9ktmpI'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/_YzbB9ktmpI'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/_YzbB9ktmpI/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/_YzbB9ktmpI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='751' yt:format='5'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwmSmi3ZB9uM_RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='751' yt:format='1'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwmSmi3ZB9uM_RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='751' yt:format='6'/>
+            <media:description type='plain'>Neste programa, o presidente do Cedecon (Centro de Defesa do Consumidor de
+                São José dos Campos e Região), Leonardo Cedaro, explica o que pretende a nova entidade.
+
+                Durante entrevista ele falou que a ideia de criar uma associação aberta à participação popular surgiu de
+                uma conversa entre ele e mais quatro colegas advogados. Na primeira assembleia geral, em que foi
+                aprovado o estatuto e foram eleitos membros da diretoria, conselho deliberativo e fiscal, estiveram
+                presentes 97 sócios fundadores.
+
+                Diferentemente do Procon, o Cedecon não tem como objetivo atender demandas individuais. Um dos papeis da
+                organização será ajuizar ações coletivas em defesa dos direitos do consumidor. Além disso, promoverá
+                palestras e debates de caráter educativo a fim de conscientizar tanto consumidores quanto prestadores de
+                serviço acerca de direitos e deveres.
+
+                ‘Com a Palavra’
+                O programa é exibido às quintas-feiras, às 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net.
+                Também é possível acompanhar a programação da emissora pelo site da Câmara www.camarasjc.sp.gov.br e por
+                meio de smartphones e tablets.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=_YzbB9ktmpI&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/_YzbB9ktmpI/0.jpg' height='360' width='480'
+                             time='00:06:15.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/_YzbB9ktmpI/1.jpg' height='90' width='120' time='00:03:07.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/_YzbB9ktmpI/2.jpg' height='90' width='120' time='00:06:15.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/_YzbB9ktmpI/3.jpg' height='90' width='120' time='00:09:23.250'/>
+            <media:title type='plain'>'Com a Palavra', o presidente do Cedecon, Leonardo Cedaro</media:title>
+            <yt:duration seconds='751'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='26'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/9R4As3jysUs</id>
+        <published>2014-10-31T16:02:45.000Z</published>
+        <updated>2014-10-31T18:47:04.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>61ª Sessão Ordinária - 16ª Legislatura - 30/10/2014</title>
+        <content type='text'>Assista a íntegra da 61ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+            A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo Net,
+            e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=9R4As3jysUs&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/9R4As3jysUs/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=9R4As3jysUs'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/9R4As3jysUs'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/9R4As3jysUs/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/9R4As3jysUs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='5865' yt:format='5'/>
+            <media:content
+                    url='rtsp://r8---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwlLsfJ4swAe9RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='5865' yt:format='1'/>
+            <media:content
+                    url='rtsp://r8---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwlLsfJ4swAe9RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='5865' yt:format='6'/>
+            <media:description type='plain'>Assista a íntegra da 61ª Sessão Ordinária da Câmara de Vereadores de São
+                José dos Campos.
+
+                A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo
+                Net, e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=9R4As3jysUs&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/9R4As3jysUs/0.jpg' height='360' width='480'
+                             time='00:48:52.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/9R4As3jysUs/1.jpg' height='90' width='120' time='00:24:26.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/9R4As3jysUs/2.jpg' height='90' width='120' time='00:48:52.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/9R4As3jysUs/3.jpg' height='90' width='120' time='01:13:18.750'/>
+            <media:title type='plain'>61ª Sessão Ordinária - 16ª Legislatura - 30/10/2014</media:title>
+            <yt:duration seconds='5865'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='54'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/AD9H7ZX3AvI</id>
+        <published>2014-10-31T16:01:08.000Z</published>
+        <updated>2014-10-31T16:01:08.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Cine Santana é patrimônio preservado no cenário cultural de São José</title>
+        <content type='text'>O Cine Santana, localizado em um dos bairros mais tradicionais de São José dos Campos, é um
+            patrimônio preservado que entrou no cenário cultural da cidade. Saiba mais sobre a programação do local e a
+            preservação de elementos originais.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=AD9H7ZX3AvI&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/AD9H7ZX3AvI/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=AD9H7ZX3AvI'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/AD9H7ZX3AvI'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/AD9H7ZX3AvI/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/AD9H7ZX3AvI?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='177' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7d.c.youtube.com/CigLENy73wIaHwnyAveV7Uc_ABMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='177' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7d.c.youtube.com/CigLENy73wIaHwnyAveV7Uc_ABMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='177' yt:format='6'/>
+            <media:description type='plain'>O Cine Santana, localizado em um dos bairros mais tradicionais de São José
+                dos Campos, é um patrimônio preservado que entrou no cenário cultural da cidade. Saiba mais sobre a
+                programação do local e a preservação de elementos originais.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=AD9H7ZX3AvI&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/AD9H7ZX3AvI/0.jpg' height='360' width='480'
+                             time='00:01:28.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/AD9H7ZX3AvI/1.jpg' height='90' width='120' time='00:00:44.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/AD9H7ZX3AvI/2.jpg' height='90' width='120' time='00:01:28.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/AD9H7ZX3AvI/3.jpg' height='90' width='120' time='00:02:12.750'/>
+            <media:title type='plain'>Cine Santana é patrimônio preservado no cenário cultural de São José</media:title>
+            <yt:duration seconds='177'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='4'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/0ffyw6OfO6E</id>
+        <published>2014-10-30T11:33:12.000Z</published>
+        <updated>2014-10-30T12:07:56.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 3</title>
+        <content type='text'>Veja neste bloco reportagens sobre a Lei Orçamentária Anual e o Facilita São José. Confira
+            ainda os projetos de lei aprovados e adiados na 60ª Sessão Ordinária da Câmara de Vereadores de São José dos
+            Campos.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=0ffyw6OfO6E&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/0ffyw6OfO6E/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=0ffyw6OfO6E'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/0ffyw6OfO6E'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/0ffyw6OfO6E/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/0ffyw6OfO6E?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='554' yt:format='5'/>
+            <media:content
+                    url='rtsp://r7---sn-p5qlsu7d.c.youtube.com/CigLENy73wIaHwmhO5-jw_L30RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='554' yt:format='1'/>
+            <media:content
+                    url='rtsp://r7---sn-p5qlsu7d.c.youtube.com/CigLENy73wIaHwmhO5-jw_L30RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='554' yt:format='6'/>
+            <media:description type='plain'>Veja neste bloco reportagens sobre a Lei Orçamentária Anual e o Facilita São
+                José. Confira ainda os projetos de lei aprovados e adiados na 60ª Sessão Ordinária da Câmara de
+                Vereadores de São José dos Campos.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=0ffyw6OfO6E&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0ffyw6OfO6E/0.jpg' height='360' width='480' time='00:04:37'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0ffyw6OfO6E/1.jpg' height='90' width='120' time='00:02:18.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0ffyw6OfO6E/2.jpg' height='90' width='120' time='00:04:37'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0ffyw6OfO6E/3.jpg' height='90' width='120' time='00:06:55.500'/>
+            <media:title type='plain'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 3</media:title>
+            <yt:duration seconds='554'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='5'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/5dsLjpUyMx8</id>
+        <published>2014-10-30T11:27:51.000Z</published>
+        <updated>2014-10-30T11:27:51.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 2</title>
+        <content type='text'>Neste bloco, o Semana Legislativa traz a reportagem sobre a criação do Conselho Municipal
+            de Turismo. Confira ainda o pinga-fogo da 59ª Sessão Ordinária da Câmara de Vereadores.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=5dsLjpUyMx8&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/5dsLjpUyMx8/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=5dsLjpUyMx8'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/5dsLjpUyMx8'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/5dsLjpUyMx8/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/5dsLjpUyMx8?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='780' yt:format='5'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwkfMzKVjgvb5RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='780' yt:format='1'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwkfMzKVjgvb5RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='780' yt:format='6'/>
+            <media:description type='plain'>Neste bloco, o Semana Legislativa traz a reportagem sobre a criação do
+                Conselho Municipal de Turismo. Confira ainda o pinga-fogo da 59ª Sessão Ordinária da Câmara de
+                Vereadores.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=5dsLjpUyMx8&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/5dsLjpUyMx8/0.jpg' height='360' width='480' time='00:06:30'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/5dsLjpUyMx8/1.jpg' height='90' width='120' time='00:03:15'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/5dsLjpUyMx8/2.jpg' height='90' width='120' time='00:06:30'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/5dsLjpUyMx8/3.jpg' height='90' width='120' time='00:09:45'/>
+            <media:title type='plain'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 2</media:title>
+            <yt:duration seconds='780'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='4'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/BVl13w_T5rs</id>
+        <published>2014-10-30T11:23:14.000Z</published>
+        <updated>2014-10-30T11:23:14.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 1</title>
+        <content type='text'>No primeiro bloco, o Semana Legislativa traz reportagens sobre regularização fundiária,
+            denominação de loteamentos, vielas e também do CEDIN. Na área de esportes,foi aprovado pela Câmara Municipal
+            a Lei criando o Dia do Passeio Ciclístico e a assistam também a reportagem sobre a reforma do Centro
+            Esportivo do Parque Industrial.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=BVl13w_T5rs&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/BVl13w_T5rs/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=BVl13w_T5rs'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/BVl13w_T5rs'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/BVl13w_T5rs/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/BVl13w_T5rs?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='604' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwm75tMP33VZBRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='604' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwm75tMP33VZBRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='604' yt:format='6'/>
+            <media:description type='plain'>No primeiro bloco, o Semana Legislativa traz reportagens sobre regularização
+                fundiária, denominação de loteamentos, vielas e também do CEDIN. Na área de esportes,foi aprovado pela
+                Câmara Municipal a Lei criando o Dia do Passeio Ciclístico e a assistam também a reportagem sobre a
+                reforma do Centro Esportivo do Parque Industrial.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=BVl13w_T5rs&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BVl13w_T5rs/0.jpg' height='360' width='480' time='00:05:02'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BVl13w_T5rs/1.jpg' height='90' width='120' time='00:02:31'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BVl13w_T5rs/2.jpg' height='90' width='120' time='00:05:02'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BVl13w_T5rs/3.jpg' height='90' width='120' time='00:07:33'/>
+            <media:title type='plain'>Semana Legislativa - de 20 a 24 de Outubro - Bloco 1</media:title>
+            <yt:duration seconds='604'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='4'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/lZcWIXcevsU</id>
+        <published>2014-10-29T11:52:54.000Z</published>
+        <updated>2014-10-29T11:52:54.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Câmara fará audiência pública para o Orçamento de 2015 no dia 3 de novembro</title>
+        <content type='text'>A Câmara de São José dos Campos realizará no dia 3 de novembro uma audiência pública para
+            discutir o Orçamento de 2015. Vereadores já apresentaram 33 emendas. Veja na reportagem.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=lZcWIXcevsU&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/lZcWIXcevsU/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=lZcWIXcevsU'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/lZcWIXcevsU'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/lZcWIXcevsU/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/lZcWIXcevsU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='116' yt:format='5'/>
+            <media:content
+                    url='rtsp://r1---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwnFvh53IRaXlRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='116' yt:format='1'/>
+            <media:content
+                    url='rtsp://r1---sn-p5qlsu7k.c.youtube.com/CigLENy73wIaHwnFvh53IRaXlRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='116' yt:format='6'/>
+            <media:description type='plain'>A Câmara de São José dos Campos realizará no dia 3 de novembro uma audiência
+                pública para discutir o Orçamento de 2015. Vereadores já apresentaram 33 emendas. Veja na reportagem.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=lZcWIXcevsU&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/lZcWIXcevsU/0.jpg' height='360' width='480' time='00:00:58'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/lZcWIXcevsU/1.jpg' height='90' width='120' time='00:00:29'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/lZcWIXcevsU/2.jpg' height='90' width='120' time='00:00:58'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/lZcWIXcevsU/3.jpg' height='90' width='120' time='00:01:27'/>
+            <media:title type='plain'>Câmara fará audiência pública para o Orçamento de 2015 no dia 3 de novembro
+            </media:title>
+            <yt:duration seconds='116'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='17'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/WoeAkcRScCE</id>
+        <published>2014-10-24T18:03:01.000Z</published>
+        <updated>2014-10-24T18:04:52.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Nova quadra poliesportiva no Parque Industrial</title>
+        <content type='text'>De acordo com a Secretaria de Obras, o processo de licitação para a execução do projeto da
+            quadra poliesportiva Delmar Buffulin já foi iniciado e está em fase de conclusão. A expectativa é que as
+            obras sejam iniciadas em janeiro do ano que vem.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=WoeAkcRScCE&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/WoeAkcRScCE/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=WoeAkcRScCE'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/WoeAkcRScCE'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/WoeAkcRScCE/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/WoeAkcRScCE?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='182' yt:format='5'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7z.c.youtube.com/CigLENy73wIaHwkhcFLEkYCHWhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='182' yt:format='1'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7z.c.youtube.com/CigLENy73wIaHwkhcFLEkYCHWhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='182' yt:format='6'/>
+            <media:description type='plain'>De acordo com a Secretaria de Obras, o processo de licitação para a execução
+                do projeto da quadra poliesportiva Delmar Buffulin já foi iniciado e está em fase de conclusão. A
+                expectativa é que as obras sejam iniciadas em janeiro do ano que vem.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=WoeAkcRScCE&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/WoeAkcRScCE/0.jpg' height='360' width='480' time='00:01:31'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/WoeAkcRScCE/1.jpg' height='90' width='120' time='00:00:45.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/WoeAkcRScCE/2.jpg' height='90' width='120' time='00:01:31'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/WoeAkcRScCE/3.jpg' height='90' width='120' time='00:02:16.500'/>
+            <media:title type='plain'>Nova quadra poliesportiva no Parque Industrial</media:title>
+            <yt:duration seconds='182'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='9'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/1KEkLP7yI7Y</id>
+        <published>2014-10-24T15:56:49.000Z</published>
+        <updated>2014-10-31T16:02:48.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>60ª Sessão Ordinária - 16ª Legislatura - 23/10/2014</title>
+        <content type='text'>Assista a íntegra da 60ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+            A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo Net,
+            e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=1KEkLP7yI7Y&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/1KEkLP7yI7Y/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=1KEkLP7yI7Y'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/1KEkLP7yI7Y'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/1KEkLP7yI7Y/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/1KEkLP7yI7Y?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='7067' yt:format='5'/>
+            <media:content
+                    url='rtsp://r8---sn-p5qlsu7z.c.youtube.com/CigLENy73wIaHwm2I_L-LCSh1BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7067' yt:format='1'/>
+            <media:content
+                    url='rtsp://r8---sn-p5qlsu7z.c.youtube.com/CigLENy73wIaHwm2I_L-LCSh1BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7067' yt:format='6'/>
+            <media:description type='plain'>Assista a íntegra da 60ª Sessão Ordinária da Câmara de Vereadores de São
+                José dos Campos.
+
+                A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo
+                Net, e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=1KEkLP7yI7Y&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/1KEkLP7yI7Y/0.jpg' height='360' width='480'
+                             time='00:58:53.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/1KEkLP7yI7Y/1.jpg' height='90' width='120' time='00:29:26.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/1KEkLP7yI7Y/2.jpg' height='90' width='120' time='00:58:53.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/1KEkLP7yI7Y/3.jpg' height='90' width='120' time='01:28:20.250'/>
+            <media:title type='plain'>60ª Sessão Ordinária - 16ª Legislatura - 23/10/2014</media:title>
+            <yt:duration seconds='7067'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='56'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/0Z2JtBxJFOo</id>
+        <published>2014-10-23T13:18:45.000Z</published>
+        <updated>2014-10-31T11:52:40.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>'Com a Palavra', o autor do livro 'Cem anos de história', Rovilson Fernandes</title>
+        <content type='text'>O programa ‘Com a Palavra’ entrevistou Aluísio Rovilson Fernandes, autor do livro “Cem anos
+            de história”. A obra é resultado de pesquisas em atas antigas do conselho fundado na cidade em 1914 pela
+            Sociedade de São Vicente de Paulo.
+
+            Os vicentinos, como são chamados os católicos do grupo dedicado a visitas domiciliares e caridade, surgiram
+            na França em 1833 e atualmente estão presentes em 148 países. No Brasil desde 1862, são hoje cerca de 250
+            mil voluntários. Em São José atuam 2.500 vicentinos, divididos em 32 conselhos particulares e 4 conselhos
+            centrais.
+
+            ‘Com a Palavra’
+            O programa é exibido às quintas-feiras, às 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net. Também é
+            possível acompanhar a programação da emissora pelo site da Câmara www.camarasjc.sp.gov.br e por meio de
+            smartphones e tablets.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=0Z2JtBxJFOo&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/0Z2JtBxJFOo/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=0Z2JtBxJFOo'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/0Z2JtBxJFOo'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/0Z2JtBxJFOo/comments' countHint='1'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/0Z2JtBxJFOo?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='818' yt:format='5'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7e.c.youtube.com/CigLENy73wIaHwnqFEkctImd0RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='818' yt:format='1'/>
+            <media:content
+                    url='rtsp://r2---sn-p5qlsu7e.c.youtube.com/CigLENy73wIaHwnqFEkctImd0RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='818' yt:format='6'/>
+            <media:description type='plain'>O programa ‘Com a Palavra’ entrevistou Aluísio Rovilson Fernandes, autor do
+                livro “Cem anos de história”. A obra é resultado de pesquisas em atas antigas do conselho fundado na
+                cidade em 1914 pela Sociedade de São Vicente de Paulo.
+
+                Os vicentinos, como são chamados os católicos do grupo dedicado a visitas domiciliares e caridade,
+                surgiram na França em 1833 e atualmente estão presentes em 148 países. No Brasil desde 1862, são hoje
+                cerca de 250 mil voluntários. Em São José atuam 2.500 vicentinos, divididos em 32 conselhos particulares
+                e 4 conselhos centrais.
+
+                ‘Com a Palavra’
+                O programa é exibido às quintas-feiras, às 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net.
+                Também é possível acompanhar a programação da emissora pelo site da Câmara www.camarasjc.sp.gov.br e por
+                meio de smartphones e tablets.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=0Z2JtBxJFOo&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0Z2JtBxJFOo/0.jpg' height='360' width='480' time='00:06:49'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0Z2JtBxJFOo/1.jpg' height='90' width='120' time='00:03:24.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0Z2JtBxJFOo/2.jpg' height='90' width='120' time='00:06:49'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/0Z2JtBxJFOo/3.jpg' height='90' width='120' time='00:10:13.500'/>
+            <media:title type='plain'>'Com a Palavra', o autor do livro 'Cem anos de história', Rovilson Fernandes
+            </media:title>
+            <yt:duration seconds='818'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='57'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/rQEuBm3eW00</id>
+        <published>2014-10-22T13:39:38.000Z</published>
+        <updated>2014-10-31T16:02:48.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>59ª Sessão Ordinária - 16ª Legislatura - 21/10/2014</title>
+        <content type='text'>Assista a íntegra da 59ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+            A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo Net,
+            e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=rQEuBm3eW00&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/rQEuBm3eW00/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=rQEuBm3eW00'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/rQEuBm3eW00'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/rQEuBm3eW00/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/rQEuBm3eW00?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='7513' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwlNW95tBi4BrRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7513' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwlNW95tBi4BrRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7513' yt:format='6'/>
+            <media:description type='plain'>Assista a íntegra da 59ª Sessão Ordinária da Câmara de Vereadores de São
+                José dos Campos.
+
+                A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo
+                Net, e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=rQEuBm3eW00&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/rQEuBm3eW00/0.jpg' height='360' width='480'
+                             time='01:02:36.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/rQEuBm3eW00/1.jpg' height='90' width='120' time='00:31:18.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/rQEuBm3eW00/2.jpg' height='90' width='120' time='01:02:36.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/rQEuBm3eW00/3.jpg' height='90' width='120' time='01:33:54.750'/>
+            <media:title type='plain'>59ª Sessão Ordinária - 16ª Legislatura - 21/10/2014</media:title>
+            <yt:duration seconds='7513'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='46'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/JdaSw9Z_MMU</id>
+        <published>2014-10-20T19:43:43.000Z</published>
+        <updated>2014-10-20T19:50:04.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 3</title>
+        <content type='text'>Veja neste bloco reportagens sobre o Orçamento para a Educação, considerado o segundo maior
+            entre as áreas contempladas na Lei Orçamentária e também a campanha Outubro Rosa, de conscientização e
+            prevenção do câncer de mama. Confira ainda os projetos de lei aprovados e adiados na 58ª Sessão Ordinária da
+            Câmara de Vereadores de São José dos Campos.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=JdaSw9Z_MMU&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/JdaSw9Z_MMU/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=JdaSw9Z_MMU'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/JdaSw9Z_MMU'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/JdaSw9Z_MMU/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/JdaSw9Z_MMU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='710' yt:format='5'/>
+            <media:content
+                    url='rtsp://r7---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwnFMH_Ww5LWJRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='710' yt:format='1'/>
+            <media:content
+                    url='rtsp://r7---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwnFMH_Ww5LWJRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='710' yt:format='6'/>
+            <media:description type='plain'>Veja neste bloco reportagens sobre o Orçamento para a Educação, considerado
+                o segundo maior entre as áreas contempladas na Lei Orçamentária e também a campanha Outubro Rosa, de
+                conscientização e prevenção do câncer de mama. Confira ainda os projetos de lei aprovados e adiados na
+                58ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=JdaSw9Z_MMU&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/JdaSw9Z_MMU/0.jpg' height='360' width='480' time='00:05:55'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/JdaSw9Z_MMU/1.jpg' height='90' width='120' time='00:02:57.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/JdaSw9Z_MMU/2.jpg' height='90' width='120' time='00:05:55'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/JdaSw9Z_MMU/3.jpg' height='90' width='120' time='00:08:52.500'/>
+            <media:title type='plain'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 3</media:title>
+            <yt:duration seconds='710'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='10'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/dftVUnQ6Vls</id>
+        <published>2014-10-20T19:36:29.000Z</published>
+        <updated>2014-10-20T19:36:29.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 2</title>
+        <content type='text'>O Semana Legislativa traz as homenagens ao Sr. Jorge Augusto Gonçalves dos Reis e também do
+            médico Fernando Callera. Confira ainda o pinga-fogo da 57ª Sessão Ordinária da Câmara de Vereadores.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=dftVUnQ6Vls&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/dftVUnQ6Vls/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=dftVUnQ6Vls'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/dftVUnQ6Vls'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/dftVUnQ6Vls/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/dftVUnQ6Vls?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='475' yt:format='5'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwlbVjp0UlX7dRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='475' yt:format='1'/>
+            <media:content
+                    url='rtsp://r6---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwlbVjp0UlX7dRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='475' yt:format='6'/>
+            <media:description type='plain'>O Semana Legislativa traz as homenagens ao Sr. Jorge Augusto Gonçalves dos
+                Reis e também do médico Fernando Callera. Confira ainda o pinga-fogo da 57ª Sessão Ordinária da Câmara
+                de Vereadores.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=dftVUnQ6Vls&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/dftVUnQ6Vls/0.jpg' height='360' width='480'
+                             time='00:03:57.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/dftVUnQ6Vls/1.jpg' height='90' width='120' time='00:01:58.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/dftVUnQ6Vls/2.jpg' height='90' width='120' time='00:03:57.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/dftVUnQ6Vls/3.jpg' height='90' width='120' time='00:05:56.250'/>
+            <media:title type='plain'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 2</media:title>
+            <yt:duration seconds='475'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='5'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/m5oh-tdMAvc</id>
+        <published>2014-10-20T16:06:52.000Z</published>
+        <updated>2014-10-20T16:06:52.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 1</title>
+        <content type='text'>No primeiro bloco, o Semana Legislativa traz reportagens sobre a aprovação de projetos de
+            lei.
+
+            Semana Legislativa
+            Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram
+            a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às sextas-feiras pelos
+            canais 7 e 29 da NET.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=m5oh-tdMAvc&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/m5oh-tdMAvc/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=m5oh-tdMAvc'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/m5oh-tdMAvc'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/m5oh-tdMAvc/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/m5oh-tdMAvc?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='617' yt:format='5'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwn3AkzX-iGamxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='617' yt:format='1'/>
+            <media:content
+                    url='rtsp://r4---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwn3AkzX-iGamxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='617' yt:format='6'/>
+            <media:description type='plain'>No primeiro bloco, o Semana Legislativa traz reportagens sobre a aprovação
+                de projetos de lei.
+
+                Semana Legislativa
+                Em formato de revista eletrônica, o Semana Legislativa apresenta um resumo dos principais fatos que
+                marcaram a semana no Legislativo Municipal de São José dos Campos. O programa vai ao ar todas às
+                sextas-feiras pelos canais 7 e 29 da NET.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=m5oh-tdMAvc&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/m5oh-tdMAvc/0.jpg' height='360' width='480'
+                             time='00:05:08.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/m5oh-tdMAvc/1.jpg' height='90' width='120' time='00:02:34.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/m5oh-tdMAvc/2.jpg' height='90' width='120' time='00:05:08.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/m5oh-tdMAvc/3.jpg' height='90' width='120' time='00:07:42.750'/>
+            <media:title type='plain'>Semana Legislativa - de 13 a 17 de Outubro - Bloco 1</media:title>
+            <yt:duration seconds='617'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='39'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/nnWgT1KlFgA</id>
+        <published>2014-10-20T13:44:20.000Z</published>
+        <updated>2014-10-30T11:13:17.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Vereadores aprovam inclusão de artes marciais na grade curricular da rede municipal</title>
+        <content type='text'>Em São José, um projeto aprovado por unanimidade, pela Câmara, vai inserir aulas de artes
+            marciais na grade curricular das escolas municipais de tempo integral.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=nnWgT1KlFgA&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/nnWgT1KlFgA/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=nnWgT1KlFgA'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/nnWgT1KlFgA'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/nnWgT1KlFgA/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/nnWgT1KlFgA?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='130' yt:format='5'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwkAFqVST6B1nhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='130' yt:format='1'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu7r.c.youtube.com/CigLENy73wIaHwkAFqVST6B1nhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='130' yt:format='6'/>
+            <media:description type='plain'>Em São José, um projeto aprovado por unanimidade, pela Câmara, vai inserir
+                aulas de artes marciais na grade curricular das escolas municipais de tempo integral.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=nnWgT1KlFgA&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/nnWgT1KlFgA/0.jpg' height='360' width='480' time='00:01:05'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/nnWgT1KlFgA/1.jpg' height='90' width='120' time='00:00:32.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/nnWgT1KlFgA/2.jpg' height='90' width='120' time='00:01:05'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/nnWgT1KlFgA/3.jpg' height='90' width='120' time='00:01:37.500'/>
+            <media:title type='plain'>Vereadores aprovam inclusão de artes marciais na grade curricular da rede
+                municipal
+            </media:title>
+            <yt:duration seconds='130'/>
+        </media:group>
+        <gd:rating average='5.0' max='5' min='1' numRaters='7' rel='http://schemas.google.com/g/2005#overall'/>
+        <yt:statistics favoriteCount='0' viewCount='196'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/ORU5DbtyegU</id>
+        <published>2014-10-20T13:33:49.000Z</published>
+        <updated>2014-10-20T17:02:43.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Câmara analisa propostas do Orçamento de 2015 para a área da educação</title>
+        <content type='text'>Em nossa segunda reportagem especial sobre o Orçamento para o município no próximo ano
+            vamos apresentar a você um panorama sobre quais devem ser os investimentos para a educação em São José dos
+            Campos.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=ORU5DbtyegU&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/ORU5DbtyegU/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=ORU5DbtyegU'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/ORU5DbtyegU'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/ORU5DbtyegU/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/ORU5DbtyegU?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='160' yt:format='5'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu76.c.youtube.com/CigLENy73wIaHwkFenK7DTkVORMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='160' yt:format='1'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu76.c.youtube.com/CigLENy73wIaHwkFenK7DTkVORMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='160' yt:format='6'/>
+            <media:description type='plain'>Em nossa segunda reportagem especial sobre o Orçamento para o município no
+                próximo ano vamos apresentar a você um panorama sobre quais devem ser os investimentos para a educação
+                em São José dos Campos.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=ORU5DbtyegU&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/ORU5DbtyegU/0.jpg' height='360' width='480' time='00:01:20'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/ORU5DbtyegU/1.jpg' height='90' width='120' time='00:00:40'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/ORU5DbtyegU/2.jpg' height='90' width='120' time='00:01:20'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/ORU5DbtyegU/3.jpg' height='90' width='120' time='00:02:00'/>
+            <media:title type='plain'>Câmara analisa propostas do Orçamento de 2015 para a área da educação
+            </media:title>
+            <yt:duration seconds='160'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='107'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/BDMkqSNbQ5o</id>
+        <published>2014-10-17T21:36:54.000Z</published>
+        <updated>2014-10-31T16:02:48.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>58ª Sessão Ordinária - 16ª Legislatura - 16/10/2014</title>
+        <content type='text'>Assista a íntegra da 58ª Sessão Ordinária da Câmara de Vereadores de São José dos Campos.
+
+            A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo Net,
+            e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=BDMkqSNbQ5o&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/BDMkqSNbQ5o/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=BDMkqSNbQ5o'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/BDMkqSNbQ5o'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/BDMkqSNbQ5o/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/BDMkqSNbQ5o?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='7477' yt:format='5'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwmaQ1sjqSQzBBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7477' yt:format='1'/>
+            <media:content
+                    url='rtsp://r5---sn-p5qlsu7s.c.youtube.com/CigLENy73wIaHwmaQ1sjqSQzBBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='7477' yt:format='6'/>
+            <media:description type='plain'>Assista a íntegra da 58ª Sessão Ordinária da Câmara de Vereadores de São
+                José dos Campos.
+
+                A programação da TV Câmara é transmitida pelo canal 7 digital e 29 analógico da operadora de TV a cabo
+                Net, e também por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=BDMkqSNbQ5o&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BDMkqSNbQ5o/0.jpg' height='360' width='480'
+                             time='01:02:18.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BDMkqSNbQ5o/1.jpg' height='90' width='120' time='00:31:09.250'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BDMkqSNbQ5o/2.jpg' height='90' width='120' time='01:02:18.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/BDMkqSNbQ5o/3.jpg' height='90' width='120' time='01:33:27.750'/>
+            <media:title type='plain'>58ª Sessão Ordinária - 16ª Legislatura - 16/10/2014</media:title>
+            <yt:duration seconds='7477'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='42'/>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/api/videos/H2zrm-oRK9c</id>
+        <published>2014-10-17T13:05:45.000Z</published>
+        <updated>2014-10-20T21:04:30.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+        <category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='News'
+                  label='Notícias e política'/>
+        <title type='text'>Dr. Fernando Callera recebe medalha "Honra ao Mérito da Saúde" - 15/10/2014</title>
+        <content type='text'>Proposta pela vereadora Juliana Fraga (PT), a Câmara Municipal de São José dos Campos
+            concedeu a medalha "Honra ao Mérito da Saúde" ao médico hematologista e hemoterapeuta Fernando Callera,
+            reconhecido pela colaboração na implantação dos serviços de onco-hematologia e transplante de medula óssea
+            na região.
+        </content>
+        <link rel='alternate' type='text/html'
+              href='http://www.youtube.com/watch?v=H2zrm-oRK9c&amp;feature=youtube_gdata'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/videos/H2zrm-oRK9c/related'/>
+        <link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html'
+              href='http://m.youtube.com/details?v=H2zrm-oRK9c'/>
+        <link rel='self' type='application/atom+xml'
+              href='http://gdata.youtube.com/feeds/api/users/camarasjc/uploads/H2zrm-oRK9c'/>
+        <author>
+            <name>Câmara SJC</name>
+            <uri>http://gdata.youtube.com/feeds/api/users/camarasjc</uri>
+        </author>
+        <gd:comments>
+            <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+                         href='http://gdata.youtube.com/feeds/api/videos/H2zrm-oRK9c/comments' countHint='0'/>
+        </gd:comments>
+        <yt:hd/>
+        <media:group>
+            <media:category label='Notícias e política' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>
+                News
+            </media:category>
+            <media:content url='http://www.youtube.com/v/H2zrm-oRK9c?version=3&amp;f=user_uploads&amp;app=youtube_gdata'
+                           type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full'
+                           duration='4423' yt:format='5'/>
+            <media:content
+                    url='rtsp://r3---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwnXKxHqm-tsHxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='4423' yt:format='1'/>
+            <media:content
+                    url='rtsp://r3---sn-p5qlsu7l.c.youtube.com/CigLENy73wIaHwnXKxHqm-tsHxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp'
+                    type='video/3gpp' medium='video' expression='full' duration='4423' yt:format='6'/>
+            <media:description type='plain'>Proposta pela vereadora Juliana Fraga (PT), a Câmara Municipal de São José
+                dos Campos concedeu a medalha "Honra ao Mérito da Saúde" ao médico hematologista e hemoterapeuta
+                Fernando Callera, reconhecido pela colaboração na implantação dos serviços de onco-hematologia e
+                transplante de medula óssea na região.
+            </media:description>
+            <media:keywords/>
+            <media:player url='http://www.youtube.com/watch?v=H2zrm-oRK9c&amp;feature=youtube_gdata_player'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/H2zrm-oRK9c/0.jpg' height='360' width='480'
+                             time='00:36:51.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/H2zrm-oRK9c/1.jpg' height='90' width='120' time='00:18:25.750'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/H2zrm-oRK9c/2.jpg' height='90' width='120' time='00:36:51.500'/>
+            <media:thumbnail url='http://i.ytimg.com/vi/H2zrm-oRK9c/3.jpg' height='90' width='120' time='00:55:17.250'/>
+            <media:title type='plain'>Dr. Fernando Callera recebe medalha "Honra ao Mérito da Saúde" - 15/10/2014
+            </media:title>
+            <yt:duration seconds='4423'/>
+        </media:group>
+        <yt:statistics favoriteCount='0' viewCount='31'/>
+    </entry>
+</feed>

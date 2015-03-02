@@ -1,0 +1,44 @@
+
+.conteudo table
+{
+	margin:30px 0;
+	border-collapse: collapse;
+}
+
+.conteudo thead td
+{
+	color:#fff;
+	border:none;
+	height:50px;
+	padding:0 5px;
+	font-size:20px;
+	text-align:center;
+	font-family: 'zwo3Italic';
+	background-position:right top;
+	background-repeat:no-repeat;
+	background-image:url(../../imgs/cronograma-de-acoes/bg-thead.png);
+}
+
+.conteudo thead td:first-child
+{
+	background-position:left top;
+}
+
+.conteudo td
+{
+	padding:10px 5px;
+	border:1px solid #d2d7cd;
+}
+
+.conteudo tbody td
+{
+	color:#8c9385;
+	background-color:#f3f4f1;
+}
+
+.conteudo tbody td.data
+{
+	width:100px;
+	font-size:12px;
+	text-align:center;
+}

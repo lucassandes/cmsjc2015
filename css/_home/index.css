@@ -1,0 +1,457 @@
+.bemVindo
+{
+	font-size:12px;
+	margin-bottom:38px;
+	border-bottom:1px solid #e8e9e5;
+
+	background-image:url(../../imgs/home/foto-camara.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding-left:327px;
+	height:246px;
+}
+
+.bemVindo h1
+{
+	font-weight:normal;
+	padding-top:23px;
+	font-size:16px;
+	color:#d6bf27;
+}
+
+.bemVindo h1 span
+{
+	padding-left: 66px;
+}
+
+.bemVindo p
+{
+	padding-left:66px;
+	margin-top:16px;
+}
+
+/* Acesso Rápido
+------------------------------------------------------------------------ */
+
+.acessoRapido
+{
+	color:#b6b8aa;
+	font-size:16px;
+	margin-bottom:30px;
+}
+
+.acessoRapido li
+{
+	padding:5px 0 5px 0;
+}
+
+.acessoRapido a
+{
+	color:#5a7f91;
+	font-size:14px;
+	padding:6px 0 4px 30px;
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+}
+
+.acessoRapido a:hover
+{
+	color:#94b4c3;
+}
+
+/* sessoesPlenarias
+------------------------------------------------------------------------ */
+
+.sessoesPlenarias
+{
+	height:300px;
+}
+
+.sessoesPlenarias .imgDestaque
+{
+	overflow:hidden;
+	height:260px;
+	width:330px;
+	float:left;
+}
+
+.sessoesPlenarias .mask
+{
+	background-image:url(../../imgs/home/sessoes-plenarias/mask.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	position:absolute;
+	display:block;
+	height:53px;
+	width:310px;
+	color:#fff;
+
+	padding:192px 10px 15px 10px;
+	font-size:13px;
+}
+
+.sessoesPlenarias .mask strong
+{
+	font-size:20px;
+}
+
+.sessoesPlenarias .mask:hover
+{
+	color:#d7d7d7;
+}
+
+.sessoesPlenarias .colunaDireita
+{
+	float:right;
+	width:330px;
+}
+
+.sessoesPlenarias .colunaDireita h2
+{
+	font-weight:normal;
+	font-size:20px;
+	color:#5a7f91;
+}
+
+.sessoesPlenarias .colunaDireita h2 a
+{
+	color:#5a7f91;
+}
+
+.sessoesPlenarias .colunaDireita p
+{
+	margin:0 0 15px 0;
+}
+
+.sessoesPlenarias .colunaDireita ul
+{
+	margin-bottom:10px;
+}
+
+.sessoesPlenarias .colunaDireita li
+{
+	color:#b6b8aa;
+	font-size:16px;
+	padding:2px 0 3px 0;
+}
+
+.sessoesPlenarias .colunaDireita li a
+{
+	color:#5a7f91;
+	font-size:14px;
+
+	background-image:url(../../imgs/geral/mid-lista.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	padding:0 0 0 14px;
+}
+
+.sessoesPlenarias .colunaDireita li a:hover
+{
+	color:#91b5c7;
+}
+
+.sessoesPlenarias .colunaDireita .pautaResultado
+{
+	color:#5a7f91;
+	font-size:14px;
+
+	background-image:url(../../imgs/geral/mid-lista.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	padding:0 0 0 14px;
+}
+
+.sessoesPlenarias .colunaDireita .pautaResultado a
+{
+	color:#5A7F91;
+	font-size:14px;
+	background:none;
+	padding:0 5px 0 5px;
+}
+
+.sessoesPlenarias .colunaDireita .botDuvidas
+{
+	border-top:1px solid #e8e9e5;
+	padding-top:12px;
+}
+
+.sessoesPlenarias .colunaDireita .botDuvidas a
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:7px 0 2px 20px;
+	font-size:13px;
+	color:#5a7f91;
+}
+
+.sessoesPlenarias .colunaDireita .botDuvidas a:hover
+{
+	color:#9fc0d0;
+}
+
+/* agendaEventos
+------------------------------------------------------------------------ */
+
+.agendaEventos
+{
+	margin-bottom:30px;
+}
+
+.agendaEventos h2
+{
+	font-weight:normal;
+	font-style:italic;
+	font-size:20px;
+	color:#7b8843;
+}
+
+/* calendario
+------------------------------------------------------------------------ */
+
+.agendaEventos .calendario
+{
+	float:left;
+	width:330px;
+	margin-top:10px;
+}
+
+.agendaEventos .calendario .mesNav
+{
+	background-image:url(../../imgs/geral/navegacao/barra.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	display:block;
+	height:40px;
+}
+
+.agendaEventos .calendario .mesNav p
+{
+	text-align:center;
+	padding-top:12px;
+	font-size:13px;
+	color:#fff;
+	margin:0;
+}
+
+.agendaEventos .calendario .mesNav .botAnt,
+.agendaEventos .calendario .mesNav .botProx
+{
+	position:absolute;
+	overflow:hidden;
+	height:14px;
+	width:11px;
+}
+
+.agendaEventos .calendario .mesNav .botAnt:hover img,
+.agendaEventos .calendario .mesNav .botProx:hover img
+{
+	margin-top:-14px;
+}
+
+.agendaEventos .calendario .mesNav .botAnt
+{
+	margin:14px 0 0 10px;
+}
+
+.agendaEventos .calendario .mesNav .botProx
+{
+	margin:14px 0 0 310px;
+}
+
+/* calendario TABELA
+------------------------------------------------------------------------ */
+
+.agendaEventos .calendario table td
+{
+	height:30px;
+	color:#b6b8aa;
+	font-size:16px;
+	text-align:center;
+}
+
+.agendaEventos .calendario table thead td
+{
+	font-weight:bold;
+}
+
+.agendaEventos .calendario table td a
+{
+	background-image:url(../../imgs/home/calendario/bg-repeat-x.png);
+	background-position:center bottom;
+	background-repeat:repeat-x;
+	background-color:#8d9a4d;
+	padding:5px 0 5px 0;
+	display:block;
+	color:#fff;
+
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+}
+
+/* evento
+------------------------------------------------------------------------ */
+
+.agendaEventos .evento
+{
+	float:right;
+	width:330px;
+}
+
+.agendaEventos .evento .data
+{
+	color:#b6b8aa;
+	font-size:12px;
+	margin-top:25px;
+	text-align:right;
+	padding-bottom:10px;
+	border-bottom:1px solid #e8e9e5;
+}
+
+.agendaEventos .evento li strong
+{
+	font-size:12px;
+	color:#7b8843;
+}
+
+.agendaEventos .evento li
+{
+	margin-bottom:20px;
+}
+
+.agendaEventos .evento li a:hover strong
+{
+	color:#afb78e;
+}
+
+.agendaEventos .evento li a:hover
+{
+	color:#7e7f81;
+}
+
+.agendaEventos .evento .vejaMaisEventos
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:6px 0 3px 20px;
+	font-size:14px;
+	color:#5a7f91;
+}
+
+.agendaEventos .evento .vejaMaisEventos:hover
+{
+	color:#8fafbf;
+}
+
+/* ultimasNoticias
+------------------------------------------------------------------------ */
+
+.ultimasNoticias
+{
+	background-color:#f5f5f4;
+	text-align:justify;
+	padding:20px;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.ultimasNoticias h3 a
+{
+	color:#d6bf27;
+	font-size:20px;
+	font-weight:normal;
+	margin-bottom:15px;
+}
+
+.ultimasNoticias a
+{
+	display:block;
+}
+
+.ultimasNoticias .data
+{
+	color:#b6b8aa;
+	font-size:12px;
+}
+
+.ultimasNoticias h2,
+.ultimasNoticias h2 a
+{
+	margin:0;
+	padding:0;
+	color:#5a7f91;
+	font-size:16px;
+	margin-top:5px;
+	font-weight:normal;
+}
+
+.ultimasNoticias div
+{
+	padding-bottom:20px;
+	border-bottom:1px solid #e1e2dd;
+}
+
+.ultimasNoticias div:hover a,
+.ultimasNoticias div:hover h2 a,
+.ultimasNoticias div:hover .data
+{
+	color:#b9b9b9;
+}
+
+.ultimasNoticias .vejaMais
+{
+	border-top:1px solid #f9faf9;
+	padding-top:20px;
+	margin:0;
+}
+
+.ultimasNoticias .vejaMais a
+{
+	color:#5a7f91;
+
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	padding:5px 0 0 25px;
+}
+
+.ultimasNoticias .vejaMais a:hover
+{
+	color:#a0bcca;
+}
+
+/* portalTransparencia
+------------------------------------------------------------------------ */
+
+.portalTransparencia
+{
+	height:143px;
+	display:block;
+	overflow:hidden;
+	margin-top:20px;
+}
+
+.portalTransparencia:hover img
+{
+	margin-top:-143px;
+}
+
+.ovale
+{
+	height:77px;
+	display:block;
+	overflow:hidden;
+	margin-top:64px;
+	float:left;
+}
+
+.ovale:hover img
+{
+	margin-top:-77px;
+}

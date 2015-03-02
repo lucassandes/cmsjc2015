@@ -1,0 +1,59 @@
+
+.listaTel
+{
+	margin-top:20px;
+	padding-top:25px;
+	background-color:#f4f4f2;
+}
+
+.listaTel li
+{
+	width:100%;
+	height:26px;
+	display:table;
+	overflow:hidden;
+	line-height:26px;
+	vertical-align:middle;
+	background-color:#fff;
+	
+	font-size:12px;
+	text-transform:uppercase;
+}
+
+.listaTel li.cor2
+{
+	background-color:#f4f4f2;
+}
+
+.listaTel li span
+{
+	padding:0 10px;
+	display:table-cell;
+	text-transform:none;
+	vertical-align:middle;
+}
+
+.listaTel li>span:first-child
+{
+	width:340px;
+	color:#5a7fa3;
+	text-transform:uppercase;
+}
+
+.listaTel li a
+{
+	color:#5a7fa3;
+	text-decoration:underline;
+}
+
+.listaTel li a:hover
+{
+	color:#7B8843;
+}
+
+.listaTel li strong
+{
+	font-size:13px;
+	font-weight:normal;
+	font-family:"zwo6", Tahoma, Geneva, sans-serif;
+}

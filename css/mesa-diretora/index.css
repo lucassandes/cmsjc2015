@@ -1,0 +1,120 @@
+/* listagem
+------------------------------------------------------------------------------------------------------------------------ */
+.listagem li
+{
+	width:330px;
+	float:left;
+	margin:0 40px 38px 0;
+}
+
+.listagem li.w100p
+{
+	width: 100%;
+}
+
+.listagem .descricao
+{
+	width: 330px;
+}
+
+.listagem .mask a
+{
+	width:121px;
+	height:120px;
+	display:block;
+	overflow:hidden;
+}
+
+.listagem .mask a span
+{
+	width:121px;
+	height:120px;
+	display:block;
+	background-image:url(../../imgs/mesa-diretora/mask.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	position:absolute;
+}
+
+/* listagem
+------------------------------------------------------------------------------------------------------------------------ */
+
+.listagem .cargo
+{
+	margin-bottom: 5px;
+	display: block;
+	font-size: 14px;
+	font-weight: normal;
+	color: #7b8843;
+}
+
+.listagem h2 a
+{
+	line-height: 17px;
+	font-weight:normal;
+	font-size:20px;
+	color:#5a7f91;
+	display:block;
+}
+
+.listagem .partido
+{
+	color:#fff;
+	height:25px;
+	font-size:14px;
+	margin:7px 0 5px 0;
+	text-transform:uppercase;
+}
+
+.listagem .partido a
+{
+	background-image:url(../../imgs/mesa-diretora/bg-partido.jpg);
+	background-position:left center;
+	background-repeat:no-repeat;
+	text-align:center;
+	line-height:25px;
+	display:block;
+	height:25px;
+	width:40px;
+	color:#fff;
+}
+
+.listagem .botPerfil
+{
+	background-image:url(../../imgs/geral/mid.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding:5px 0 3px 24px;
+	margin-top:8px;
+	color:#5a7f91;
+	display:block;
+}
+
+.listagem h2 a:hover,
+.listagem .cargo:hover,
+.listagem .botPerfil:hover
+{
+	color:#9eb9c7;
+}
+
+
+/* atribuições
+------------------------------------------------------------------------------------------------------------------------ */
+.atribuicoes
+{
+	padding:24px 20px 17px 20px;
+	margin-bottom:10px;
+	background-color:#f4f4f2;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+.atribuicoes h3
+{
+	color: #5a7f91;
+	font-size:20px;
+	margin-bottom: 15px;
+	font-weight:normal;
+}

@@ -1,0 +1,18 @@
+.titulo
+{
+	height: 32px;
+	margin-bottom:20px;
+}
+
+.contato
+{
+	color:#5a7f91;
+	font-size:16px;
+	line-height:18px;
+}
+
+.contato strong
+{
+	color:#d6bf27;
+	font-size:14px;
+}

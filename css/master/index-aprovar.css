@@ -1,0 +1,406 @@
+html, body
+{
+	height: 100%;
+}
+
+.tudo
+{
+	min-height: 100%;
+}
+
+* html .tudo
+{
+	height: 100%; /* hack para IE6 que trata height como min-height */
+}
+
+.tudo
+{
+	background-image:url(../../imgs/master/aprovar/bkg-topo.png);
+	background-position:center top;
+	background-repeat:no-repeat;
+	position: relative;
+}
+
+body
+{
+	background-image:url(../../imgs/master/bkg.jpg);
+	background-repeat:repeat-y;
+	background-position:center;
+	background-color:#f1f4f6;
+}
+
+.geral
+{
+	width:970px;
+	margin:0 auto;
+	padding:40px 10px 155px 10px;
+}
+
+.rodape
+{
+	bottom: 0;
+	width:100%;
+	height:155px;
+	position: absolute;
+	
+	background-image:url(../../imgs/master/bg-rodape.png);
+	background-position:center top;
+	background-repeat:repeat-x;
+}
+
+/* GERAL MASTER
+----------------------------------------------------------------------------------------------------------------- */
+
+.menu
+{
+	margin:40px 0 0 0;
+	height:20px;
+}
+
+.menu li
+{
+	margin-left:60px;
+}
+
+.menu li:first-child
+{
+	margin-left:0;
+}
+
+.menu li,
+.menu li a
+{
+	float:left;
+	color: #fff;
+	font-size:16px;
+}
+
+.menu li a.sel,
+.menu li a:hover
+{
+	color: #937695;
+}
+
+.menuPadraoHome li
+{
+	margin-left:79px;
+}
+
+/* GERAL MASTER
+----------------------------------------------------------------------------------------------------------------- */
+
+/* busca
+------------------------------------------------------------ */
+
+.busca
+{
+	height:28px;
+	color:#5a7f91;
+	padding-top:14px;
+	margin:36px 0 70px 0;
+}
+
+.busca>div
+{
+	width:736px;
+}
+
+.busca span
+{
+	float:left;
+	display:block;
+	margin-right:9px;
+	margin-top:-14px;
+}
+
+/* BUSCA / campo01
+------------------------------------------------------------ */
+
+.busca .texto
+{
+	margin-top:0;
+}
+
+/* BUSCA / campo01
+------------------------------------------------------------ */
+
+.busca .campo01
+{
+	background-image:url(../../imgs/master/busca/input1-busca.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	display:block;
+	width:407px;
+	height:43px;
+}
+
+.busca .campo01 input
+{
+	height:19px;
+	width:380px;
+	color:#b6b8aa;
+	font-size:16px;
+	margin:10px 0 0 15px;
+	background-color:transparent;
+}
+
+/* BUSCA / campo02
+------------------------------------------------------------ */
+
+.busca .campo02
+{
+	background-image:url(../../imgs/master/busca/input2-busca.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	display:block;
+	width:199px;
+	height:43px;
+}
+
+.busca .campo02 select
+{
+	height:19px;
+	width:172px;
+	color:#b6b8aa;
+	font-size:16px;
+	margin:10px 0 0 15px;
+	background-color:transparent;
+}
+
+/* BUSCA / botBuscar
+------------------------------------------------------------ */
+
+.busca .botBuscar
+{
+	background-image:url(../../imgs/master/busca/bkg-lupa.png);
+	background-position:center top;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+	display:block;
+	float:right;
+	height:91px;
+	width:88px;
+}
+
+.busca .botBuscar b
+{
+	margin:26px 0 0 37px;
+	overflow:hidden;
+	display:block;
+	height:10px;
+	width:38px;
+}
+
+.busca .botBuscar b:hover input
+{
+	margin-top:-10px;
+}
+
+/* redesSociais
+------------------------------------------------------------ */
+
+.redesSociais 
+{
+	float:right;
+	height:32px;
+	margin-top:-75px;
+}
+
+.redesSociais a
+{
+	float:left;
+	width:25px;
+	height:25px;
+	display:block;
+	overflow:hidden;
+	margin-right:2px;
+}
+
+.redesSociais a:hover img
+{
+	margin-top:-25px;
+}
+
+/* colunaEsquerda
+------------------------------------------------------------ */
+
+.colunaEsquerda
+{
+	margin-top:-20px;
+	width:190px;
+	float:left;
+}
+
+.colunaEsquerda .menuLateral
+{
+	margin-bottom:50px;
+}
+
+.colunaEsquerda .menuLateral a
+{
+	color:#5a7f91;
+	display:block;
+	padding:12px 0 10px 0;
+}
+
+.colunaEsquerda .menuLateral a.sel,
+.colunaEsquerda .menuLateral a:hover
+{
+	color:#94bccf;
+}
+
+.colunaEsquerda .menuLateral li
+{
+	border-top:1px solid #e5e7e3;
+}
+
+.colunaEsquerda .menuLateral li:first-child
+{
+	border:none;
+}
+
+/* Menu Amarelo */
+
+.colunaEsquerda .menuAmarelo
+{
+	margin-bottom:38px;
+}
+
+.colunaEsquerda .menuAmarelo a
+{
+	color:#7b8843;
+}
+
+.colunaEsquerda .menuAmarelo a.sel,
+.colunaEsquerda .menuAmarelo a:hover
+{
+	color:#b8c28e;
+}
+
+/* BANNERS */
+
+.colunaEsquerda .banner
+{
+	margin-bottom:50px;
+}
+
+.colunaEsquerda .banner li
+{
+	margin-bottom:20px;
+}
+
+.colunaEsquerda .banner li a
+{
+	display:block;
+	overflow:hidden;
+}
+
+.colunaEsquerda .banner .botH193
+{
+	height:193px;
+}
+
+.colunaEsquerda .banner .botH193:hover img
+{
+	margin-top:-193px;
+}
+
+.colunaEsquerda .banner .botH110
+{
+	height:110px;
+}
+
+.colunaEsquerda .banner .botH110:hover img
+{
+	margin-top:-110px;
+}
+
+/* conteudo
+----------------------------------------------------------------------------------------------------------------- */
+
+.conteudo
+{
+	width:700px;
+	float:right;
+}
+
+.titulo
+{
+	height:67px;
+}
+
+/* rodape
+----------------------------------------------------------------------------------------------------------------- */
+
+.rodape>div
+{
+	width:970px;
+	margin:0 auto;
+	padding:0 10px 0 10px;
+}
+
+.rodape .brasao
+{
+	background-image:url(../../imgs/master/brasao.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	padding-left:70px;
+	margin-top:20px;
+	height:50px;
+}
+
+.rodape .brasao,
+.rodape .brasao a
+{
+	font-size:12px;	
+}
+
+.rodape .brasao address
+{
+	display:block;
+	margin:0 0 0 0;
+	padding:0px 0 0 0;
+}
+
+.rodape .brasao a,
+.rodape .brasao a.clicknow strong
+{
+	color:#5a7f91;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.rodape .brasao a:hover,
+.rodape .brasao a.clicknow:hover strong
+{
+	color:#93adba;
+}
+
+.rodape .brasao a.clicknow
+{
+	color:inherit;
+	font-weight:normal;
+}
+
+.rodape .brasao a.clicknow:hover
+{
+	color:#5b5c5e;
+}
+
+
+
+.rodape .brasao .erro
+{
+	margin:0 0 4px 0;
+	font-size:14px;
+}
+
+.rodape .brasao .erro a
+{
+	font-size:14px;
+}
+
+.rodape .brasao .erro a:hover
+{
+	color:#97c3d8;
+}

@@ -1,0 +1,123 @@
+/* base */
+.datepicker{
+}
+.datepicker * {
+	outline: none;
+	font-family: Trebuchet MS;
+	font-size: 10px;
+	font-weight: normal;
+}
+.datepicker table{
+	padding: 4px;
+	outline: none;
+	border:1px solid #dddddd;
+	background-color: #eeeeee;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+/* head */
+.datepicker table thead td{
+	border:1px solid #e78f08;
+	background-color: #f7b64a;
+	height: 20px;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 11px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+.datepicker table thead td table{
+	width: 100%;
+}
+.datepicker table thead td table,
+.datepicker table thead td table td,
+.datepicker table thead td table td a{
+	background: none;
+	border: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.datepicker table thead td table td.anterior,
+.datepicker table thead td table td.proximo{
+	width: 22px;
+}
+.datepicker table thead td table td.anterior a,
+.datepicker table thead td table td.proximo a{
+	text-align: center;
+	display: block;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.datepicker table thead td table td.anterior a{
+	background-image: url(../imgs/bot1.jpg);
+}
+.datepicker table thead td table td.proximo a{
+	background-image: url(../imgs/bot2.jpg);
+}
+.datepicker table thead td table td.anterior a:hover,
+.datepicker table thead td table td.proximo a:hover{
+	border: none;
+	background-color: #fdf9e1;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+.datepicker table thead td table td.anterior a:hover{
+	background-image: url(../imgs/bot1_ovr.jpg);
+}
+.datepicker table thead td table td.proximo a:hover{
+	background-image: url(../imgs/bot2_ovr.jpg);
+}
+
+/* body */
+.datepicker table tbody tr.semana td{
+	border: none;
+	background: none;
+	height: 25px;
+	color: #333333;
+	font-weight: bold;		
+	text-align: center;
+}
+.datepicker table tbody td span,
+.datepicker table tbody td a{
+	text-align: center;
+	display: block;
+	height: 19px;
+	line-height: 19px;
+	width: 22px;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #f9f9f9;
+	border: 1px solid #cccccc;
+	color: #1c94c4;
+}
+.datepicker table tbody td span{
+	color: #cccccc;
+}
+.datepicker table tbody td a:hover{
+	background-color: #fdf9e1;
+	color: #c77405;
+	border: 1px solid #fed22f;
+}
+.datepicker table tbody td a.sel{
+	background-color: #fff0a5;
+	color: #363636;
+	border: 1px solid #fbcb09;
+}
+
+/* foot */
+.datepicker table tfoot tr td{
+	text-align: center;
+}
+.datepicker table tfoot tr td a{
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.datepicker table tfoot tr td a:hover{
+	text-decoration: underline;
+}

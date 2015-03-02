@@ -1,0 +1,86 @@
+
+.espacoRodape
+{
+	height:40px;
+	clear:both;
+}
+
+.listagem
+{
+	padding-bottom: 40px;
+}
+
+.listagem li
+{
+	display: block;
+	background-color: transparent;
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+
+.listagem a
+{
+	height: 26px;
+	padding: 14px 0 0 34px;
+	display: inline-block;
+	color: #5a7f91;
+}
+
+.listagem li
+{
+	background-image: url(../../imgs/mapa-do-site/mid.png);
+}
+
+.listagem .linha
+{
+	background: transparent url(../../imgs/mapa-do-site/mid-linha.png) left top no-repeat;
+}
+
+.listagem>li>a
+{
+	font-size: 16px;
+}
+
+
+.listagem li li
+{
+	padding-left: 32px;
+	background-image: url(../../imgs/mapa-do-site/mid-children.png);
+}
+
+.listagem .mid-parent
+{
+	background-image: url(../../imgs/mapa-do-site/mid-parent.png);
+}
+
+.listagem .mid-children
+{
+	margin-left: 32px;
+	padding-left: 0px;
+	background-image: url(../../imgs/mapa-do-site/mid.png);
+}
+
+.listagem .mid-children li a
+{
+	padding-left: 64px;
+}
+
+.listagem .mid-children-ult
+{
+	background-image: url(../../imgs/mapa-do-site/mid-children-ult.png);
+}
+
+.listagem .mid-children li
+{
+	padding-left: 0px!important;
+}
+
+.listagem .pri
+{
+	background-image: url(../../imgs/mapa-do-site/pri.png);
+}
+
+.listagem .ult
+{
+	background-image: url(../../imgs/mapa-do-site/ult.png);
+}

@@ -1,0 +1,113 @@
+.conteudo p
+{
+	margin-top: 20px;
+}
+
+.formulario label
+{
+	color: #B6B8AA;
+    font-size: 16px;
+}
+
+.formulario span
+{
+	width: 702px;
+	height: 43px;
+	display: block;
+	background: url("../../imgs/simulador-de-remuneracao/input700.png") left top no-repeat;
+}
+
+.formulario span select
+{
+	background-color: transparent;
+    color: #898A80;
+    font-size: 13px;
+    margin: 13px 0 0 10px;
+	width: 680px;
+}
+
+.formulario .calcular
+{
+	margin-top: 20px;
+	height: 40px;
+	float: right;
+	display: block;
+	overflow: hidden;
+}
+
+.formulario .calcular:hover input
+{
+	margin-top: -40px;
+}
+
+/* Tabela
+---------------------------------------------------*/
+
+.resultado
+{
+	width: 100%;
+	height: 70px;
+	margin-top: 30px;
+	
+	border-collapse: collapse;
+}
+
+.resultado td
+{
+	width: 50%;
+}
+
+.resultado thead td
+{
+	height: 70px;
+	font: 20px 'zwo3Italic', Tahoma, Geneva, sans-serif;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+
+	background: url(../../imgs/simulador-de-remuneracao/bg-top.png) center top no-repeat;
+}
+
+.resultado thead td
+{
+	line-height: 16px;
+}
+
+.resultado thead tr,
+.resultado thead td
+{
+	margin: 0;
+	padding: 0;
+}
+
+.resultado thead span
+{
+	display: block;
+	margin: 0 0 0 20px;
+}
+
+.resultado thead .cargo
+{
+	margin-bottom: 5px;
+}
+
+.resultado tbody
+{
+	font: 16px 'zwo3', Tahoma, Geneva, sans-serif;
+	color: #b6b8aa;
+}
+
+.resultado tbody td
+{
+	padding: 10px 0 10px 20px;
+}
+
+.resultado tbody td
+{
+	border: 1px solid #d2d7cd;
+}
+
+.resultado .total
+{
+	color: #636365;
+}

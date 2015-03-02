@@ -1,0 +1,191 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font: 11px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	list-style: none;
+	outline: none;
+}
+strong, b
+{
+	font-weight: bold;
+	color: #262626;
+}
+img
+{
+	border: none;
+}
+a
+{
+	text-decoration: none;
+	color:#333333;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+sub
+{
+	color: #999999;
+}
+p
+{
+	color: #666666;
+	font-weight: bold;
+	font-size: 13px;
+}
+h1
+{
+	text-align: center;
+	margin: 10px 0px 10px 0px;
+}
+h2
+{
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	background-color: #168196;
+	background-image: url(../imgs/geral/bg-x-titulo.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+	padding: 7px 15px 30px 15px;
+	margin: 10px 0px -15px 0px;
+}
+h3
+{
+	border-bottom: 2px solid #666666;
+	height: 30px;
+	line-height: 30px;
+	margin: 15px 0px 15px 0px;
+	text-indent: 15px;
+	font-weight: bold;
+	font-size: 14px;
+}
+h4
+{
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	background-color: #666666;
+	color: #ffffff;
+	height: 30px;
+	line-height: 30px;
+	margin: 15px 0px 15px 0px;
+	text-indent: 15px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+/* Formulário */
+form ul
+{
+	list-style: none;
+	margin: 0px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
+}
+form ul li
+{
+	display: block;
+	margin-bottom: 15px;
+}
+form ul li.clear
+{
+	margin: 0;
+	padding: 0;
+	float: none;
+	clear: left;
+}
+form ul li.left
+{
+	float: left !important;
+	margin-right: 20px !important;
+}
+form input[type="text"],
+form input[type="password"],
+form textarea,
+form select
+{
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #e1e1e1;
+	padding: 6px;
+	background-image: url(../imgs/geral/input.gif);
+	background-position: left top;
+	background-repeat: repeat-x;
+	background-color: #ffffff;
+}
+form input[type="file"],
+form input[type="text"],
+form input[type="password"],
+form textarea,
+form select
+{
+	margin: 5px 0px 0px 0px;
+	display: block;
+	color: #000000;
+}
+form select option
+{
+	text-indent: 5px;
+}
+form select optgroup
+{
+	font-weight: bold;
+}
+form select optgroup *
+{
+	text-indent: 25px;
+}
+
+/* */
+fieldset
+{
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #d1d1d1;
+	margin: 15px 0px 25px 0px;
+	padding-bottom: 8px;
+}
+fieldset legend
+{
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+	color:#333333;
+}
+fieldset legend a
+{
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0px 125px 0px 5px;
+	margin: 0px 0px 5px 0px;
+	background-image: url(../imgs/geral/mostrar.jpg);
+	background-repeat: no-repeat;
+	background-position: right center;
+	display: block;
+	color:#333333;
+}
+fieldset legend a.menos
+{
+	background-image: url(../imgs/geral/ocultar.jpg);
+}
+fieldset legend a:hover
+{
+	text-decoration: none;
+}
+fieldset table,
+fieldset ul
+{
+	margin: 0;
+	padding: 0;
+}
+fieldset .margem
+{
+	margin-left:20px !important;
+}

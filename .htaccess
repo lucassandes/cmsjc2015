@@ -1,0 +1,15 @@
+RewriteEngine On
+Options -Indexes
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^audiencias-publicas/([0-9]+)(/.*)?$ audiencias-publicas/?id=$1 [NC,L]
+RewriteRule ^comissoes/(comissoes-permanentes|comissoes-temporarias|comissoes-encerradas)(/)?$ comissoes/detalhe.php?tipo=$1 [NC,L]
+RewriteRule ^processo-de-exploracao-mineraria/([0-9]+)(/.*)?$ processo-de-exploracao-mineraria/detalhe.php?id=$1 [NC,L]
+RewriteRule ^licitacoes/(licitacoes-em-aberto|licitacoes-em-andamento|licitacoes-concluidas)(/)?$ licitacoes/lista.php?status=$1 [NC,L]
+RewriteRule ^noticias/([0-9]+)(/.*)?$ noticias/detalhe.php?id=$1 [NC,L]
+RewriteRule ^noticias/imprimir/([0-9]+)(/.*)?$ noticias/imprimir.php?id=$1 [NC,L]
+RewriteRule ^sessoes-plenarias/(sessoes-[0-9a-z\-]+)/?$ sessoes-plenarias/index.php?tipo=$1 [NC,L]
+RewriteRule ^sessoes-plenarias/(sessoes-[0-9a-z\-]+)/([a-z\-]+)(/.*)?$ sessoes-plenarias/lista.php?tipo=$1&filtro=$2 [NC,L]
+RewriteRule ^sessoes-plenarias/([0-9]+)(/.*)?$ sessoes-plenarias/detalhe.php?id=$1 [NC,L]
+RewriteRule ^vereadores/([0-9]+)(/.*)?$ vereadores/detalhe.php?id=$1 [NC,L]
+RewriteRule ^programa-de-visita-de-escolas/([0-9]+)(/.*)?$ programa-de-visita-de-escolas/detalhe.php?id=$1 [NC,L]

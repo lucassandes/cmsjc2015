@@ -1,0 +1,930 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "id": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads"},
+        "updated": {"$t": "2014-11-05T15:38:10.662Z"},
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://gdata.youtube.com/schemas/2007#video"
+            }
+        ],
+        "title": {"$t": "Uploads by Câmara SJC", "type": "text"},
+        "logo": {"$t": "http://www.gstatic.com/youtube/img/logo.png"},
+        "link": [
+            {
+                "rel": "related",
+                "type": "application/atom+xml",
+                "href": "http://gdata.youtube.com/feeds/base/users/camarasjc"
+            },
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg/videos"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#batch",
+                "type": "application/atom+xml",
+                "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/batch"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads?alt=json&start-index=1&max-results=25"
+            },
+            {
+                "rel": "next",
+                "type": "application/atom+xml",
+                "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads?alt=json&start-index=26&max-results=25"
+            }
+        ],
+        "author": [
+            {
+                "name": {"$t": "Câmara SJC"},
+                "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+            }
+        ],
+        "generator": {"$t": "YouTube data API", "version": "2.1", "uri": "http://gdata.youtube.com"},
+        "openSearch$totalResults": {"$t": 900},
+        "openSearch$startIndex": {"$t": 1},
+        "openSearch$itemsPerPage": {"$t": 25},
+        "entry": [
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/dOn-djR6vg0"},
+                "published": {"$t": "2014-11-05T12:33:04.000Z"},
+                "updated": {"$t": "2014-11-05T13:00:37.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "62ª Sessão Ordinária - 16ª Legislatura - 04/11/2014", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=dOn-djR6vg0&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/dOn-djR6vg0/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=dOn-djR6vg0&amp;feature=youtube_gdata\"\u003e62&ordf; Sess&atilde;o Ordin&aacute;ria - 16&ordf; Legislatura - 04/11/2014\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eAssista a &iacute;ntegra da 62&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos.\n\nA programa&ccedil;&atilde;o da TV C&acirc;mara &eacute; transmitida pelo canal 7 digital e 29 anal&oacute;gico da operadora de TV a cabo Net, e tamb&eacute;m por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n13\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:46:36\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=dOn-djR6vg0&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/dOn-djR6vg0"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/TgPnGVua-bA"},
+                "published": {"$t": "2014-11-05T11:51:03.000Z"},
+                "updated": {"$t": "2014-11-05T11:51:04.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Câmara cobra agilidade da Sabesp no caso do córrego Ressaca", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=TgPnGVua-bA&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/TgPnGVua-bA/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=TgPnGVua-bA&amp;feature=youtube_gdata\"\u003eC&acirc;mara cobra agilidade da Sabesp no caso do c&oacute;rrego Ressaca\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNa zona oeste da cidade, moradores do Jardim P&ocirc;r do Sol est&atilde;o sofrendo com o mau cheiro e a polui&ccedil;&atilde;o no entorno do C&oacute;rrego Ressaca. \n\nAl&eacute;m do rompimento de uma rede coletora de esgoto, o c&oacute;rrego est&aacute; recebendo res&iacute;duos de uma ind&uacute;stria. A Sabesp deve iniciar as obras apenas no in&iacute;cio do segundo semestre de 2015.\n\nDepois do fechamento da reportagem, a assessoria de imprensa da CETESB entrou em contato informando que t&eacute;cnicos da Companhia vistoriaram o c&oacute;rrego e analisaram a qualidade da &aacute;gua. \n\nTanto a Sabesp quanto a empresa Polo Saneamento Ambiental foram autuadas.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n8\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:42\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=TgPnGVua-bA&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/TgPnGVua-bA"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/L9oe8cCvtoU"},
+                "published": {"$t": "2014-11-05T11:40:24.000Z"},
+                "updated": {"$t": "2014-11-05T11:52:39.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "Câmara discute Orçamento de 2015 com a população de São José dos Campos",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=L9oe8cCvtoU&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/L9oe8cCvtoU/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=L9oe8cCvtoU&amp;feature=youtube_gdata\"\u003eC&acirc;mara discute Or&ccedil;amento de 2015 com a popula&ccedil;&atilde;o de S&atilde;o Jos&eacute; dos Campos\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eA C&acirc;mara realizou no dia 3 de novembro audi&ecirc;ncia p&uacute;blica sobre o Or&ccedil;amento para o munic&iacute;pio no pr&oacute;ximo ano. Cerca de 200 pessoas vieram acompanhar de perto os investimentos previstos e apresentar sugest&otilde;es para a administra&ccedil;&atilde;o da cidade.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n10\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:53\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=L9oe8cCvtoU&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/L9oe8cCvtoU"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/0E7-hL1f1xg"},
+                "published": {"$t": "2014-11-04T15:48:18.000Z"},
+                "updated": {"$t": "2014-11-04T15:48:21.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "'Com a Palavra', o chefe da Divisão de Engenharia Civil do ITA, Cláudio Jorge Alves Pinto",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=0E7-hL1f1xg&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/0E7-hL1f1xg/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=0E7-hL1f1xg&amp;feature=youtube_gdata\"\u003e&#39;Com a Palavra&#39;, o chefe da Divis&atilde;o de Engenharia Civil do ITA, Cl&aacute;udio Jorge Alves Pinto\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eAssista a entrevista com o chefe da Divis&atilde;o de Engenharia Civil do ITA, Cl&aacute;udio Jorge Alves Pinto. Ele recorda o hist&oacute;rico da avia&ccedil;&atilde;o regional no pa&iacute;s e como o governo federal tem abordado essa quest&atilde;o atualmente. \n\nPara o pesquisador, o pa&iacute;s tem programas segmentados de melhoria para a avia&ccedil;&atilde;o, portos e ferrovias, por&eacute;m falta um planejamento de transporte integrado.\n\nNo programa &lsquo;Com a Palavra&rsquo;, o professor conta em que circunst&acirc;ncias e com que prop&oacute;sito o aeroporto joseense foi criado e tamb&eacute;m explica sua voca&ccedil;&atilde;o industrial e militar. Ap&oacute;s a reforma recentemente conclu&iacute;da do terminal, o aeroporto da cidade passou a ter condi&ccedil;&otilde;es de receber mais voos regulares de companhias a&eacute;reas comerciais.\n\n&lsquo;Com a Palavra&rsquo;\nO programa &eacute; exibido &agrave;s quintas-feiras, &agrave;s 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net. Tamb&eacute;m &eacute; poss&iacute;vel acompanhar a programa&ccedil;&atilde;o da emissora pelo site da C&acirc;mara  www.camarasjc.sp.gov.br e por meio de smartphones e tablets.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n36\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e12:58\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=0E7-hL1f1xg&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/0E7-hL1f1xg"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/-KNqIUQabak"},
+                "published": {"$t": "2014-11-04T15:40:12.000Z"},
+                "updated": {"$t": "2014-11-05T11:52:23.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "Íntegra da audiência pública sobre o Orçamento para o município em 2015",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=-KNqIUQabak&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/-KNqIUQabak/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=-KNqIUQabak&amp;feature=youtube_gdata\"\u003e&Iacute;ntegra da audi&ecirc;ncia p&uacute;blica sobre o Or&ccedil;amento para o munic&iacute;pio em 2015\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eCerca de 200 pessoas participaram da audi&ecirc;ncia p&uacute;blica sobre a proposta de or&ccedil;amento de S&atilde;o Jos&eacute; dos Campos para 2015. A audi&ecirc;ncia foi conduzida pelo presidente da Comiss&atilde;o de Economia, Finan&ccedil;as e Or&ccedil;amento da C&acirc;mara, vereador Carlinhos Tiaca (PMDB), e contou com a presen&ccedil;a do secret&aacute;rio da Fazenda, Josmar Nunes Souza, que fez uma explana&ccedil;&atilde;o sobre os investimentos que ser&atilde;o feitos pelo munic&iacute;pio em obras, servi&ccedil;os e os bairros que ser&atilde;o beneficiados. O Or&ccedil;amento para 2015 est&aacute; estimado em R$ 2,751 bilh&otilde;es.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n58\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:35:39\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=-KNqIUQabak&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/-KNqIUQabak"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/qZxTqoVJAyg"},
+                "published": {"$t": "2014-11-03T11:21:12.000Z"},
+                "updated": {"$t": "2014-11-03T11:21:12.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 27 a 31 de Outubro - Bloco 3", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=qZxTqoVJAyg&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/qZxTqoVJAyg/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=qZxTqoVJAyg&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 27 a 31 de Outubro - Bloco 3\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eVeja neste bloco reportagens sobre a Lei Or&ccedil;ament&aacute;ria. Confira ainda os projetos de lei aprovados e adiados na 61&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos. \n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n8\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e05:50\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=qZxTqoVJAyg&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/qZxTqoVJAyg"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/KEDjZ9MjjJc"},
+                "published": {"$t": "2014-11-03T11:14:25.000Z"},
+                "updated": {"$t": "2014-11-03T11:14:25.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 27 a 31 de Outubro - Bloco 2", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=KEDjZ9MjjJc&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/KEDjZ9MjjJc/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=KEDjZ9MjjJc&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 27 a 31 de Outubro - Bloco 2\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNeste bloco, o Semana Legislativa traz a reportagem sobre o t&iacute;tulo de Cidad&atilde;o Joseense para o empres&aacute;rio S&iacute;lvio Almir Diniz em reconhecimento ao trabalho que realizou na cidade.  Confira ainda o pinga-fogo da 60&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores.\n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n6\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e06:51\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=KEDjZ9MjjJc&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/KEDjZ9MjjJc"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/FujAWjyAwDc"},
+                "published": {"$t": "2014-11-03T11:07:59.000Z"},
+                "updated": {"$t": "2014-11-03T11:07:59.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 27 a 31 de Outubro - Bloco 1", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=FujAWjyAwDc&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/FujAWjyAwDc/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=FujAWjyAwDc&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 27 a 31 de Outubro - Bloco 1\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNo primeiro bloco, o Semana Legislativa traz reportagens sobre a cria&ccedil;&atilde;o da Virada Esportiva, conv&ecirc;nio com o cursinho pr&eacute;-vestibular CASD, conv&ecirc;nio com duas creches da cidade, projeto de educa&ccedil;&atilde;o sexual com adolescentes e tamb&eacute;m o projeto relacionado a sa&uacute;de.\n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n4\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e09:11\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=FujAWjyAwDc&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/FujAWjyAwDc"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/P9rdqtZ8L7Q"},
+                "published": {"$t": "2014-10-31T18:17:58.000Z"},
+                "updated": {"$t": "2014-10-31T18:20:41.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "Saiba quais investimentos estão previstos para a área de transportes em São José",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=P9rdqtZ8L7Q&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/P9rdqtZ8L7Q/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=P9rdqtZ8L7Q&amp;feature=youtube_gdata\"\u003eSaiba quais investimentos est&atilde;o previstos para a &aacute;rea de transportes em S&atilde;o Jos&eacute;\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eEm nossa quinta reportagem especial da s&eacute;rie sobre o  Or&ccedil;amento voc&ecirc; vai conhecer os investimentos previstos para a &aacute;rea de transporte de S&atilde;o Jos&eacute; dos Campos. \n\nUma audi&ecirc;ncia p&uacute;blica est&aacute; prevista para a pr&oacute;xima segunda-feira,  dia 3, a partir das 18h30, na C&acirc;mara de Vereadores.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n20\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:33\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=P9rdqtZ8L7Q&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/P9rdqtZ8L7Q"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/4DeKl8mImw8"},
+                "published": {"$t": "2014-10-31T18:07:58.000Z"},
+                "updated": {"$t": "2014-11-01T02:11:54.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "Vereadores aprovam lei para a renovação do convênio do município com o Casd Vestibulares",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=4DeKl8mImw8&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/4DeKl8mImw8/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=4DeKl8mImw8&amp;feature=youtube_gdata\"\u003eVereadores aprovam lei para a renova&ccedil;&atilde;o do conv&ecirc;nio do munic&iacute;pio com o Casd Vestibulares\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eEm S&atilde;o Jos&eacute; dos Campos, o Casd (Curso Alberto Santos Dumont) oferece aulas de forma gratuita a estudantes de baixa renda que disputar&atilde;o vaga em universidades p&uacute;blicas.\n\nUm projeto aprovado pelos vereadores vai prorrogar o conv&ecirc;nio j&aacute; existente entre a Prefeitura e o Casd.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n65\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e2\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:18\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=4DeKl8mImw8&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/4DeKl8mImw8"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/8aWo4NCSSYU"},
+                "published": {"$t": "2014-10-31T17:55:26.000Z"},
+                "updated": {"$t": "2014-11-01T03:59:49.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Empresário da construção civil recebe título de Cidadão Joseense", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=8aWo4NCSSYU&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/8aWo4NCSSYU/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=8aWo4NCSSYU&amp;feature=youtube_gdata\"\u003eEmpres&aacute;rio da constru&ccedil;&atilde;o civil recebe t&iacute;tulo de Cidad&atilde;o Joseense\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eEm solenidade no dia 29 de outubro, a C&acirc;mara Municipal outorgou o t&iacute;tulo de Cidad&atilde;o Joseense ao empres&aacute;rio Silvio Almir Diniz, em reconhecimento ao seu empreendedorismo. A proposta partiu do vereador Juvenil Silv&eacute;rio (PSDB).\nPresidindo a sess&atilde;o solene, Juvenil Silv&eacute;rio destacou a origem humilde do homenageado, que tamb&eacute;m teve sua atua&ccedil;&atilde;o profissional ressaltada pelo vice-presidente a Aconvap, Jos&eacute; Ant&ocirc;nio Marcondes C&eacute;sar, presente ao evento.\nSilvio Almir Diniz recebeu o carinho de uma dupla sertaneja amiga, Fernando &amp; Fabiano, que interpretou o cl&aacute;ssico sertanejo &quot;Saudades da minha terra&quot;, m&uacute;sica que se destaca entre as preferidas do homenageado.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n23\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e45:29\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=8aWo4NCSSYU&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/8aWo4NCSSYU"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/L24Q_fK_JBg"},
+                "published": {"$t": "2014-10-31T17:53:24.000Z"},
+                "updated": {"$t": "2014-10-31T17:53:24.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "São José dos Campos ganha Conselho Municipal de Turismo", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=L24Q_fK_JBg&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/L24Q_fK_JBg/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=L24Q_fK_JBg&amp;feature=youtube_gdata\"\u003eS&atilde;o Jos&eacute; dos Campos ganha Conselho Municipal de Turismo\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eRec&eacute;m criado, o Conselho Municipal de Turismo de S&atilde;o Jos&eacute; dos Campos est&aacute; em processo de estrutura&ccedil;&atilde;o. Entre as a&ccedil;&otilde;es, o &oacute;rg&atilde;o precisa definir os conselheiros e tamb&eacute;m o regimento interno. Assista a reportagem.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n67\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:27\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=L24Q_fK_JBg&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/L24Q_fK_JBg"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/_YzbB9ktmpI"},
+                "published": {"$t": "2014-10-31T17:48:30.000Z"},
+                "updated": {"$t": "2014-10-31T17:48:30.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "'Com a Palavra', o presidente do Cedecon, Leonardo Cedaro", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=_YzbB9ktmpI&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/_YzbB9ktmpI/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=_YzbB9ktmpI&amp;feature=youtube_gdata\"\u003e&#39;Com a Palavra&#39;, o presidente do Cedecon, Leonardo Cedaro\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNeste programa, o presidente do Cedecon (Centro de Defesa do Consumidor de S&atilde;o Jos&eacute; dos Campos e Regi&atilde;o), Leonardo Cedaro, explica o que pretende a nova entidade. \n\nDurante entrevista ele falou que a ideia de criar uma associa&ccedil;&atilde;o aberta &agrave; participa&ccedil;&atilde;o popular surgiu de uma conversa entre ele e mais quatro colegas advogados. Na primeira assembleia geral, em que foi aprovado o estatuto e foram eleitos membros da diretoria, conselho deliberativo e fiscal, estiveram presentes 97 s&oacute;cios fundadores. \n\nDiferentemente do Procon, o Cedecon n&atilde;o tem como objetivo atender demandas individuais. Um dos papeis da organiza&ccedil;&atilde;o ser&aacute; ajuizar a&ccedil;&otilde;es coletivas em defesa dos direitos do consumidor. Al&eacute;m disso, promover&aacute; palestras e debates de car&aacute;ter educativo a fim de conscientizar tanto consumidores quanto prestadores de servi&ccedil;o acerca de direitos e deveres. \n\n&lsquo;Com a Palavra&rsquo;\nO programa &eacute; exibido &agrave;s quintas-feiras, &agrave;s 17h, pelos canais 7 e 29 da operadora de TV a cabo, Net. Tamb&eacute;m &eacute; poss&iacute;vel acompanhar a programa&ccedil;&atilde;o da emissora pelo site da C&acirc;mara  www.camarasjc.sp.gov.br e por meio de smartphones e tablets.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n60\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e12:31\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=_YzbB9ktmpI&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/_YzbB9ktmpI"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/9R4As3jysUs"},
+                "published": {"$t": "2014-10-31T16:02:45.000Z"},
+                "updated": {"$t": "2014-11-05T13:00:37.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "61ª Sessão Ordinária - 16ª Legislatura - 30/10/2014", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=9R4As3jysUs&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/9R4As3jysUs/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=9R4As3jysUs&amp;feature=youtube_gdata\"\u003e61&ordf; Sess&atilde;o Ordin&aacute;ria - 16&ordf; Legislatura - 30/10/2014\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eAssista a &iacute;ntegra da 61&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos.\n\nA programa&ccedil;&atilde;o da TV C&acirc;mara &eacute; transmitida pelo canal 7 digital e 29 anal&oacute;gico da operadora de TV a cabo Net, e tamb&eacute;m por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n67\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e1\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:37:45\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=9R4As3jysUs&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/9R4As3jysUs"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/AD9H7ZX3AvI"},
+                "published": {"$t": "2014-10-31T16:01:08.000Z"},
+                "updated": {"$t": "2014-10-31T16:01:08.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Cine Santana é patrimônio preservado no cenário cultural de São José", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=AD9H7ZX3AvI&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/AD9H7ZX3AvI/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=AD9H7ZX3AvI&amp;feature=youtube_gdata\"\u003eCine Santana &eacute; patrim&ocirc;nio preservado no cen&aacute;rio cultural de S&atilde;o Jos&eacute;\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eO Cine Santana, localizado em um dos bairros mais tradicionais de S&atilde;o Jos&eacute; dos Campos, &eacute; um patrim&ocirc;nio preservado que entrou no cen&aacute;rio cultural da cidade. Saiba mais sobre a programa&ccedil;&atilde;o do local e a preserva&ccedil;&atilde;o de elementos originais.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n6\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:57\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=AD9H7ZX3AvI&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/AD9H7ZX3AvI"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/0ffyw6OfO6E"},
+                "published": {"$t": "2014-10-30T11:33:12.000Z"},
+                "updated": {"$t": "2014-10-30T12:07:56.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 20 a 24 de Outubro - Bloco 3", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=0ffyw6OfO6E&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/0ffyw6OfO6E/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=0ffyw6OfO6E&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 20 a 24 de Outubro - Bloco 3\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eVeja neste bloco reportagens sobre a Lei Or&ccedil;ament&aacute;ria Anual e o Facilita S&atilde;o Jos&eacute;. Confira ainda os projetos de lei aprovados e adiados na 60&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos. \n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n5\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e1\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e09:14\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=0ffyw6OfO6E&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/0ffyw6OfO6E"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/5dsLjpUyMx8"},
+                "published": {"$t": "2014-10-30T11:27:51.000Z"},
+                "updated": {"$t": "2014-10-30T11:27:51.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 20 a 24 de Outubro - Bloco 2", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=5dsLjpUyMx8&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/5dsLjpUyMx8/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=5dsLjpUyMx8&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 20 a 24 de Outubro - Bloco 2\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNeste bloco, o Semana Legislativa traz a reportagem sobre a cria&ccedil;&atilde;o do Conselho Municipal de Turismo. Confira ainda o pinga-fogo da 59&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores.\n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n4\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e13:00\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=5dsLjpUyMx8&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/5dsLjpUyMx8"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/BVl13w_T5rs"},
+                "published": {"$t": "2014-10-30T11:23:14.000Z"},
+                "updated": {"$t": "2014-10-30T11:23:14.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 20 a 24 de Outubro - Bloco 1", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=BVl13w_T5rs&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/BVl13w_T5rs/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=BVl13w_T5rs&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 20 a 24 de Outubro - Bloco 1\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNo primeiro bloco, o Semana Legislativa traz reportagens sobre regulariza&ccedil;&atilde;o fundi&aacute;ria, denomina&ccedil;&atilde;o de loteamentos, vielas e tamb&eacute;m do CEDIN. Na &aacute;rea de esportes,foi aprovado pela C&acirc;mara Municipal a Lei criando o Dia do Passeio Cicl&iacute;stico e a assistam tamb&eacute;m a reportagem sobre a reforma do Centro Esportivo do Parque Industrial.\n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n4\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e10:04\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=BVl13w_T5rs&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/BVl13w_T5rs"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/lZcWIXcevsU"},
+                "published": {"$t": "2014-10-29T11:52:54.000Z"},
+                "updated": {"$t": "2014-10-29T11:52:54.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {
+                    "$t": "Câmara fará audiência pública para o Orçamento de 2015 no dia 3 de novembro",
+                    "type": "text"
+                },
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=lZcWIXcevsU&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/lZcWIXcevsU/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=lZcWIXcevsU&amp;feature=youtube_gdata\"\u003eC&acirc;mara far&aacute; audi&ecirc;ncia p&uacute;blica para o Or&ccedil;amento de 2015 no dia 3 de novembro\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eA C&acirc;mara de S&atilde;o Jos&eacute; dos Campos realizar&aacute; no dia 3 de novembro uma audi&ecirc;ncia p&uacute;blica para discutir o Or&ccedil;amento de 2015. Vereadores j&aacute; apresentaram 33 emendas. Veja na reportagem.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n18\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:56\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=lZcWIXcevsU&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/lZcWIXcevsU"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/WoeAkcRScCE"},
+                "published": {"$t": "2014-10-24T18:03:01.000Z"},
+                "updated": {"$t": "2014-10-24T18:04:52.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Nova quadra poliesportiva no Parque Industrial", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=WoeAkcRScCE&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/WoeAkcRScCE/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=WoeAkcRScCE&amp;feature=youtube_gdata\"\u003eNova quadra poliesportiva no Parque Industrial\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eDe acordo com a Secretaria de Obras, o processo de licita&ccedil;&atilde;o para a execu&ccedil;&atilde;o do projeto da quadra poliesportiva Delmar Buffulin j&aacute; foi iniciado e est&aacute; em fase de conclus&atilde;o. A expectativa &eacute; que as obras sejam iniciadas em janeiro do ano que vem.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n11\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e03:02\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=WoeAkcRScCE&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/WoeAkcRScCE"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/1KEkLP7yI7Y"},
+                "published": {"$t": "2014-10-24T15:56:49.000Z"},
+                "updated": {"$t": "2014-11-05T13:00:37.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "60ª Sessão Ordinária - 16ª Legislatura - 23/10/2014", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=1KEkLP7yI7Y&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/1KEkLP7yI7Y/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=1KEkLP7yI7Y&amp;feature=youtube_gdata\"\u003e60&ordf; Sess&atilde;o Ordin&aacute;ria - 16&ordf; Legislatura - 23/10/2014\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eAssista a &iacute;ntegra da 60&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos.\n\nA programa&ccedil;&atilde;o da TV C&acirc;mara &eacute; transmitida pelo canal 7 digital e 29 anal&oacute;gico da operadora de TV a cabo Net, e tamb&eacute;m por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n60\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e01:57:47\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=1KEkLP7yI7Y&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/1KEkLP7yI7Y"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/rQEuBm3eW00"},
+                "published": {"$t": "2014-10-22T13:39:38.000Z"},
+                "updated": {"$t": "2014-11-05T13:00:37.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "59ª Sessão Ordinária - 16ª Legislatura - 21/10/2014", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=rQEuBm3eW00&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/rQEuBm3eW00/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=rQEuBm3eW00&amp;feature=youtube_gdata\"\u003e59&ordf; Sess&atilde;o Ordin&aacute;ria - 16&ordf; Legislatura - 21/10/2014\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eAssista a &iacute;ntegra da 59&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos.\n\nA programa&ccedil;&atilde;o da TV C&acirc;mara &eacute; transmitida pelo canal 7 digital e 29 anal&oacute;gico da operadora de TV a cabo Net, e tamb&eacute;m por computador, tablet ou smartphone: http://www.camarasjc.sp.gov.br/assista.php\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n47\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_full_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e1\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e02:05:13\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=rQEuBm3eW00&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/rQEuBm3eW00"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/JdaSw9Z_MMU"},
+                "published": {"$t": "2014-10-20T19:43:43.000Z"},
+                "updated": {"$t": "2014-10-20T19:50:04.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 13 a 17 de Outubro - Bloco 3", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=JdaSw9Z_MMU&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/JdaSw9Z_MMU/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=JdaSw9Z_MMU&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 13 a 17 de Outubro - Bloco 3\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eVeja neste bloco reportagens sobre o Or&ccedil;amento para a Educa&ccedil;&atilde;o, considerado o segundo maior entre as &aacute;reas contempladas na Lei Or&ccedil;ament&aacute;ria e tamb&eacute;m a campanha Outubro Rosa, de conscientiza&ccedil;&atilde;o e preven&ccedil;&atilde;o do c&acirc;ncer de mama.  Confira ainda os projetos de lei aprovados e adiados na 58&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores de S&atilde;o Jos&eacute; dos Campos. \n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n10\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e11:50\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=JdaSw9Z_MMU&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/JdaSw9Z_MMU"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/dftVUnQ6Vls"},
+                "published": {"$t": "2014-10-20T19:36:29.000Z"},
+                "updated": {"$t": "2014-10-20T19:36:29.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 13 a 17 de Outubro - Bloco 2", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=dftVUnQ6Vls&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/dftVUnQ6Vls/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=dftVUnQ6Vls&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 13 a 17 de Outubro - Bloco 2\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eO Semana Legislativa traz as homenagens ao Sr. Jorge Augusto Gon&ccedil;alves dos Reis e tamb&eacute;m do m&eacute;dico Fernando Callera. Confira ainda o pinga-fogo da 57&ordf; Sess&atilde;o Ordin&aacute;ria da C&acirc;mara de Vereadores.\n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n6\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e07:55\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=dftVUnQ6Vls&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/dftVUnQ6Vls"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            },
+            {
+                "id": {"$t": "http://gdata.youtube.com/feeds/base/videos/m5oh-tdMAvc"},
+                "published": {"$t": "2014-10-20T16:06:52.000Z"},
+                "updated": {"$t": "2014-10-20T16:06:52.000Z"},
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://gdata.youtube.com/schemas/2007#video"
+                    }
+                ],
+                "title": {"$t": "Semana Legislativa - de 13 a 17 de Outubro - Bloco 1", "type": "text"},
+                "content": {
+                    "$t": "\u003cdiv style=\"color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;\"\u003e\n\u003ctable cellspacing=\"0\" cellpadding=\"0\" border=\"0\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd width=\"140\" valign=\"top\" rowspan=\"2\"\u003e\u003cdiv style=\"border: 1px solid #999999; margin: 0px 10px 5px 0px;\"\u003e\u003ca href=\"http://www.youtube.com/watch?v=m5oh-tdMAvc&amp;feature=youtube_gdata\"\u003e\u003cimg alt=\"\" src=\"http://i.ytimg.com/vi/m5oh-tdMAvc/0.jpg\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd width=\"256\" valign=\"top\"\u003e\u003cdiv style=\"font-size: 12px; font-weight: bold;\"\u003e\u003ca style=\"font-size: 15px; font-weight: bold;                  font-decoration: none;\" href=\"http://www.youtube.com/watch?v=m5oh-tdMAvc&amp;feature=youtube_gdata\"\u003eSemana Legislativa - de 13 a 17 de Outubro - Bloco 1\u003c/a\u003e\n\u003cbr\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 12px; margin: 3px 0px;\"\u003e\u003cspan\u003eNo primeiro bloco, o Semana Legislativa traz reportagens sobre a aprova&ccedil;&atilde;o de projetos de lei. \n\nSemana Legislativa\nEm formato de revista eletr&ocirc;nica, o Semana Legislativa apresenta um resumo dos principais fatos que marcaram a semana no Legislativo Municipal de S&atilde;o Jos&eacute; dos Campos. O programa vai ao ar todas &agrave;s sextas-feiras pelos canais 7 e 29 da NET.\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;\" width=\"146\" valign=\"top\"\u003e\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eFrom:\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/channel/UC88FZ18m6zMXjY-nmquDVkg\"\u003eC&acirc;mara SJC\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eViews:\u003c/span\u003e\n39\u003c/div\u003e\n\u003cdiv style=\"white-space: nowrap;text-align: left\"\u003e\u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e \u003cimg style=\"border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;\" align=\"top\" alt=\"\" src=\"http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif\"\u003e\u003c/div\u003e\n\u003cdiv style=\"font-size: 11px;\"\u003e0\n\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eratings\u003c/span\u003e\u003c/div\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr\u003e\u003ctd\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eTime:\u003c/span\u003e\n\u003cspan style=\"color: #000000; font-size: 11px; font-weight: bold;\"\u003e10:17\u003c/span\u003e\u003c/td\u003e\n\u003ctd style=\"font-size: 11px; padding-left: 20px;\"\u003e\u003cspan style=\"color: #666666; font-size: 11px;\"\u003eMore in\u003c/span\u003e\n\u003ca href=\"http://www.youtube.com/videos?c=25\"\u003eNews &amp; Politics\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                    "type": "html"
+                },
+                "link": [
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "http://www.youtube.com/watch?v=m5oh-tdMAvc&feature=youtube_gdata"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "http://gdata.youtube.com/feeds/base/users/camarasjc/uploads/m5oh-tdMAvc"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {"$t": "Câmara SJC"},
+                        "uri": {"$t": "http://gdata.youtube.com/feeds/base/users/camarasjc"}
+                    }
+                ]
+            }
+        ]
+    }
+}

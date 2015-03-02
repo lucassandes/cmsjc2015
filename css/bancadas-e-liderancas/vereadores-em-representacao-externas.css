@@ -1,0 +1,38 @@
+.conteudo h2
+{
+	font-family:"zwo3Italic", Tahoma, Geneva, sans-serif;
+	font-weight:normal;
+	font-size:20px;
+	color:#7b8843;
+}
+
+.lista 
+{
+	margin-bottom:30px;
+}
+
+.lista li
+{
+	border-top:1px solid #e6e7e3;
+	padding:20px 0 0 0;
+	margin:20px 0 0 0;
+	font-size:16px;
+	color:#5a7f91;
+}
+
+.lista li:first-child
+{
+	border-top:none;
+	margin-top:0;
+}
+
+.lista .fckEditor
+{
+	font-size:14px;
+	color:#2a2b2e;
+}
+
+.voltar
+{
+	margin-bottom:30px;
+}

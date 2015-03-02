@@ -1,0 +1,144 @@
+
+
+h3
+{
+	margin:30px 0 0 0;
+	font-family:"zwo3Italic", Tahoma, Geneva, sans-serif;
+	font-weight:normal;
+	font-size:20px;
+	color:#5a7f91;
+}
+
+
+/* formulario
+---------------------------------------------------------------------------------------------------- */
+
+.formulario
+{
+	color:#b6b8aa;
+	font-size:16px;
+	margin-top:30px;
+}
+
+.formulario li
+{
+	float:left;
+	margin:0 35px 20px 0;
+}
+
+.formulario span
+{
+	display:block;
+	height:43px;
+}
+
+.formulario span input,
+.formulario span select,
+.formulario span textarea
+{
+	background-color:transparent;
+	margin:13px 0 0 10px;
+	font-size:13px;
+	color:#898a80;
+}
+
+/* input330
+---------------------------------------------------------------------------- */
+
+.formulario .input330
+{
+	width:331px;
+}
+
+.formulario .input330 span
+{
+	background-image:url(../../imgs/fale-conosco/input330.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+.formulario .input330 span input,
+.formulario .input330 span select
+{
+	width:313px;
+}
+
+/* input240
+---------------------------------------------------------------------------- */
+
+.formulario .inputAll
+{
+	width:700px;
+	margin-right:20px;
+}
+
+.formulario .inputAll span
+{
+	background-image:url(../../imgs/comunicar-erros/inputall.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+.formulario .inputAll span input
+{
+	width:680px;
+}
+
+/* mensagem
+---------------------------------------------------------------------------- */
+
+.formulario .mensagem span
+{
+	background-image:url(../../imgs/fale-conosco/textarea.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	height:183px;
+	width:702px;
+}
+
+.formulario .mensagem textarea
+{
+	background-color:transparent;
+	margin:10px 0 0 10px;
+	
+	height:150px;
+	width:680px;
+	
+	max-height:150px;
+	max-width:680px;
+	
+	min-height:150px;
+	min-width:680px;
+}
+
+
+/* checkbox
+---------------------------------------------------------------------------- */
+
+.formulario .checkbox
+{
+	font-size: 14px;
+	display: block;
+	height:43px;
+	*clear:both;
+	*width:100%;
+}
+
+/* botEnviar
+---------------------------------------------------------------------------- */
+
+.formulario .botEnviar
+{
+	float:right;
+	height:119px;
+	overflow:hidden;
+	margin:-50px 0 0 0;
+	*margin:320px 0 0 0;
+}
+
+.formulario .botEnviar:hover input
+{
+	margin-top:-119px;
+}
+
+

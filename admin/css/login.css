@@ -1,0 +1,64 @@
+/* Geral */
+.geral
+{
+	width: 300px;
+	margin: 120px auto 0 auto;
+	
+}
+
+/* Conteúdo */
+.conteudo
+{
+	border:1px solid #cccccc;
+	padding:0px 10px 10px 10px;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+}
+
+/* Rodapé */
+.rodape
+{
+	text-align: center;
+	margin: 15px 0px 15px 0px;
+}
+
+/* Erro */
+.erro, .sucesso
+{
+	margin: 10px 0px 0px 0px;
+    padding: 5px 5px 5px 15px;
+    line-height: 20px;
+    border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+.erro
+{
+	background-color: #ffdddd;
+    border: 1px solid #e2b3b3;
+}
+.sucesso
+{
+	background-color: #bcf8C3;
+    border: 1px solid #81d28b;
+}
+
+
+/* Botão de Enviar */
+.entrar
+{
+	float:right;
+	margin-top:-35px;
+}
+
+a.esqueci-minha-senha
+{
+	background-image: url(../imgs/geral/mid-azul.jpg);
+	background-position: left 6px;
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 15px;
+	display: block;
+	color: #000000;
+	color:#1c6587;
+}
