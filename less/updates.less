@@ -1,0 +1,82 @@
+/** ja que o less original foi perdido, as customizacoes serao feitas aqui **/
+#de-olho-na-cidade-home {
+  a {
+    color: inherit;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  h3 {
+    font-size: 1.10em;
+    font-weight: 600;
+    padding: 0 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  span.assista-agora {
+
+    display: block;
+    margin-top: -25px;
+    margin-left: 15px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 0 1px 2px rgba(0,0,0,.8);
+
+  }
+
+
+
+  span.glyphicon {
+    background-color: white;
+    text-shadow: none;
+    font-size: 8px;
+    padding: 2px 4px 2px 6px;
+    color: black;
+    border-radius: 3px;
+    top: -1px !important;
+  }
+
+  .duracao{
+    position: relative;
+    margin-top: -20px;
+    margin-right: 15px;
+    font-size: 11px;
+    padding: 2px 3px;
+   // color: #d7d7d7;
+    color: white;
+    background: black;
+   // background: url('../images/fundo-slider.png') repeat !important;
+    opacity: 0.7;
+
+
+
+  }
+
+}
+
+#de-olho-na-cidade-interna:extend(#de-olho-na-cidade-home all) {
+  h3 {
+    padding: 0;
+    font-size: 0.9em;
+    text-align: left;
+  }
+  .video {
+    margin-top: 30px;
+  }
+
+  .duracao{
+    margin-right: 3px;
+    margin-top: -23px;
+    color: white !important;
+    background-image: none ;
+    background: black !important;
+    opacity: 0.7;
+
+  }
+}

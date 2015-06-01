@@ -67,7 +67,7 @@ $oMasterPage->Open("PageContent");
 
 
     <div class="col-md-12 noticia-detalhe ">
-    <p class="data"><?= $oNoticia->DateFormat('d \d\e MONTH \d\e Y', $oNoticia->Data); /*?><?= date("d/m/Y", $oNoticia->DateShow($oNoticia->Data));*/ ?>
+    <p class="data"><?= utf8_encode($oNoticia->DateFormat('d \d\e MONTH \d\e Y', $oNoticia->Data)); /*?><?= date("d/m/Y", $oNoticia->DateShow($oNoticia->Data));*/ ?>
         <?= (($oNoticia->Hora != "" && $oNoticia->Hora != "00:00:00") ? "&nbsp;&nbsp; <i class=\"icon-clock\"></i>" . substr($oNoticia->Hora, 0, 5) : ""); ?></p>
 
     <h2 class="titulo-noticia"><?= utf8_encode($oNoticia->Titulo); ?></h2>
@@ -138,7 +138,7 @@ $oMasterPage->Open("PageContent");
                 </li>
                 <!--<li>
                     <i class="icon-mail"></i> <a href="#" data-toggle="modal" data-target="#modalEmail">Enviar por
-                        email</a></li>-->
+                        email</a></li>-->
                 <li>
                     <i class="icon-rss"></i> <a href="#" data-toggle="modal" data-target="#modalRSS">RSS</a>
                 </li>
