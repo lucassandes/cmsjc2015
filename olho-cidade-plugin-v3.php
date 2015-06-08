@@ -11,6 +11,42 @@ $cont = json_decode(file_get_contents('http://gdata.youtube.com/feeds/api/playli
 //$cont = file_get_contents('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLey9M_cWIxnncEBZcO5flLXumZY2zDq03&key=AIzaSyCsrbmbGijIoCc62tjFnNdn6ngHp9Dn8oA');
 ?>
 
+
+<?
+
+$apikey = “YOURKEY”;
+$per_page = 6;
+$search = “your search term”;
+$category = “2”; //autos
+
+$query = “https://www.googleapis.com/youtube/v3/search?part=snippet&q=$search&maxResults=$per_page&videoCategoryId=$category&safesearch=strict&key=$apikey”;
+
+$json_file3 = file_get_contents(“$query”);
+
+$jfo3 = json_decode($json_file3,true);
+
+foreach($jfo3[‘items’] as $val) {
+
+$title = $val[‘snippet’][‘title’];
+$description = $val[‘snippet’][‘description’];
+$id = $val[‘id’][‘videoId’];
+$thumbnail_url = $val[‘snippet’][‘thumbnails’][‘default’][‘url’];
+
+echo <<<EOF
+
+<p><img width = “250” src = “$thumbnail_url” align = “right”></a>
+<a href =”video-viewer.php?v=$id”>$title<BR>
+$description</p><br clear=”all”><HR>
+
+EOF;
+
+?>
+
+https://developers.google.com/youtube/v3/guides/implementation
+https://developers.google.com/youtube/2.0/deprecation_faq
+
+
+
 <?php  //var_dump($cont); ?>
 <?php $feed = $cont->feed->entry; ?>
 <?php $i = 0;  ?>

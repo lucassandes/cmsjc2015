@@ -315,7 +315,7 @@ $oMasterPage->Open("PageContent");
 		</div>
 	</fieldset>
 	<fieldset>
-		<legend>Destaque Menor</legend>
+		<legend>Infográfico (Resultado da Voltação)</legend>
 		<div class="margem">
 			<ul>
 				<li>
