@@ -1,0 +1,64 @@
+CREATE TABLE IF NOT EXISTS Solicitante (
+id INTEGER PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(200) NOT NULL,
+tipo SMALLINT NOT NULL,
+cpf VARCHAR(15),
+cnpj VARCHAR (19),
+inscricao_estadual VARCHAR(16),
+nome_contato VARCHAR(200),
+endereco VARCHAR(300),
+complemento VARCHAR(50),
+bairro VARCHAR(50),
+cidade VARCHAR(50),
+cep VARCHAR(10),
+tel_residencial VARCHAR(15),
+celular VARCHAR(16),
+tel_comercial VARCHAR(15),
+email VARCHAR(50)
+);
+
+CREATE TABLE IF NOT EXISTS Solicitacao (
+id INTEGER PRIMARY KEY AUTO_INCREMENT,
+protocolo VARCHAR(20) NOT NULL,
+solicitante INT NOT NULL ,
+assunto VARCHAR(20) NOT NULL,
+descricao VARCHAR(1000) NOT NULL,
+endereco VARCHAR(300),
+complemento VARCHAR(50),
+bairro VARCHAR(50),
+cidade VARCHAR(50),
+cep VARCHAR(10),
+FOREIGN KEY (solicitante) REFERENCES Solicitante(id)
+);
+
+CREATE TABLE IF NOT EXISTS historico_solicitacao (
+id INTEGER PRIMARY KEY AUTO_INCREMENT,
+time_stamp TIMESTAMP NOT NULL,
+descricao VARCHAR(500) NOT NULL,
+status VARCHAR(100) NOT NULL,
+id_solicitacao INT not null,
+FOREIGN KEY (id_solicitacao) REFERENCES Solicitacao(id)
+);
+
+
+
+
+TIPO:	0 = PF
+		1 = PJ
+		
+INSERT INTO Solicitante ('','Lucas Sandes', 0, '148.557.478.90','','','','Rua Moisés Tristao dos Santos, 65','Apto 51', 'Floradas de Sao Jose', 'São José dos Campos', 'SP', 
+
+
+insert into "order" (customer_id, price) values \
+((select customer_id from customer where name = 'John'), 12.34);
+
+
+
+(12) 3956-5698
+332.943.761-89
+lucassandes@msn.com
+33294376189
+(12) 98168-5697
+
+34.382.947/0001-26
+780.137.101.987
