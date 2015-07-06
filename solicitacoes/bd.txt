@@ -10,6 +10,7 @@ endereco VARCHAR(300),
 complemento VARCHAR(50),
 bairro VARCHAR(50),
 cidade VARCHAR(50),
+estado VARCHAR(2),
 cep VARCHAR(10),
 tel_residencial VARCHAR(15),
 celular VARCHAR(16),
@@ -21,12 +22,13 @@ CREATE TABLE IF NOT EXISTS Solicitacao (
 id INTEGER PRIMARY KEY AUTO_INCREMENT,
 protocolo VARCHAR(20) NOT NULL,
 solicitante INT NOT NULL ,
-assunto VARCHAR(20) NOT NULL,
+assunto VARCHAR(50) NOT NULL,
 descricao VARCHAR(1000) NOT NULL,
 endereco VARCHAR(300),
 complemento VARCHAR(50),
 bairro VARCHAR(50),
 cidade VARCHAR(50),
+estado VARCHAR(2),
 cep VARCHAR(10),
 FOREIGN KEY (solicitante) REFERENCES Solicitante(id)
 );
@@ -46,9 +48,114 @@ FOREIGN KEY (id_solicitacao) REFERENCES Solicitacao(id)
 TIPO:	0 = PF
 		1 = PJ
 		
-INSERT INTO Solicitante ('','Lucas Sandes', 0, '148.557.478.90','','','','Rua Moisés Tristao dos Santos, 65','Apto 51', 'Floradas de Sao Jose', 'São José dos Campos', 'SP', 
+		
+INSERT INTO Solicitante VALUES(
+'',
+'Lucas Sandes', 
+0, 
+'148.557.478.90',
+'',
+'',
+'',
+'Rua Moisés Tristao dos Santos, 65',
+'Apto 51', 
+'Floradas de Sao Jose', 
+'São José dos Campos', 
+'SP', 
+'12230-087',
+'(12)3966-1332',
+'(12)98168-5697',
+'',
+'lucas@camarasjc.sp.gov.br');
+
+INSERT INTO Solicitante VALUES(
+'',
+'Abel Taira', 
+0, 
+'758.698.478.10',
+'',
+'',
+'',
+'Rua da Alegria, 15',
+'', 
+'Jardim Satélite', 
+'São José dos Campos', 
+'SP', 
+'12230-213',
+'(12)3966-1233',
+'(12)98868-1234',
+'',
+'abel@camarasjc.sp.gov.br');	
+	
+INSERT INTO Solicitante VALUES(
+'',
+'Gustavo Cezeretti', 
+0, 
+'951.327.159.56',
+'',
+'',
+'',
+'Avenida Andrômeda, 3000',
+'ap 564', 
+'Bosque dos Eucalíptos', 
+'São José dos Campos', 
+'SP', 
+'12564-593',
+'(12)3999-1564',
+'(12)99856-54321',
+'',
+'gustavo@camarasjc.sp.gov.br');		
 
 
+INSERT INTO solicitacao VALUES ( 
+'', /*1*/
+'201507-01',
+'1', /*LUCAS SANDES*/
+'Esportes e Lazer',
+'Descrição da solicitação. Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+'Avenida Andrômeda, 3000',
+'', 
+'Bosque dos Eucalíptos', 
+'São José dos Campos', 
+'SP', 
+'12564-593'
+);
+
+
+INSERT INTO solicitacao VALUES ( 
+'',/*2*/
+'201507-02',
+'2', /*ABEL*/
+'',
+'Descrição da solicitação. Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+'Rua da Alegria, 15',
+'', 
+'Jardim Satélite', 
+'São José dos Campos', 
+'SP', 
+'12230-213'
+);
+
+
+INSERT INTO solicitacao VALUES ( 
+'', /*3*/
+'201507-03',
+'3', /*GUSTAVO*/
+'',
+'Descrição da solicitação. Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+'Rua Moisés Tristao dos Santos, 65',
+'', 
+'Floradas de Sao Jose', 
+'São José dos Campos', 
+'SP', 
+'12230-087'
+);
+
+
+INSERT INTO historico_solicitacao VALUES (
+
+
+);
 insert into "order" (customer_id, price) values \
 ((select customer_id from customer where name = 'John'), 12.34);
 
