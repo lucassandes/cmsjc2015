@@ -35,39 +35,40 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solicitacoes/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333" vertical-offset="3987" max-vertical-offset="4913">
-              <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.7088609" vertical-offset="2965" max-vertical-offset="4913">
+              <caret line="187" column="91" selection-start-line="186" selection-start-column="8" selection-end-line="187" selection-end-column="91" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solicitacoes/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.759259" vertical-offset="1462" max-vertical-offset="2431">
-              <caret line="117" column="9" selection-start-line="117" selection-start-column="9" selection-end-line="117" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.18223584" vertical-offset="1173" max-vertical-offset="2431">
+              <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
               <folding>
-                <marker date="1436814518284" expanded="true" signature="2356:2446" placeholder="SELECT * FRO..solicitacao..." />
-                <marker date="1436814518284" expanded="true" signature="2356:2536" placeholder="SELECT * FRO..solicitacao..." />
-                <marker date="1436814518284" expanded="true" signature="2555:2645" placeholder="SELECT * FRO..solicitacao..." />
-                <marker date="1436814518284" expanded="true" signature="3522:3625" placeholder="SELECT statu..historico_solicitacao..." />
-                <marker date="1436814518284" expanded="true" signature="4156:4552" placeholder="..." />
+                <marker date="1436906541883" expanded="true" signature="2356:2446" placeholder="SELECT * FRO..solicitacao..." />
+                <marker date="1436906541883" expanded="true" signature="2356:2536" placeholder="SELECT * FRO..solicitacao..." />
+                <marker date="1436906541883" expanded="true" signature="2555:2645" placeholder="SELECT * FRO..solicitacao..." />
+                <marker date="1436906541883" expanded="true" signature="3522:3625" placeholder="SELECT statu..historico_solicitacao..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="editar_solicitacao.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="editar_solicitacao.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solicitacoes/admin/editar_solicitacao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59097743" vertical-offset="2327" max-vertical-offset="3944">
-              <caret line="160" column="57" selection-start-line="160" selection-start-column="57" selection-end-line="160" selection-end-column="57" />
+            <state vertical-scroll-proportion="-2.1851852" vertical-offset="4387" max-vertical-offset="5525">
+              <caret line="265" column="45" selection-start-line="265" selection-start-column="24" selection-end-line="265" selection-end-column="45" />
               <folding>
-                <marker date="1436820378388" expanded="true" signature="2597:2632" placeholder="SELECT * FRO..solicitacao..." />
-                <marker date="1436820378388" expanded="true" signature="3110:3228" placeholder="SELECT statu..historico_solicitacao..." />
-                <marker date="1436820378388" expanded="true" signature="4046:4083" placeholder="SELECT * FRO..solicitante..." />
-                <marker date="1436820378388" expanded="true" signature="6720:6814" placeholder="SELECT * FRO..historico_solicitacao..." />
+                <marker date="1436899600315" expanded="true" signature="39:58" placeholder="..." />
+                <marker date="1436899600315" expanded="true" signature="2265:2370" placeholder="INSERT INTO ..." />
+                <marker date="1436899600315" expanded="true" signature="3751:3786" placeholder="SELECT * FRO..solicitacao..." />
+                <marker date="1436899600315" expanded="true" signature="4212:4330" placeholder="SELECT statu..historico_solicitacao..." />
+                <marker date="1436899600315" expanded="true" signature="5157:5194" placeholder="SELECT * FRO..solicitante..." />
+                <marker date="1436899600315" expanded="true" signature="7575:7669" placeholder="SELECT * FRO..historico_solicitacao..." />
               </folding>
             </state>
           </provider>
@@ -76,19 +77,10 @@
       <file leaf-file-name="cadastrar_solicitacao.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solicitacoes/cadastrar_solicitacao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.648149" vertical-offset="3290" max-vertical-offset="4131">
-              <caret line="221" column="39" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="39" />
+            <state vertical-scroll-proportion="-4.8076925" vertical-offset="2816" max-vertical-offset="3536">
+              <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="5" />
               <folding>
-                <element signature="e#2942#3304#0#PHP" expanded="true" />
-                <marker date="1436812502099" expanded="true" signature="3830:3926" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4099:4130" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4099:4136" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4099:4371" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4397:4650" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4448:4474" placeholder="SELECT id FR..solicitante..." />
-                <marker date="1436812502099" expanded="true" signature="4502:4518" placeholder="/*LUCAS SAND..." />
-                <marker date="1436812502099" expanded="true" signature="4668:4829" placeholder="INSERT INTO ..." />
-                <marker date="1436812502099" expanded="true" signature="4775:4801" placeholder="SELECT id FR..solicitacao..." />
+                <element signature="e#1384#1746#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +89,8 @@
       <file leaf-file-name="acompanhar_solicitacao.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solicitacoes/acompanhar_solicitacao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.769231" vertical-offset="985" max-vertical-offset="2227">
-              <caret line="79" column="49" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="49" />
+            <state vertical-scroll-proportion="-10.384615" vertical-offset="818" max-vertical-offset="2227">
+              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding>
                 <marker date="1436380206764" expanded="true" signature="2027:2071" placeholder="SELECT * FRO..Solicitacoes..." />
                 <marker date="1436380206764" expanded="true" signature="2027:2072" placeholder="SELECT * FRO..Solicitacoes..." />
@@ -115,7 +107,7 @@
       <file leaf-file-name="enviar_email.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/enviar_email.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="3179">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="306" max-vertical-offset="3179">
               <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <marker date="1435173767806" expanded="true" signature="1435:1700" placeholder="..." />
@@ -181,19 +173,21 @@
         <option value="$PROJECT_DIR$/solicitacoes/connect_close.php" />
         <option value="$PROJECT_DIR$/solicitacoes/connect.php" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/solicitacoes/index.php" />
         <option value="$PROJECT_DIR$/solicitacoes/acompanhamento.php" />
         <option value="$PROJECT_DIR$/solicitacoes/acompanhar_solicitacao.php" />
         <option value="$PROJECT_DIR$/solicitacoes/cadastrar_solicitacao.php" />
-        <option value="$PROJECT_DIR$/solicitacoes/admin/index.php" />
+        <option value="$PROJECT_DIR$/solicitacoes/index.php" />
         <option value="$PROJECT_DIR$/solicitacoes/admin/editar_solicitacao.php" />
+        <option value="$PROJECT_DIR$/solicitacoes/admin/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1600" />
-    <option name="height" value="870" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -362,15 +356,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -389,28 +383,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1600" height="870" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15214646" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15151516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1919192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.191875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03937008" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.038560413" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40616965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -436,13 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/head-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.076923" vertical-offset="875" max-vertical-offset="6120">
-          <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yt-widget-last-videos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="561">
@@ -748,30 +735,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/enviar_email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="3179">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <marker date="1435173767806" expanded="true" signature="1435:1700" placeholder="..." />
-            <marker date="1435173767806" expanded="true" signature="1734:1994" placeholder="..." />
-            <marker date="1435173767806" expanded="true" signature="5497:5687" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solicitacoes/acompanhamento.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8165414" vertical-offset="647" max-vertical-offset="1734">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solicitacoes/cadastrar_solicitacao_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4493392" vertical-offset="306" max-vertical-offset="1972">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solicitacoes/acompanhar_solicitacao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.769231" vertical-offset="985" max-vertical-offset="2227">
-          <caret line="79" column="49" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="49" />
+        <state vertical-scroll-proportion="-10.384615" vertical-offset="818" max-vertical-offset="2227">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding>
             <marker date="1436380206764" expanded="true" signature="2027:2071" placeholder="SELECT * FRO..Solicitacoes..." />
             <marker date="1436380206764" expanded="true" signature="2027:2072" placeholder="SELECT * FRO..Solicitacoes..." />
@@ -786,54 +768,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solicitacoes/cadastrar_solicitacao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.648149" vertical-offset="3290" max-vertical-offset="4131">
-          <caret line="221" column="39" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="39" />
+        <state vertical-scroll-proportion="-4.8076925" vertical-offset="2816" max-vertical-offset="3536">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="5" />
           <folding>
-            <element signature="e#2942#3304#0#PHP" expanded="true" />
-            <marker date="1436812502099" expanded="true" signature="3830:3926" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4099:4130" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4099:4136" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4099:4371" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4397:4650" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4448:4474" placeholder="SELECT id FR..solicitante..." />
-            <marker date="1436812502099" expanded="true" signature="4502:4518" placeholder="/*LUCAS SAND..." />
-            <marker date="1436812502099" expanded="true" signature="4668:4829" placeholder="INSERT INTO ..." />
-            <marker date="1436812502099" expanded="true" signature="4775:4801" placeholder="SELECT id FR..solicitacao..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solicitacoes/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333" vertical-offset="3987" max-vertical-offset="4913">
-          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solicitacoes/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.759259" vertical-offset="1462" max-vertical-offset="2431">
-          <caret line="117" column="9" selection-start-line="117" selection-start-column="9" selection-end-line="117" selection-end-column="9" />
-          <folding>
-            <marker date="1436814518284" expanded="true" signature="2356:2446" placeholder="SELECT * FRO..solicitacao..." />
-            <marker date="1436814518284" expanded="true" signature="2356:2536" placeholder="SELECT * FRO..solicitacao..." />
-            <marker date="1436814518284" expanded="true" signature="2555:2645" placeholder="SELECT * FRO..solicitacao..." />
-            <marker date="1436814518284" expanded="true" signature="3522:3625" placeholder="SELECT statu..historico_solicitacao..." />
-            <marker date="1436814518284" expanded="true" signature="4156:4552" placeholder="..." />
+            <element signature="e#1384#1746#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solicitacoes/admin/editar_solicitacao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59097743" vertical-offset="2327" max-vertical-offset="3944">
-          <caret line="160" column="57" selection-start-line="160" selection-start-column="57" selection-end-line="160" selection-end-column="57" />
+        <state vertical-scroll-proportion="-2.1851852" vertical-offset="4387" max-vertical-offset="5525">
+          <caret line="265" column="45" selection-start-line="265" selection-start-column="24" selection-end-line="265" selection-end-column="45" />
           <folding>
-            <marker date="1436820378388" expanded="true" signature="2597:2632" placeholder="SELECT * FRO..solicitacao..." />
-            <marker date="1436820378388" expanded="true" signature="3110:3228" placeholder="SELECT statu..historico_solicitacao..." />
-            <marker date="1436820378388" expanded="true" signature="4046:4083" placeholder="SELECT * FRO..solicitante..." />
-            <marker date="1436820378388" expanded="true" signature="6720:6814" placeholder="SELECT * FRO..historico_solicitacao..." />
+            <marker date="1436899600315" expanded="true" signature="39:58" placeholder="..." />
+            <marker date="1436899600315" expanded="true" signature="2265:2370" placeholder="INSERT INTO ..." />
+            <marker date="1436899600315" expanded="true" signature="3751:3786" placeholder="SELECT * FRO..solicitacao..." />
+            <marker date="1436899600315" expanded="true" signature="4212:4330" placeholder="SELECT statu..historico_solicitacao..." />
+            <marker date="1436899600315" expanded="true" signature="5157:5194" placeholder="SELECT * FRO..solicitante..." />
+            <marker date="1436899600315" expanded="true" signature="7575:7669" placeholder="SELECT * FRO..historico_solicitacao..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviar_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="3179">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1435173767806" expanded="true" signature="1435:1700" placeholder="..." />
+            <marker date="1435173767806" expanded="true" signature="1734:1994" placeholder="..." />
+            <marker date="1435173767806" expanded="true" signature="5497:5687" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solicitacoes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7088609" vertical-offset="2965" max-vertical-offset="4913">
+          <caret line="187" column="91" selection-start-line="186" selection-start-column="8" selection-end-line="187" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solicitacoes/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18223584" vertical-offset="1173" max-vertical-offset="2431">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+          <folding>
+            <marker date="1436906541883" expanded="true" signature="2356:2446" placeholder="SELECT * FRO..solicitacao..." />
+            <marker date="1436906541883" expanded="true" signature="2356:2536" placeholder="SELECT * FRO..solicitacao..." />
+            <marker date="1436906541883" expanded="true" signature="2555:2645" placeholder="SELECT * FRO..solicitacao..." />
+            <marker date="1436906541883" expanded="true" signature="3522:3625" placeholder="SELECT statu..historico_solicitacao..." />
           </folding>
         </state>
       </provider>
