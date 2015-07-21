@@ -20,10 +20,19 @@ $conn->close();
 
 
 //PROCEDURAL
+
 $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "solicitacoes";
+
+//localweb
+/*
+$servername = "179.188.16.35";
+$username = "camarasjc23";
+$password = "b18di2wd";
+$dbname = "camarasjc23";
+*/
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,  $dbname);
 

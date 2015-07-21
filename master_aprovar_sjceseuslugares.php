@@ -92,7 +92,8 @@ include("top-menu.php");?>
 </div>
 -->
 
-<div class="col-md-6  ">
+
+<div class="">
     <div class="conteudo">
         <?php if (!$semTitulo) { ?><h1 class="titulo"><img
                 src="imgs/<?= (($titulo) ? $titulo : $pagina); ?>/titulo.png"
