@@ -33,6 +33,9 @@ define("USER", "root"); 			// The database username.
 define("PASSWORD", ""); 	// The database password. 
 define("DATABASE", "solicitacoes");             // The database name.
 
+
+
+
 /**
  * Who can register and what the default role will be
  * Values for who can register under a standard setup can be:

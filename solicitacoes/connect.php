@@ -27,12 +27,12 @@ $password = "";
 $dbname = "solicitacoes";
 
 //localweb
-/*
+
 $servername = "179.188.16.35";
 $username = "camarasjc23";
 $password = "b18di2wd";
 $dbname = "camarasjc23";
-*/
+
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,  $dbname);
 
@@ -40,7 +40,7 @@ $conn = mysqli_connect($servername, $username, $password,  $dbname);
 if (!$conn) {
     die("Falha na conexão com o banco de Dados: " . mysqli_connect_error());
 }
-echo "Connected successfully";
+//echo "Connected successfully";
 
 
 
