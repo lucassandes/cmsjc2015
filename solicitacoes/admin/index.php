@@ -31,15 +31,39 @@ if (login_check($mysqli) == true) {
     <head>
         <title>Secure Login: Log In</title>
         <link rel="stylesheet" href="styles/main.css" />
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="css/login.css" rel="stylesheet">
+
         <script type="text/JavaScript" src="js/sha512.js"></script> 
         <script type="text/JavaScript" src="js/forms.js"></script> 
     </head>
     <body>
-        <?php
-        if (isset($_GET['error'])) {
-            echo '<p class="error">Error Logging In!</p>';
-        }
-        ?> 
+
+
+        <div class="container">
+            <?php
+            if (isset($_GET['error'])) {
+                echo '<div class="alert alert-danger" role="alert"><p class="error">Erro ao efetuar Login</p></div>';
+            }
+            ?>
+            <form class="form-signin"  action="includes/process_login.php" method="post" name="login_form">
+                <h2 class="form-signin-heading">Por favor, faça login</h2>
+                <label for="inputEmail" class="sr-only">Email address</label>
+                <input type="email" id="inputEmail" class="form-control" placeholder="email@dominio.com"  name="email" required autofocus>
+                <label for="inputPassword" class="sr-only">Senha</label>
+                <input type="password"  id="password" name="password"  class="form-control" placeholder="Password" required>
+                <input type="button"
+                       value="Login"
+                       class="btn btn-lg btn-primary btn-block"
+                       onclick="formhash(this.form, this.form.password);" />
+                <!--<button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>-->
+            </form>
+
+        </div> <!-- /container -->
+        <?php /*
         <form action="includes/process_login.php" method="post" name="login_form"> 			
             Email: <input type="text" name="email" />
             Password: <input type="password" 
@@ -51,6 +75,6 @@ if (login_check($mysqli) == true) {
         </form>
         <p>If you don't have a login, please <a href="register.php">register</a></p>
         <p>If you are done, please <a href="includes/logout.php">log out</a>.</p>
-        <p>You are currently logged <?php echo $logged ?>.</p>
+        <p>You are currently logged <?php echo $logged ?>.</p> */ ?>
     </body>
 </html>
