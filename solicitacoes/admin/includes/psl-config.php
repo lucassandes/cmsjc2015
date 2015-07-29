@@ -33,7 +33,6 @@ define("USER", "root"); 			// The database username.
 define("PASSWORD", ""); 	// The database password. 
 define("DATABASE", "solicitacoes");             // The database name. */
 
-
 define("HOST", "179.188.16.35"); 			// The host you want to connect to.
 define("USER", "camarasjc23"); 			// The database username.
 define("PASSWORD", "b18di2wd"); 	// The database password.

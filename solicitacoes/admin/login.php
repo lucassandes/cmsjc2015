@@ -1,1 +1,0 @@
-<?php//só pode ter login da câmaraif(($_SERVER["REMOTE_ADDR"] != "200.174.132.56" && $_SERVER["REMOTE_ADDR"] != "200.136.177.120"&& $_SERVER["REMOTE_ADDR"] != "189.110.15.29")){	header("Location: " . $oAdministradorLogado->WebURLAdmin . "login.php?u=" . urlencode($_SERVER["REQUEST_URI"]));    exit();}
